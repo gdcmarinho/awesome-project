@@ -16,6 +16,11 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [SSL Server Tes](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
+* [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
+* [Grader](https://website.grader.com/) - Avaliação de site
+* [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
+* [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
+* [W3.org](https://validator.w3.org/) - Validar HTML
 
 ## Freebies
 
@@ -23,3 +28,5 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
 * [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
 * [Codester Freebies](https://www.codester.com/free/) - Temas e scripts gratuitos semanalmente
+* [Freebbble](http://freebbble.com/) - Freebies do Dribbble
+* [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
