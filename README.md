@@ -30,6 +30,7 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [Codester Freebies](https://www.codester.com/free/) - Temas e scripts gratuitos semanalmente
 * [Freebbble](http://freebbble.com/) - Freebies do Dribbble
 * [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
+* [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
 
 ## Open Source
 
