@@ -28,7 +28,7 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
 * [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
 * [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
-* [Codester Freebies](https://www.codester.com/free/) - Temas e scripts gratuitos semanalmente
+* [Codester Freebies](https://www.codester.com/free/) - Temas e projetos de codificações grátis semanalmente
 * [Freebbble](http://freebbble.com/) - Freebies do Dribbble
 * [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
