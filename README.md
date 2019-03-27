@@ -12,9 +12,10 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 ## Ferramentas de desenvolvimento
 
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
+* [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
-* [SSL Server Tes](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
+* [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
 * [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
 * [Grader](https://website.grader.com/) - Avaliação de site
