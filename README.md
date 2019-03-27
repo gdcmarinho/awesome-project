@@ -11,8 +11,6 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 
 ## Ferramentas de desenvolvimento
 
-* [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
-* [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
@@ -39,3 +37,7 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
+
+## IDE Cloud
+* [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
+* [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
