@@ -41,3 +41,9 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 ## IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
+
+## Hosting
+* [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
+* [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
+* [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
+* [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
