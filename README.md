@@ -50,3 +50,4 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 * [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
+* [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
