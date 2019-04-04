@@ -23,6 +23,10 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
 * [W3.org](https://validator.w3.org/) - Validar HTML
 
+## Gerenciamento de projetos
+
+* [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
+
 ## Freebies
 
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
