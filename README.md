@@ -26,6 +26,8 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 ## Gerenciamento de projetos
 
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
+* [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
+* [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 
 ## Freebies
 
