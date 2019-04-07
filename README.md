@@ -1,7 +1,7 @@
 # Meus-links
-Apunhado de links úteis para o desenvolvimento de projetos de programação e design
+📎 Apunhado de links úteis para o desenvolvimento de projetos de programação e design
 
-## Banco de imagens gratuitas
+## 🖼 Banco de imagens gratuitas
 
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
 * [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas
@@ -11,7 +11,7 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
 
-## Ferramentas de desenvolvimento
+## 🔧 Ferramentas de desenvolvimento
 
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
@@ -23,14 +23,14 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
 * [W3.org](https://validator.w3.org/) - Validar HTML
 
-## Gerenciamento de projetos
+## 🗂 Gerenciamento de projetos
 
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 * [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 
-## Freebies
+## 🆓 Freebies
 
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
 * [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
@@ -40,18 +40,18 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
 
-## Open Source
+## © Open Source
 
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
 
-## IDE Cloud
+## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 
-## Hosting
+## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
 * [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
