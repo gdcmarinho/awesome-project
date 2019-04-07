@@ -1,4 +1,4 @@
-# Meus-links
+# Links úteis
 📎 Apunhado de links úteis para o desenvolvimento de projetos de programação e design
 
 ## 🖼 Banco de imagens gratuitas
