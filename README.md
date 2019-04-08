@@ -29,6 +29,7 @@
 * [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
+* [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
 
 ## 🆓 Freebies
 
