@@ -48,6 +48,10 @@
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
 
+## 🖌 Design Front-end
+*[Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
+*[Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos 
+
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
