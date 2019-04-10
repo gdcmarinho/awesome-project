@@ -56,6 +56,12 @@
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 
+## 👥 Aumentando o network
+
+*[Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
+*[Dev](https://dev.to/) - Rede social para desenvolvedores
+*[Github Community Forum](https://github.community/) - Comunidade de desenvolvedores do Github
+
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
