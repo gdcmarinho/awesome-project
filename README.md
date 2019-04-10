@@ -58,9 +58,9 @@
 
 ## 👥 Aumentando o network
 
-*[Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
-*[Dev](https://dev.to/) - Rede social para desenvolvedores
-*[Github Community Forum](https://github.community/) - Comunidade de desenvolvedores do Github
+* [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
+* [Dev](https://dev.to/) - Rede social para desenvolvedores
+* [Github Community Forum](https://github.community/) - Comunidade de desenvolvedores do Github
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
