@@ -2,7 +2,6 @@
 📎 Apunhado de links úteis para o desenvolvimento de projetos de programação e design
 
 ## 🖼 Banco de imagens gratuitas
-
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
 * [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas
 * [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
@@ -12,7 +11,6 @@
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
 
 ## 🔧 Ferramentas de desenvolvimento
-
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
@@ -24,7 +22,6 @@
 * [W3.org](https://validator.w3.org/) - Validar HTML
 
 ## 🗂 Gerenciamento de projetos
-
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 * [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
@@ -32,7 +29,6 @@
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
 
 ## 🆓 Freebies
-
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
 * [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
 * [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
@@ -42,7 +38,6 @@
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
 
 ## © Open Source
-
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
@@ -57,10 +52,15 @@
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 
 ## 👥 Aumentando o network
-
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 * [Dev](https://dev.to/) - Rede social para desenvolvedores
 * [Github Community Forum](https://github.community/) - Comunidade de desenvolvedores do Github
+
+## 👨‍🏫 Estudos 
+* [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação 
+* [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
+* [Udemy](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos 
+* [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
