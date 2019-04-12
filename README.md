@@ -59,7 +59,8 @@
 ## 👨‍🏫 Estudos 
 * [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação 
 * [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
-* [Udemy](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos 
+* [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos
+* [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
 * [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
 
 ## 🏨 Hosting
