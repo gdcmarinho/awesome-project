@@ -69,7 +69,7 @@
 * [SQLMap](http://sqlmap.org/)- ferramenta de teste de penetração open source que automatiza injeção de SQL
 * [Nmap](https://nmap.org/) - Melhor scaner de portas de rede
 * [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes, bem completo .
-* [Hhtrack](http://www.httrack.com/) - excelente browser utility
-* [Beff-Projec](http://www.httrack.com/) - Framework de exploração de browser, bem interessante e atualizado . 
+* [Httrack](http://www.httrack.com/) - excelente browser utility
+* [Beef-Project](https://beefproject.com/) - Framework de exploração de browser, bem interessante e atualizado . 
 
 
