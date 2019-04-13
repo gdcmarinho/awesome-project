@@ -10,6 +10,7 @@
 * [Flickr](https://flickr.com/) - Rede social de fotógrafos
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
+* [Imgur](https://imgur.com/) - Plataforma com muitas imagens organicas gratuitas
 
 ## 🔧 Ferramentas de desenvolvimento
 
@@ -66,4 +67,9 @@
 
 ## ![Cadeado logo](https://i.imgur.com/5wk2L7s.png) Pentest
 * [SQLMap](http://sqlmap.org/)- ferramenta de teste de penetração open source que automatiza injeção de SQL
+* [Nmap](https://nmap.org/) - Melhor scaner de portas de rede
+* [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes, bem completo .
+* [Hhtrack](http://www.httrack.com/) - excelente browser utility
+* [Beff-Projec](http://www.httrack.com/) - Framework de exploração de browser, bem interessante e atualizado . 
+
 
