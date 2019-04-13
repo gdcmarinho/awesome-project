@@ -63,3 +63,7 @@
 * [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
+
+## ![Cadeado logo](https://i.imgur.com/uj7CRkZ.png)
+* [SQLMap](http://sqlmap.org/)- ferramenta de teste de penetração open source que automatiza injeção de SQL
+
