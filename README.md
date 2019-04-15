@@ -27,6 +27,7 @@
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
+* [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS) 
 
 ## 🆓 Freebies
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
