@@ -9,6 +9,7 @@
 * [Flickr](https://flickr.com/) - Rede social de fotógrafos
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
+* [Imgur](https://imgur.com/) - Plataforma com muitas imagens organicas gratuitas
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -71,3 +72,12 @@
 * [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
+
+## ![Cadeado logo](https://i.imgur.com/5wk2L7s.png) Pentest
+* [SQLMap](http://sqlmap.org/)- ferramenta de teste de penetração open source que automatiza injeção de SQL
+* [Nmap](https://nmap.org/) - Melhor scaner de portas de rede
+* [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes, bem completo .
+* [Httrack](http://www.httrack.com/) - excelente browser utility
+* [Beef-Project](https://beefproject.com/) - Framework de exploração de browser, bem interessante e atualizado . 
+
+
