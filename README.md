@@ -64,6 +64,7 @@
 * [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos
 * [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
 * [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
+* [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
