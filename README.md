@@ -9,7 +9,8 @@
 * [Flickr](https://flickr.com/) - Rede social de fotógrafos
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
-* [Imgur](https://imgur.com/) - Plataforma com milhões de imagens 
+* [Imgur](https://imgur.com/) - Plataforma com milhões de imagens
+* [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
