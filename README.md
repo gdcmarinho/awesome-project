@@ -49,6 +49,7 @@
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos 
+* [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
