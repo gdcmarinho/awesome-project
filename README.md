@@ -77,7 +77,7 @@
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
 
 ## 🔓 Pentest
-* [SQLMap](http://sqlmap.org/)- Ferramenta de teste de penetração open source que automatiza injeção de SQL
+* [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 * [NMap](https://nmap.org/) - Scanner de portas de rede
 * [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
 * [HTTRack](http://www.httrack.com/) - Browser utility
