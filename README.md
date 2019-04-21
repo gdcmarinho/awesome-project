@@ -45,6 +45,7 @@
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
+* [Swift](https://www.apple.com/br/swift/) - Linguagem de programação da Apple
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
