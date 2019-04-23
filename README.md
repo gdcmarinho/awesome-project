@@ -71,6 +71,7 @@
 * [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
 * [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
 * [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
+* [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
