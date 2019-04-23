@@ -63,6 +63,7 @@
 * [Dev](https://dev.to/) - Rede social para desenvolvedores
 * [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
+* [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anonimos
 
 ## 👨‍🏫 Estudos 
 * [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação 
@@ -72,6 +73,7 @@
 * [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
 * [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
 * [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
+* [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
@@ -87,5 +89,3 @@
 * [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
 * [HTTRack](http://www.httrack.com/) - Browser utility
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
-
-
