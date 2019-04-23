@@ -14,6 +14,7 @@
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
+* [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
@@ -55,6 +56,7 @@
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
+* [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
 
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
