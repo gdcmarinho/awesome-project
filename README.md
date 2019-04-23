@@ -59,7 +59,8 @@
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 * [Dev](https://dev.to/) - Rede social para desenvolvedores
-* [Github Community Forum](https://github.community/) - Comunidade de desenvolvedores do Github
+* [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
+* [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 
 ## 👨‍🏫 Estudos 
 * [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação 
@@ -68,7 +69,6 @@
 * [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
 * [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
 * [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
-* [Dromeda.org](https://www.dromeda.org) - Cursos gratuitos e pagos de tecnologia
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
