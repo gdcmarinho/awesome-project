@@ -63,7 +63,7 @@
 * [Dev](https://dev.to/) - Rede social para desenvolvedores
 * [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
-* [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anonimos
+* [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 
 ## 👨‍🏫 Estudos 
 * [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação 
