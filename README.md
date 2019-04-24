@@ -100,3 +100,4 @@
 * [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
 * [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end e etc.
 * [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
