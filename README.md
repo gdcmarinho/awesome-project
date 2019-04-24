@@ -47,6 +47,7 @@
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
 * [Swift](https://www.apple.com/br/swift/) - Linguagem de programação da Apple
+* [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web  
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
@@ -74,6 +75,7 @@
 * [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
 * [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
 * [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
+* [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
@@ -89,3 +91,12 @@
 * [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
 * [HTTRack](http://www.httrack.com/) - Browser utility
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
+
+## 🎥 Canais no YouTube
+* [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial que irão dominar o mundo (a revolução começa com ele)
+* [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
+* [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
+* [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
+* [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
+* [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end e etc.
+* [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
