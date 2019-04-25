@@ -13,6 +13,7 @@
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
 
 ## 🔧 Ferramentas de desenvolvimento
+* [Devmind.io](https://devmind.io/) - Editor de Código Online 
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
