@@ -54,6 +54,7 @@
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos 
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
+* [Invision](https://www.invisionapp.com/) - Software de design para projetos
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
@@ -76,6 +77,7 @@
 * [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
 * [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
 * [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
+* [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
 
 ## 🏨 Hosting
@@ -85,6 +87,7 @@
 * [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
+* [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
