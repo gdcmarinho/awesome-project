@@ -32,6 +32,7 @@
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
 * [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS) 
+* [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
 
 ## 🆓 Freebies
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
