@@ -51,6 +51,10 @@
 * [Swift](https://www.apple.com/br/swift/) - Linguagem de programação da Apple
 * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web  
 * [Xamarin](https://github.com/xamarin) - Desenvolvimento de aplicativos
+* [Linux](https://www.linuxfoundation.org/) - Kernel de um sistema operativo
+* [Atom](https://atom.io/) - Editor de texto
+* [Se3Me Solutions](https://se3me.com/) - Startup de software
+* [p5.js](https://p5js.org/) - Framework de Javascript
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
