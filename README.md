@@ -50,6 +50,7 @@
 * [Bootstrap](https://getbootstrap.com/) - Framework web
 * [Swift](https://www.apple.com/br/swift/) - Linguagem de programação da Apple
 * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web  
+* [Xamarin](https://github.com/xamarin) - Desenvolvimento de aplicativos
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
