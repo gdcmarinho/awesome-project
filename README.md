@@ -43,18 +43,26 @@
 * [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
 
+## 📝 IDEs e editores de código
+* [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
+* [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
+* [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
+* [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
+* [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz 
+* [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
+* [Brackets](http://brackets.io/) - Editor de código da Adobe
+* [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
+* [Atom](https://atom.io/) - Editor de código do GitHub
+
 ## © Open Source
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
-* [Swift](https://www.apple.com/br/swift/) - Linguagem de programação da Apple
-* [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web  
-* [Xamarin](https://github.com/xamarin) - Desenvolvimento de aplicativos
+* [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web
 * [Linux](https://www.linuxfoundation.org/) - Kernel de um sistema operativo
-* [Atom](https://atom.io/) - Editor de texto
 * [Se3Me Solutions](https://se3me.com/) - Startup de software
-* [p5.js](https://p5js.org/) - Framework de Javascript
+* [p5.js](https://p5js.org/) - Framework para iniciantes em JavaScript
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
@@ -66,6 +74,12 @@
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
+
+## 🔤 Linguagens de programação
+* [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
+* [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Constante evolução e crescimento no mercado
+* [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
