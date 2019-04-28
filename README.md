@@ -24,6 +24,7 @@
 * [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
 * [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
 * [W3.org](https://validator.w3.org/) - Validar HTML
+* [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -42,6 +43,7 @@
 * [Freebbble](http://freebbble.com/) - Freebies do Dribbble
 * [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
+* [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
 
 ## 📝 IDEs e editores de código
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
@@ -100,7 +102,8 @@
 * [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
 * [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
-* [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduziadas em vídeo com opções de teste durante a aula.
+* [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduziadas em vídeo com opções de teste durante a aula
+* [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
@@ -110,6 +113,7 @@
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
 * [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
+* [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas 
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
@@ -124,6 +128,6 @@
 * [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
 * [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
-* [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end e etc.
+* [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end e etc
 * [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
