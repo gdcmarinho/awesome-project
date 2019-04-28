@@ -99,6 +99,8 @@
 * [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
 * [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
+* [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
+* [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduziadas em vídeo com opções de teste durante a aula.
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
