@@ -62,9 +62,7 @@
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
 * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web
-* [Linux](https://www.linuxfoundation.org/) - Kernel de um sistema operativo
-* [Se3Me Solutions](https://se3me.com/) - Startup de software
-* [p5.js](https://p5js.org/) - Framework para iniciantes em JavaScript
+* [Linux](https://www.linuxfoundation.org/) - Melhor sistema operacional do mundo da tecnologia
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
