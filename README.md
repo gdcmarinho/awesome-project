@@ -69,6 +69,7 @@
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos 
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
+* [Canva](https://www.canva.com/) - Ferramenta de design online
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
