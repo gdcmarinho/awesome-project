@@ -110,6 +110,7 @@
 * [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduziadas em vídeo com opções de teste durante a aula
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 * [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
+* [SoroLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular 
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
