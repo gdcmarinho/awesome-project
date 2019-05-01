@@ -13,7 +13,6 @@
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
 
 ## 🔧 Ferramentas de desenvolvimento
-* [Devmind.io](https://devmind.io/) - Editor de Código Online 
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
@@ -27,14 +26,14 @@
 * [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
 
 ## 🗂 Gerenciamento de projetos
-* [Jira](https://www.atlassian.com/software/jira) - Um dos melhores gerenciadores de projetos
-* [Youtrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
+* [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
 * [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
-* [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS) 
+* [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
+* [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
 
 ## 🆓 Freebies
@@ -48,7 +47,6 @@
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
 
 ## 📝 IDEs e editores de código
-* [PHPStorm](https://www.jetbrains.com/phpstorm/) - Considerado por muitos a melhor IDE PHP
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
 * [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
@@ -58,15 +56,16 @@
 * [Brackets](http://brackets.io/) - Editor de código da Adobe
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 * [Atom](https://atom.io/) - Editor de código do GitHub
+* [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 
 ## © Open Source
-* [Laravel](https://laravel.com/) - O Framework PHP com a melhor comunidade (e melhor grupo no telegram [@laravelbrasil](https://telegram.me/laravelbr))
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
 * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web
 * [Linux](https://www.linuxfoundation.org/) - Melhor sistema operacional
+* [Laravel](https://laravel.com/) - Framework PHP para sistemas MVC
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
@@ -79,6 +78,7 @@
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
+* [Devmind.io](https://devmind.io/) - Editor de código online 
 
 ## 🔤 Linguagens de programação
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
@@ -129,7 +129,6 @@
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 
 ## 🎥 Canais no YouTube
-* [EspecializaTI](https://www.youtube.com/user/especializati) - Contém muitos cursos gratuitos e realmente úteis 
 * [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial que irão dominar o mundo (a revolução começa com ele)
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
 * [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
@@ -138,3 +137,4 @@
 * [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end e etc
 * [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
+* [EspecializaTI](https://www.youtube.com/user/especializati) - Cursos gratuitos sobre PHP, Laravel, Linux e HTML+CSS
