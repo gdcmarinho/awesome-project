@@ -32,6 +32,7 @@
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
+* [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
 * [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
