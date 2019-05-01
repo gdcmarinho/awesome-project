@@ -27,6 +27,8 @@
 * [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
 
 ## 🗂 Gerenciamento de projetos
+* [Jira](https://www.atlassian.com/software/jira) - Um dos melhores gerenciadores de projetos
+* [Youtrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 * [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
@@ -46,6 +48,7 @@
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
 
 ## 📝 IDEs e editores de código
+* [PHPStorm](https://www.jetbrains.com/phpstorm/) - Considerado por muitos a melhor IDE PHP
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
 * [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
@@ -57,6 +60,7 @@
 * [Atom](https://atom.io/) - Editor de código do GitHub
 
 ## © Open Source
+* [Laravel](https://laravel.com/) - O Framework PHP com a melhor comunidade (e melhor grupo no telegram [@laravelbrasil](https://telegram.me/laravelbr))
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
@@ -77,6 +81,7 @@
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
 
 ## 🔤 Linguagens de programação
+* [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Constante evolução e crescimento no mercado
@@ -124,6 +129,7 @@
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 
 ## 🎥 Canais no YouTube
+* [EspecializaTI](https://www.youtube.com/user/especializati) - Contém muitos cursos gratuitos e realmente úteis 
 * [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial que irão dominar o mundo (a revolução começa com ele)
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
 * [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
