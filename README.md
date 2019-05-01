@@ -13,7 +13,6 @@
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
 
 ## 🔧 Ferramentas de desenvolvimento
-* [Devmind.io](https://devmind.io/) - Editor de Código Online 
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
@@ -28,11 +27,13 @@
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
+* [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
 * [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
-* [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS) 
+* [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
+* [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
 
 ## 🆓 Freebies
@@ -55,6 +56,7 @@
 * [Brackets](http://brackets.io/) - Editor de código da Adobe
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 * [Atom](https://atom.io/) - Editor de código do GitHub
+* [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 
 ## © Open Source
 * [WordPress](https://wordpress.org/) - Criação de blogs
@@ -63,6 +65,7 @@
 * [Bootstrap](https://getbootstrap.com/) - Framework web
 * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web
 * [Linux](https://www.linuxfoundation.org/) - Melhor sistema operacional
+* [Laravel](https://laravel.com/) - Framework PHP para sistemas MVC
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
@@ -75,8 +78,10 @@
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
+* [Devmind.io](https://devmind.io/) - Editor de código online 
 
 ## 🔤 Linguagens de programação
+* [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Constante evolução e crescimento no mercado
@@ -132,3 +137,4 @@
 * [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end e etc
 * [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
+* [EspecializaTI](https://www.youtube.com/user/especializati) - Cursos gratuitos sobre PHP, Laravel, Linux e HTML+CSS
