@@ -62,7 +62,7 @@
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://getbootstrap.com/) - Framework web
 * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web
-* [Linux](https://www.linuxfoundation.org/) - Melhor sistema operacional do mundo da tecnologia
+* [Linux](https://www.linuxfoundation.org/) - Melhor sistema operacional
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
@@ -103,6 +103,7 @@
 * [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
 * [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduziadas em vídeo com opções de teste durante a aula
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
+* [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
