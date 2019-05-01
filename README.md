@@ -112,7 +112,8 @@
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
 * [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
-* [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas 
+* [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
+* [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
