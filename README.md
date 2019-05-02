@@ -111,6 +111,7 @@
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 * [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
 * [SoroLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
+* [Explain Shell](https://explainshell.com/) - Digite um comando e descubra sua função
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
