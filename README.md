@@ -26,6 +26,7 @@
 * [Web.dev](https://web.dev/) - Testar website (criado pela Google)
 * [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
 * [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
+* [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
