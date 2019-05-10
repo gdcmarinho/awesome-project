@@ -70,7 +70,7 @@
 * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web
 * [Linux](https://www.linuxfoundation.org/) - Melhor sistema operacional
 * [Laravel](https://laravel.com/) - Framework PHP para sistemas MVC
-* [Moodle](https://moodle.org/?lang=pt_br) - Plataforma de aprendizado mais usado do mundo
+* [Moodle](https://moodle.org/?lang=pt_br) - Plataforma de aprendizado mais usada do mundo
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
