@@ -117,9 +117,9 @@
 * [SoroLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
 * [Explain Shell](https://explainshell.com/) - Digite um comando e descubra sua função
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
-* [Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/) - Este livro é sobre Javascript, programação e maravilhas digitais
-* [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com git. sem complicação ;)
-* [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas.
+* [Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/) - Livro grátis sobre Javascript, programação e maravilhas digitais
+* [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
+* [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
