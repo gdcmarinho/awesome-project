@@ -27,6 +27,7 @@
 * [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
 * [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
 * [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
+* [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
