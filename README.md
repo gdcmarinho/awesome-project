@@ -92,6 +92,10 @@
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Constante evolução e crescimento no mercado
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
+* [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
+* [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
+* [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) 
+* [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
 
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
