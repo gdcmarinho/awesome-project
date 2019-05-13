@@ -96,7 +96,7 @@
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
 * [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) 
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
-
+* [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica 
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 * [Dev](https://dev.to/) - Rede social para desenvolvedores
