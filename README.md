@@ -138,6 +138,8 @@
 * [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
 * [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
 * [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
+* [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
+* [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
