@@ -135,10 +135,13 @@
 * [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 * [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
+* [DreamHost](https://www.dreamhost.com/) - Hospedagem de sites de alta disponibilidade
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
 * [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
 * [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
 * [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
+* [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
+* (One.com)[https://www.one.com/pt-BR/] - Serviços gerais digitais (incluindo hospedagem de sites)
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
 * [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
 
