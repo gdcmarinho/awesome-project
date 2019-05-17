@@ -11,7 +11,7 @@
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
 * [Imgur](https://imgur.com/) - Plataforma com milhões de imagens
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
-* [FlatIcon](https://www.flaticon.com) - Banco de ícones vetorias
+* [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
