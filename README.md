@@ -101,7 +101,8 @@
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
 * [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) 
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
-* [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica 
+* [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
+
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 * [Dev](https://dev.to/) - Rede social para desenvolvedores
@@ -143,7 +144,7 @@
 * [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
 * [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
 * [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
-* (One.com)[https://www.one.com/pt-BR/] - Serviços gerais digitais (incluindo hospedagem de sites)
+* [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites)
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
 * [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
 
