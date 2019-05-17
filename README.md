@@ -38,6 +38,7 @@
 * [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
 * [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
+* [Todoist] (https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
 * [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
