@@ -34,6 +34,7 @@
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções 
 * [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência 
 * [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
+* [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
