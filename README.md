@@ -96,6 +96,7 @@
 * [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
 * [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 * [Cruip](https://cruip.com/) - Recursos de templates
+* [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
 
 
 ## ☁ IDE Cloud
