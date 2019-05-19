@@ -14,6 +14,8 @@
 * [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
 * [unDraw](https://undraw.co/) - Ilustrações livres para usar
 * [Icons8](https://icons8.com.br/) - Ícones em diversos estilos
+* [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
+* [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
