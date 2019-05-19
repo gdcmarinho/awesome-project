@@ -89,6 +89,8 @@
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
 * [Canva](https://www.canva.com/) - Ferramenta de design online
 * [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
+* [FontPair](https://fontpair.co/) - Ferramenta para combinações de fontes
+* [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
