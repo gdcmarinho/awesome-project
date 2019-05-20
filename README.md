@@ -12,6 +12,10 @@
 * [Imgur](https://imgur.com/) - Plataforma com milhões de imagens
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
 * [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
+* [unDraw](https://undraw.co/) - Ilustrações livres para usar
+* [Icons8](https://icons8.com.br/) - Ícones em diversos estilos
+* [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
+* [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -89,6 +93,13 @@
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
 * [Canva](https://www.canva.com/) - Ferramenta de design online
 * [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
+* [FontPair](https://fontpair.co/) - Ferramenta para combinações de fontes
+* [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
+* [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
+* [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
+* [Cruip](https://cruip.com/) - Recursos de templates
+* [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
+
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
@@ -136,6 +147,12 @@
 * [Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/) - Livro grátis sobre Javascript, programação e maravilhas digitais
 * [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
 * [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
+* [Hackr.io](https://hackr.io/) - Documentações e cursos de inúmeras linguagens, frameworks e ferramentas.
+* [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
+* [Flexbox Froggy](http://flexboxfroggy.com/) - Ferramenta online para estudos de Flexbox (CSS)
+* [Grid Malven](http://grid.malven.co/) - Documentação interessante sobre Grid (CSS)
+* [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
+* [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens
 * [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
 
 ## 🏨 Hosting
