@@ -153,6 +153,7 @@
 * [Grid Malven](http://grid.malven.co/) - Documentação interessante sobre Grid (CSS)
 * [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
 * [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens
+* [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
