@@ -154,6 +154,7 @@
 * [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
 * [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens
 * [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
+* [CodeAcademy](https://www.codecademy.com/) - Academia digital de ensino sobre programação 
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
