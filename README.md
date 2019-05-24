@@ -119,6 +119,12 @@
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 
+## 📕 Guia de Estilo
+* [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
+* [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb
+* [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
+* [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
+
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 * [Dev](https://dev.to/) - Rede social para desenvolvedores
