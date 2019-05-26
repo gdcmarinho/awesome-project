@@ -162,6 +162,7 @@
 * [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
 * [CodeAcademy](https://www.codecademy.com/) - Academia digital de ensino sobre programação
 * [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
+* [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
