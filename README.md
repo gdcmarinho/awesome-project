@@ -163,6 +163,7 @@
 * [CodeAcademy](https://www.codecademy.com/) - Academia digital de ensino sobre programação
 * [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
 * [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados
+* [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing e etc...)
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
