@@ -39,6 +39,7 @@
 * [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência 
 * [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
 * [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
+* [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
