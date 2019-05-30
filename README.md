@@ -40,6 +40,7 @@
 * [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
 * [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
 * [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
+* [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -173,6 +174,7 @@
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
+* [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
 * [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 * [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
