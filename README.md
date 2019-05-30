@@ -40,6 +40,7 @@
 * [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
 * [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
 * [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
+* [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
