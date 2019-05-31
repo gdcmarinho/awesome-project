@@ -168,8 +168,8 @@
 * [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing e etc...)
 * [W3](https://www.w3schools.com/) - Conteúdos mais completos sobre HTML, CSS e JS
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
-* [TreinaDev](https://www.treinadev.com.br/) - é um programa gratuito de formação de devs da Campus Code
-* [TreinaWeb](https://www.treinaweb.com.br/) - Escola digital para desenvolvedores.
+* [TreinaDev](https://www.treinadev.com.br/) - Programa gratuito de formação de devs da Campus Code
+* [TreinaWeb](https://www.treinaweb.com.br/) - Escola digital para desenvolvedores
 
 
 ## 🏨 Hosting
