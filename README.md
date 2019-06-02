@@ -170,7 +170,7 @@
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
 * [TreinaDev](https://www.treinadev.com.br/) - Programa gratuito de formação de devs da Campus Code
 * [TreinaWeb](https://www.treinaweb.com.br/) - Escola digital para desenvolvedores
-
+* [Deep Learning Book](http://deeplearningbook.com.br) - Livro digital gratuito sobre aprendizado em deep learning
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
