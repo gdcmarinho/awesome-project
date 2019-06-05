@@ -76,7 +76,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
-* [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de Códigio para macOS
+* [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 
 ## © Open Source
 * [WordPress](https://wordpress.org/) - Criação de blogs
