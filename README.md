@@ -175,6 +175,7 @@
 * [Deep Learning Book](http://deeplearningbook.com.br) - Livro digital gratuito sobre aprendizado em deep learning
 
 ## 🏨 Hosting
+* [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
 * [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
@@ -192,7 +193,6 @@
 * [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
 * [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
 * [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
-* [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
