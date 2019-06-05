@@ -151,7 +151,7 @@
 * [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduziadas em vídeo com opções de teste durante a aula
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 * [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
-* [SoroLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
+* [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
 * [Explain Shell](https://explainshell.com/) - Digite um comando e descubra sua função
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
 * [Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/) - Livro grátis sobre Javascript, programação e maravilhas digitais
