@@ -147,7 +147,7 @@
 * [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
 * [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
-* [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduziadas em vídeo com opções de teste durante a aula
+* [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduzidas em vídeo com opções de teste durante a aula
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 * [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
 * [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
@@ -214,7 +214,7 @@
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) - Canal oficial da comunidade de desenvolvedores do Facebook
-* [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de Cursos de Tecnologia Gratuitos
+* [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de cursos de tecnologia gratuitos
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP  
