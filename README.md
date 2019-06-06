@@ -214,6 +214,7 @@
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) - Canal oficial da comunidade de desenvolvedores do Facebook
+* [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de Cursos de Tecnologia Gratuitos
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP  
