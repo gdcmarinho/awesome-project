@@ -104,7 +104,6 @@
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
 
-
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
@@ -215,6 +214,15 @@
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) - Canal oficial da comunidade de desenvolvedores do Facebook
+
+## 🎙 Podcasts
+* [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP  
+* [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
+* [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
+* [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
+* [DioCast](https://castbox.fm/app/castbox/player/id1323408) - Tecnologia geral do canal DioLinux
+* [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral
+* [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
