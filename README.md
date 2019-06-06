@@ -224,6 +224,7 @@
 * [DioCast](https://castbox.fm/app/castbox/player/id1323408) - Tecnologia geral do canal DioLinux
 * [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral
 * [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
+* [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
