@@ -35,13 +35,16 @@
 * [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist
 * [Memcached](https://memcached.org/) - Melhore o desempenho de seu website com cache
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome
-* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções 
-* [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência 
+* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções
+* [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
 * [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
 * [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
 * [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 * [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
+* [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
+* [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
+* [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJs
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -71,7 +74,7 @@
 * [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
 * [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
 * [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
-* [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz 
+* [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Brackets](http://brackets.io/) - Editor de código da Adobe
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
@@ -92,7 +95,7 @@
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
-* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos 
+* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
 * [Canva](https://www.canva.com/) - Ferramenta de design online
@@ -108,7 +111,7 @@
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
-* [Devmind.io](https://devmind.io/) - Editor de código online 
+* [Devmind.io](https://devmind.io/) - Editor de código online
 
 ## 🔤 Linguagens de programação
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
@@ -118,7 +121,7 @@
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
-* [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) 
+* [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 
@@ -135,8 +138,8 @@
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 
-## 👨‍🏫 Estudos 
-* [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação 
+## 👨‍🏫 Estudos
+* [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação
 * [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
 * [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos
 * [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
@@ -218,7 +221,7 @@
 * [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de cursos de tecnologia gratuitos
 
 ## 🎙 Podcasts
-* [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP  
+* [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
 * [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
 * [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
