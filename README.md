@@ -93,6 +93,7 @@
 * [Laravel](https://laravel.com/) - Framework PHP para sistemas MVC
 * [Moodle](https://moodle.org/?lang=pt_br) - Plataforma de aprendizado mais usada do mundo
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Framework PHP
+* [Magento 2](https://github.com/magento/magento2) - Plataforma de e-commerce mais difundida no mundo
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
