@@ -16,6 +16,7 @@
 * [Icons8](https://icons8.com.br/) - Ícones em diversos estilos
 * [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
 * [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides
+* [RealistShots](http://realisticshots.com/) - Banco de imagens de alta resolução
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -106,6 +107,8 @@
 * [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
+* [Marvel](https://marvelapp.com/) - Criação de projetos digitais online de apps e websites
+* [UI](http://collectui.com/) - Inspiração para interfaces e templates diária
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
@@ -176,6 +179,8 @@
 * [TreinaWeb](https://www.treinaweb.com.br/) - Escola digital para desenvolvedores
 * [Deep Learning Book](http://deeplearningbook.com.br) - Livro digital gratuito sobre aprendizado em deep learning
 * [Curso de React Básico](https://github.com/diogocezar/dctb-react-course) - Aprenda React criando um sistema que exibe todos os repositórios de um usuário ou empresa no GitHub
+* [Codenation](https://codenation.dev/) - Programa gratuito de formação de devs
+
 
 ## 🏨 Hosting
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
@@ -218,7 +223,11 @@
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) - Canal oficial da comunidade de desenvolvedores do Facebook
-* [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de cursos de tecnologia gratuitos
+* [Felipe Alves](https://www.youtube.com/channel/UCv6aZVQz8IHrhgemxZrNRmQ) - Canal do programador Felipe Alves
+* [Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ) - Canal de um programador interessante
+* [O Universo da Programação](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw) - Canal sobre o universo da programação
+* [Escola Front-end](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ) - Canal de cursos de tecnologia front-end gratuitos
+* [CFBCursos](https://www.youtube.com/user/canalfessorbruno) - Canal de cursos/aulas de informática que disponibiliza conteúdo de qualidade e gratuito
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
