@@ -58,6 +58,7 @@
 * [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
+* [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
 
 ## 🆓 Freebies
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
