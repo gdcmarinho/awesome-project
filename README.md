@@ -82,6 +82,7 @@
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains.
 
 ## © Open Source
 * [WordPress](https://wordpress.org/) - Criação de blogs
