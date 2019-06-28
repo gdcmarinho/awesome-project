@@ -177,6 +177,7 @@
 * [TreinaWeb](https://www.treinaweb.com.br/) - Escola digital para desenvolvedores
 * [Deep Learning Book](http://deeplearningbook.com.br) - Livro digital gratuito sobre aprendizado em deep learning
 * [Curso de React Básico](https://github.com/diogocezar/dctb-react-course) - Aprenda React criando um sistema que exibe todos os repositórios de um usuário ou empresa no GitHub
+* [Free Tech Books](https://www.freetechbooks.com) - Livros e ebooks grátis
 
 ## 🏨 Hosting
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
