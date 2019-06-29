@@ -16,7 +16,7 @@
 * [Icons8](https://icons8.com.br/) - Ícones em diversos estilos
 * [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
 * [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides
-* [PhotoBin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo 
+* [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo 
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
