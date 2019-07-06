@@ -46,6 +46,7 @@
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
 * [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJs
+* [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
