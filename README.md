@@ -126,6 +126,7 @@
 * [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
+* [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
 
 ## 📕 Guia de Estilo
 * [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
