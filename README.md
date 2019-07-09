@@ -46,7 +46,6 @@
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
 * [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJs
-* [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -182,7 +181,8 @@
 * [Curso de React Básico](https://github.com/diogocezar/dctb-react-course) - Aprenda React criando um sistema que exibe todos os repositórios de um usuário ou empresa no GitHub
 * [Free Tech Books](https://www.freetechbooks.com) - Livros e ebooks grátis sobre tecnologia
 * [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
-* [Casa do Código](https://www.casadocodigo.com.br/) - Livros sobre programação e tecnologias em geral 
+* [Casa do Código](https://www.casadocodigo.com.br/) - Livros sobre programação e tecnologias em geral
+* [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
 
 ## 🏨 Hosting
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
