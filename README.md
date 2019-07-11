@@ -47,6 +47,7 @@
 * [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
 * [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
 * [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
+* [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
