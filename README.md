@@ -45,8 +45,8 @@
 * [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
-* [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJs
-  * [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
+* [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
+* [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
