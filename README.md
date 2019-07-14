@@ -48,6 +48,9 @@
 * [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
 * [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
 * [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
+* [WordPress](https://wordpress.org/) - Criação de blogs
+* [Telegram](https://telegram.org/) - Mensageiro criptografado
+* [Joomla](https://www.joomla.org/) - CMS gratuita
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -85,17 +88,6 @@
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
-
-## © Open Source
-* [WordPress](https://wordpress.org/) - Criação de blogs
-* [Telegram](https://telegram.org/) - Mensageiro criptografado
-* [Joomla](https://www.joomla.org/) - CMS gratuita
-* [Bootstrap](https://getbootstrap.com/) - Framework web
-* [Mozilla](https://developer.mozilla.org/pt-BR/docs/Mozilla/projetos-do-mozilla-no-github) - Navegador web
-* [Linux](https://www.linuxfoundation.org/) - Melhor sistema operacional
-* [Laravel](https://laravel.com/) - Framework PHP para sistemas MVC
-* [Moodle](https://moodle.org/?lang=pt_br) - Plataforma de aprendizado mais usada do mundo
-* [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Framework PHP
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
