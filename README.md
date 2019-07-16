@@ -177,6 +177,7 @@
 * [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
 * [Casa do Código](https://www.casadocodigo.com.br/) - Livros sobre programação e tecnologias em geral
 * [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
+* [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
 
 ## 🏨 Hosting
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
