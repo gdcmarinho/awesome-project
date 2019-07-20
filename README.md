@@ -179,6 +179,7 @@
 * [Casa do Código](https://www.casadocodigo.com.br/) - Livros sobre programação e tecnologias em geral
 * [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
 * [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
+* [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
 
 ## 🏨 Hosting
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
