@@ -18,6 +18,8 @@
 * [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides
 * [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo 
 * [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas
+* [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
+* [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
