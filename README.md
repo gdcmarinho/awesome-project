@@ -55,6 +55,7 @@
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
+* [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
