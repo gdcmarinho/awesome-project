@@ -230,6 +230,7 @@
 * [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação 
 * [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
 * [Dromeda](https://www.youtube.com/channel/UCrrqnROcgKdUptmJb54xYCQ) - Canal sobre tecnologia e comunidade de desenvolvedores web
+* [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
