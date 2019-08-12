@@ -136,7 +136,7 @@
 
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
-* [Dev](https://dev.to/) - Rede social para desenvolvedores
+* [Dev.to](https://dev.to/) - Rede social para desenvolvedores
 * [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
