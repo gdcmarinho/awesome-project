@@ -81,6 +81,7 @@
 * [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
+* [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
 
 ## 📝 IDEs e editores de código
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
