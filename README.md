@@ -95,6 +95,7 @@
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
+* [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
