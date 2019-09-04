@@ -57,6 +57,7 @@
 * [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
 * [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
 * [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
+* [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento no VSCode
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
