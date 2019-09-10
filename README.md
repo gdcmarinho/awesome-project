@@ -57,7 +57,8 @@
 * [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
 * [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
 * [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
-* [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento 
+* [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
+* [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
