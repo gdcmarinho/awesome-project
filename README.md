@@ -60,6 +60,7 @@
 * [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web
+* [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
