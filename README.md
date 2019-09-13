@@ -114,6 +114,7 @@
 * [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
+* [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
