@@ -86,20 +86,20 @@
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
+* [htmlDESIGN](https://html.design/) - Templates (PSD) responsivos gratuitos
 
 ## 📝 IDEs e editores de código
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
 * [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
 * [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
-* [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
+* [Notepad++](https://notepad-plus-plus.org/) - Editor de código raiz
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Brackets](http://brackets.io/) - Editor de código da Adobe
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
-* [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
@@ -121,6 +121,7 @@
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
 * [Devmind.io](https://devmind.io/) - Editor de código online
+* [Gitpod](https://www.gitpod.io/) - IDE Online para o Github
 
 ## 🔤 Linguagens de programação
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
@@ -194,6 +195,8 @@
 * [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
 * [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
 * [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa
+* [Project Euler](https://projecteuler.net/) - Lista de exercícios matemáticos que podem ser resolvidos com programação
+* [Projects](https://github.com/karan/Projects#table-of-contents) - Lista de exercícios práticos que podem ser resolvidos em (praticamente) qualquer linguagem de programação
 
 ## 🏨 Hosting
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
@@ -214,6 +217,7 @@
 * [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
 * [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
 * [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
+* [GitHub Pages](https://pages.github.com/) - Servico de hospedagem do próprio Github
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
@@ -240,6 +244,8 @@
 * [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação 
 * [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
+* [Diolinux](https://www.youtube.com/user/Diolinux) - Canal de tecnologia com foco na cultura open source
+
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
