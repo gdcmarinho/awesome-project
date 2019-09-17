@@ -122,6 +122,8 @@
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
 * [Devmind.io](https://devmind.io/) - Editor de código online
 * [Gitpod](https://www.gitpod.io/) - IDE Online para o Github
+* [myCmpiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
+
 
 ## 🔤 Linguagens de programação
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
@@ -196,7 +198,7 @@
 * [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
 * [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa
 * [Project Euler](https://projecteuler.net/) - Lista de exercícios matemáticos que podem ser resolvidos com programação
-* [Projects](https://github.com/karan/Projects#table-of-contents) - Lista de exercícios práticos que podem ser resolvidos em (praticamente) qualquer linguagem de programação
+* [Projects](https://github.com/karan/Projects#table-of-contents) - Lista de exercícios práticos que podem ser resolvidos em diversas linguagens de programação
 
 ## 🏨 Hosting
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
@@ -245,7 +247,7 @@
 * [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
 * [Diolinux](https://www.youtube.com/user/Diolinux) - Canal de tecnologia com foco na cultura open source
-
+* [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
