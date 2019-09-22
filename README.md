@@ -252,6 +252,7 @@
 * [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral
 * [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
+* [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
