@@ -220,6 +220,7 @@
 * [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
 * [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
 * [GitHub Pages](https://pages.github.com/) - Servico de hospedagem do próprio Github
+* [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
@@ -258,6 +259,7 @@
 * [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral
 * [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
+* [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
