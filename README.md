@@ -60,7 +60,7 @@
 * [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web
-* [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
+* [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -115,6 +115,7 @@
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
 * [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
+* [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
