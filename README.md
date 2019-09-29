@@ -259,3 +259,4 @@
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
 * [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes
+* [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
