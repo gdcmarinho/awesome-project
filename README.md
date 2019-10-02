@@ -196,6 +196,7 @@
 * [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
 * [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
 * [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa
+* [Exercism](https://exercism.io/) - Pratique seus conhecimentos em programação
 
 ## 🏨 Hosting
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
