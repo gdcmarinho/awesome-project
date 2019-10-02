@@ -199,7 +199,6 @@
 * [Exercism](https://exercism.io/) - Pratique seus conhecimentos em programação
 
 ## 🏨 Hosting
-* [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
 * [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
@@ -215,6 +214,7 @@
 * [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites)
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
 * [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
+* [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
 * [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
 * [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
 * [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
