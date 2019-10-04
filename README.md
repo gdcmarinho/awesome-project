@@ -54,8 +54,6 @@
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [Joomla](https://www.joomla.org/) - CMS gratuita
-* [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
-* [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
 * [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
 * [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
@@ -116,6 +114,9 @@
 * [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
 * [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
 * [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
+* [Material-UI](https://material-ui.com/) - Um framework de interface de usuário para React
+* [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
+* [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
