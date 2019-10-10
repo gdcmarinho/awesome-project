@@ -75,6 +75,7 @@
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
 * [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
+* [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
 
 ## 🆓 Freebies
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
@@ -261,6 +262,7 @@
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
 * [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira 
+* [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro da mídia, da tecnologia e da comunicação.
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
