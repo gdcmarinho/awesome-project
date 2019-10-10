@@ -71,6 +71,7 @@
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
 * [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
+* [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
 * [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
@@ -261,6 +262,7 @@
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
 * [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira 
+* [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro da mídia, da tecnologia e da comunicação.
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
