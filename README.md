@@ -20,6 +20,7 @@
 * [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas
 * [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
 * [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
+* [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -263,6 +264,7 @@
 * [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
 * [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira 
 * [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro da mídia, da tecnologia e da comunicação.
+* [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área.
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
