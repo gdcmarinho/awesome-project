@@ -203,6 +203,7 @@
 * [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa
 * [Exercism](https://exercism.io/) - Pratique seus conhecimentos em programação
 * [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) - Tutorial sobre WebCrawling
+* [Flexbox Froggy](https://flexboxfroggy.com/) - Aprenda flexbox com um game
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
