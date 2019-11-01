@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Links úteis</h1>
+  <img alt="Logo do projeto" src="https://raw.githubusercontent.com/OfficialMarinho/Links-uteis/master/logo.png">
 </div>
 <p align="center">Apunhado de links úteis para o desenvolvimento de projetos de programação e design</p>
 
