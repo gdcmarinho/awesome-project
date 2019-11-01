@@ -1,5 +1,7 @@
-# Links úteis
-📎 Apunhado de links úteis para o desenvolvimento de projetos de programação e design
+<div align="center">
+  <h1>Links úteis</h1>
+</div>
+<p align="center">Apunhado de links úteis para o desenvolvimento de projetos de programação e design</p>
 
 ## 🖼 Banco de imagens gratuitas
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
