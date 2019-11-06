@@ -4,7 +4,7 @@
 <p align="center">Apunhado de links úteis para o desenvolvimento de projetos de programação e design</p>
 
 [<p align="center">Acessar links úteis »</p>](https://github.com/OfficialMarinho/Links-uteis/blob/master/LINKS.md)
-[<p align="center">Guia para contribuir »</p>](https://github.com/OfficialMarinho/Links-uteis/blob/master/CONTRIBUIR.md)
+[<p align="center">Guia para contribuir »</p>](https://github.com/OfficialMarinho/Links-uteis/blob/master/CONTRIBUTING.md)
 
 # Licença
 Este repositório está sob a licença do MIT. Para mais informações, [clique aqui](https://github.com/OfficialMarinho/Links-uteis/blob/master/LICENSE).
