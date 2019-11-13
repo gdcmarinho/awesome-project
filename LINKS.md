@@ -125,7 +125,7 @@
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
-* [IDE One](https://ideone.com/) - IDE online para C, Python, Java e etc
+* [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
 * [Devmind.io](https://devmind.io/) - Editor de código online
 * [myCmpiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
 
@@ -187,7 +187,7 @@
 * [CodeAcademy](https://www.codecademy.com/) - Academia digital de ensino sobre programação
 * [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
 * [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados
-* [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing e etc...)
+* [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing, etc)
 * [W3](https://www.w3schools.com/) - Conteúdos mais completos sobre HTML, CSS e JS
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
 * [TreinaDev](https://www.treinadev.com.br/) - Programa gratuito de formação de devs da Campus Code
@@ -241,7 +241,7 @@
 * [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
 * [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
-* [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end e etc
+* [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end, etc
 * [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
@@ -266,8 +266,8 @@
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
 * [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira 
-* [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro da mídia, da tecnologia e da comunicação.
-* [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área.
+* [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro da mídia, da tecnologia e da comunicação
+* [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
 * [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS
 
