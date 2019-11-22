@@ -102,6 +102,8 @@
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 * [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
+* [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
@@ -155,6 +157,9 @@
 * [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
+* [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
+* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
+* [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
 
 ## 👨‍🏫 Estudos
 * [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação
@@ -270,8 +275,10 @@
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
 * [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS
+* [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento.
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
 * [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes
 * [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
+* [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional
