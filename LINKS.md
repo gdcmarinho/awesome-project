@@ -18,6 +18,7 @@
 * [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
 * [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
 * [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
+* [RemixIcon](https://remixicon.com/) - Banco de Ícones PNG/SVG para uso gratuito
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
