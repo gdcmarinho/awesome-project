@@ -18,7 +18,8 @@
 * [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
 * [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
 * [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
-* [RemixIcon](https://remixicon.com/) - Banco de Ícones PNG/SVG para uso gratuito
+* [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
+* [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -88,6 +89,7 @@
 * [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
+* [HTML5 UP](https://html5up.net/) - Templates gratuitos
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
 
 ## 📝 IDEs e editores de código
@@ -123,7 +125,11 @@
 * [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
 * [Material-UI](https://material-ui.com/) - Um framework de interface de usuário para React
 * [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
-* [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
+* [Pure.css](https://purecss.io/) - Framework CSS responsivo
+* [Foundation](https://foundation.zurb.com/) - Framework responsivo
+* [Nes.css](https://nostalgic-css.github.io/NES.css/) - Framework CSS estilo NES
+* [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
+* [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
