@@ -206,6 +206,7 @@
 * [Flexbox Froggy](https://flexboxfroggy.com/) - Aprenda flexbox com um game
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
 * [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
+* [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft 
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
