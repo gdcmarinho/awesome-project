@@ -171,7 +171,7 @@
 
 ## 👨‍🏫 Estudos
 * [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação
-* [Shellter Labs](https://shellterlabs.com/pt/) - Segurança da informação, lições e exercícios em diferentes categorias dessa área
+* [Shellter Labs](https://shellterlabs.com/pt/) - Lições e exercícios sobre Segurança de Informação
 * [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
 * [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos
 * [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
