@@ -109,6 +109,7 @@
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
 
 ## 🖌 Design Front-end
+* [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
@@ -136,6 +137,7 @@
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
+* [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
 * [Devmind.io](https://devmind.io/) - Editor de código online
 * [myCmpiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
 
