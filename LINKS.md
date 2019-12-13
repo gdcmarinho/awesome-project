@@ -64,6 +64,7 @@
 * [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
 * [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
+* [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
