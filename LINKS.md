@@ -154,6 +154,8 @@
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
+* [Elixir](https://elixir-lang.org/) - Linguagem funcional e dinâmica para a criação de aqplicações escaláveis e sustentáveis
+* [Lua](https://www.lua.org/portugues.html) - "Lua é uma linguagem de programação poderosa, eficiente e leve, projetada para estender aplicações"
 
 ## 📕 Guia de Estilo
 * [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
@@ -245,6 +247,7 @@
 * [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
 * [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
 * [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
+* [Azure] (https://azure.microsoft.com/pt-br/services/app-service/web/) - Serviço de aplicativos web da Microsoft
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
