@@ -92,6 +92,9 @@
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
 * [HTML5 UP](https://html5up.net/) - Templates gratuitos
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
+* [FreePik](https://br.freepik.com) - Vetores, PSD e arquivos gratuitos para download
+* [Icons8](https://icons8.com) - Pacote de icones gratuitos
+* [Vector Creator](https://icons8.com/vector-creator/new) - Criação de imagens e vetores online, gratuito
 
 ## 📝 IDEs e editores de código
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
@@ -254,7 +257,7 @@
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 
 ## 🎥 Canais no YouTube
-* [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial que irão dominar o mundo (a revolução começa com ele)
+* [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial que irão dominar o mundo (a revolução começa com ele)
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
 * [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
@@ -273,6 +276,7 @@
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
 * [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
+* [Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ) - Profissional de TI com anos de mercado que compartilha todo o tipo de experiência no ramo, profissional e diferente do comum.
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
