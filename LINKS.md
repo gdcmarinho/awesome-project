@@ -154,7 +154,7 @@
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
-* [Elixir](https://elixir-lang.org/) - Linguagem funcional e dinâmica para a criação de aqplicações escaláveis e sustentáveis
+* [Elixir](https://elixir-lang.org/) - Linguagem funcional e dinâmica para a criação de aplicações escaláveis e sustentáveis
 * [Lua](https://www.lua.org/portugues.html) - "Lua é uma linguagem de programação poderosa, eficiente e leve, projetada para estender aplicações"
 
 ## 📕 Guia de Estilo
