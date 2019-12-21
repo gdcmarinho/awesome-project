@@ -92,8 +92,6 @@
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
 * [HTML5 UP](https://html5up.net/) - Templates gratuitos
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
-* [FreePik](https://br.freepik.com) - Vetores, PSD e arquivos gratuitos para download
-* [Icons8](https://icons8.com) - Pacote de icones gratuitos
 * [Vector Creator](https://icons8.com/vector-creator/new) - Criação de imagens e vetores online, gratuito
 
 ## 📝 IDEs e editores de código
@@ -276,7 +274,7 @@
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
 * [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
-* [Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ) - Profissional de TI com anos de mercado que compartilha todo o tipo de experiência no ramo, profissional e diferente do comum.
+* [Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ) - Profissional de TI com anos de mercado que compartilha todo o tipo de experiência no ramo, profissional e diferente do comum
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
