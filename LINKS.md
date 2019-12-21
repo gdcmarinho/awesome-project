@@ -65,6 +65,8 @@
 * [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
 * [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
+* [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
+* [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
