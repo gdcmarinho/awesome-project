@@ -227,6 +227,7 @@
 * [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) - Tutorial sobre WebCrawling
 * [Flexbox Froggy](https://flexboxfroggy.com/) - Aprenda flexbox com um game
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
+* [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft 
 
