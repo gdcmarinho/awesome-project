@@ -1,5 +1,7 @@
 ## 🖼 Banco de imagens gratuitas
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
+* [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
+* [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas
 * [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas
 * [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
 * [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
