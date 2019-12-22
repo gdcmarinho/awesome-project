@@ -25,6 +25,7 @@
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
+* [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
 * [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
