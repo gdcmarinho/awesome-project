@@ -28,6 +28,7 @@
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS
 * [Liveweave](https://liveweave.com/) - Codifique projetos HTML, CSS e JS
+* [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
