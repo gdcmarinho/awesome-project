@@ -109,6 +109,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
+* [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 * [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
