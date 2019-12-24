@@ -31,6 +31,7 @@
 * [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
+* [JSCompress](https://jscompress.com/) - Conversor de código JS para JS minificado
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
 * [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
