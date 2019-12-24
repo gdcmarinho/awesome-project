@@ -75,6 +75,7 @@
 * [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
 * [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
 * [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
+* [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
