@@ -72,6 +72,7 @@
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
 * [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
 * [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
+* [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
 * [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
 * [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
 
