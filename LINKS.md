@@ -1,5 +1,7 @@
 ## 🖼 Banco de imagens gratuitas
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
+* [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
+* [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas
 * [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas
 * [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
 * [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
@@ -24,7 +26,12 @@
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
+* [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS
+* [Liveweave](https://liveweave.com/) - Codifique projetos HTML, CSS e JS
+* [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
+* [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
+* [JSCompress](https://jscompress.com/) - Conversor de código JS para JS minificado
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
 * [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
@@ -65,6 +72,12 @@
 * [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
 * [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
+* [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
+* [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
+* [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
+* [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
+* [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
+* [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -104,6 +117,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
+* [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 * [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
@@ -133,6 +147,7 @@
 * [Nes.css](https://nostalgic-css.github.io/NES.css/) - Framework CSS estilo NES
 * [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
+* [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
@@ -141,6 +156,7 @@
 * [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
 * [Devmind.io](https://devmind.io/) - Editor de código online
 * [myCmpiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
+* [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
 
 ## 🔤 Linguagens de programação
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
@@ -222,6 +238,7 @@
 * [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) - Tutorial sobre WebCrawling
 * [Flexbox Froggy](https://flexboxfroggy.com/) - Aprenda flexbox com um game
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
+* [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft 
 
