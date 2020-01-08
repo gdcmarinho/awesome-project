@@ -164,6 +164,7 @@
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
 * [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
+* [Dart](https://dart.dev/) - Utilizado pelo Flutter para criar mobile, web e desktop a partir de um único código.
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
