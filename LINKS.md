@@ -126,6 +126,7 @@
 ## 🖌 Design Front-end
 * [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
+* [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
