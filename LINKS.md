@@ -105,6 +105,7 @@
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
 * [HTML5 UP](https://html5up.net/) - Templates gratuitos
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
+* [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
 
 ## 📝 IDEs e editores de código
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
