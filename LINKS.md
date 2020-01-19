@@ -93,6 +93,7 @@
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
 * [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
 * [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
+* [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
 
 ## 🆓 Freebies
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
