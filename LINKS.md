@@ -24,6 +24,7 @@
 * [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
 * [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
 * [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
+* [lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
 * [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 
