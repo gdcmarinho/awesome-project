@@ -2,9 +2,13 @@
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
 * [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
 * [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas
+* [Picjumbo](https://picjumbo.com/) - Banco de imagens gratuitas
 * [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas
 * [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
 * [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
+* [Gratisography](https://gratisography.com/) - Banco de imagens gratuitas
+* [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas
+* [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas
 * [Flickr](https://flickr.com/) - Rede social de fotógrafos
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
@@ -20,6 +24,7 @@
 * [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
 * [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
 * [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
+* [lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
 * [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 
