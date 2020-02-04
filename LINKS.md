@@ -121,7 +121,6 @@
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
-* [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
 
@@ -153,6 +152,7 @@
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 
 ## ☁ IDE Cloud
+* [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
@@ -212,6 +212,8 @@
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
 * [Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/) - Livro grátis sobre Javascript, programação e maravilhas digitais
 * [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
+* [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa
+* [git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git
 * [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
 * [Hackr.io](https://hackr.io/) - Documentações e cursos de inúmeras linguagens, frameworks e ferramentas.
 * [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
@@ -236,7 +238,6 @@
 * [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
 * [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
 * [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
-* [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa
 * [Exercism](https://exercism.io/) - Pratique seus conhecimentos em programação
 * [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) - Tutorial sobre WebCrawling
 * [Flexbox Froggy](https://flexboxfroggy.com/) - Aprenda flexbox com um game
