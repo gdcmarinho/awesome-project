@@ -301,7 +301,7 @@
 * [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
-* [CodeShow](https://www.youtube.com/CodeShowBR) - Canal do Bruno Rocha sobre Python e Rust
+* [CodeShow](https://www.youtube.com/CodeShowBR) - Canal sobre Python e Rust
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
