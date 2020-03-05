@@ -167,6 +167,7 @@
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
 
 ## 🔤 Linguagens de programação
+* [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter.
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
