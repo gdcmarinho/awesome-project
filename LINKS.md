@@ -130,6 +130,7 @@
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
 
 ## 🖌 Design Front-end
+* [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador.
 * [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
