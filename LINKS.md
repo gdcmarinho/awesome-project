@@ -304,6 +304,7 @@
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
 * [CodeShow](https://www.youtube.com/CodeShowBR) - Canal sobre Python e Rust
+* [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal sobre tecnologia e desenvolvimento
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
