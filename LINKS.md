@@ -130,7 +130,7 @@
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
 
 ## 🖌 Design Front-end
-* [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador.
+* [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
 * [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
@@ -168,7 +168,7 @@
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
 
 ## 🔤 Linguagens de programação
-* [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter.
+* [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
