@@ -200,7 +200,7 @@
 
 ##  📁 Desafios
 
-* [App Ideas](https://github.com/florinpop17/app-ideas) - Ótimo para melhorar suas habilidades de codificação, para experimentar novas tecnologias, para adicionar ao seu portfólio para impressionar seu próximo empregador / cliente.
+* [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
 * [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
 
 ## 👥 Aumentando o network
