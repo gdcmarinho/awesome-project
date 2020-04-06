@@ -27,6 +27,8 @@
 * [lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
 * [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
+* [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
+* [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
