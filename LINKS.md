@@ -206,6 +206,7 @@
 * [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
 * [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
 * [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas
+* [CodeForces](https://codeforces.com/) - Site patrocinado pelo Telegram para praticar programação competitiva
 
 ## 👥 Aumentando o network
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
@@ -342,6 +343,7 @@
 * [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
 * [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS
 * [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
+* [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - Podcast da StackOverflow sobre trabalho com software, aprendendo a programar e a arte e cultura de programar um computador
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
