@@ -85,6 +85,7 @@
 * [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
 * [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
+* [gitignore.io](https://www.gitignore.io/) - Gerador de arquivo gitignore com base na linguagem, IDE e/ ou sistema operacional utilizado
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
