@@ -166,6 +166,7 @@
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
+* [feathericons](https://feathericons.com) - Ícones de código aberto simplesmente lindos
 
 
 ## ☁ IDE Cloud
@@ -270,6 +271,7 @@
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft 
+* [SoloLearn](https://www.sololearn.com/) - Participe hoje da maior comunidade de aprendizes de código para celular
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
@@ -292,6 +294,7 @@
 * [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
 * [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
 * [Heroku](https://www.heroku.com/) -  Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure
+* [Mozdomains](https://www.mozdomains.com/mz/) - Hospedagem de sites
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
@@ -324,6 +327,7 @@
 * [CodeShow](https://www.youtube.com/CodeShowBR) - Canal sobre Python e Rust
 * [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal sobre tecnologia e desenvolvimento
 * [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
+* [João Ribeiro](https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA) - Videotutores em português sobre os mais variados assuntos relacionados com o mundo da Informática.
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
