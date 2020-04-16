@@ -160,6 +160,7 @@
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Coolors](https://coolors.co/) - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta.
+* [CSS Matic](https://www.cssmatic.com/) - As melhores ferramentas CSS para web designers
 
 ## 🖌 Biblioteca de ícones
 
