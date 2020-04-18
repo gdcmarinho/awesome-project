@@ -85,7 +85,7 @@
 * [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
 * [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
-* [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores. Dados de localização precisos e ferramentas avançadas de desenvolvedor para mudar a maneira como navegamos no mundo
+* [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -137,14 +137,11 @@
 * [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
-* [Whimsical](https://whimsical.com/KPBSvhYr6TP7z3EkifffUi) - Comunique-se visualmente na velocidade do pensamento - fluxogramas colaborativos, wireframes, notas adesivas e mapas mentais
-* [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
 * [Canva](https://www.canva.com/) - Ferramenta de design online
 * [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
-* [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
 * [FontPair](https://fontpair.co/) - Ferramenta para combinações de fontes
 * [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
 * [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
@@ -163,11 +160,14 @@
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Coolors](https://coolors.co/) - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta.
-* [CSS Tricks](https://css-tricks.com/) - Blog reúne maiores tendências no mundo do frontend com vários tutoriais
-* [Normalize CSS](https://necolas.github.io/normalize.css/) - O Normalize.css faz com que os navegadores processem todos os elementos de maneira mais consistente e alinhada aos padrões modernos. Ele visa apenas os estilos que precisam ser normalizados
-* [Bulma CSS](https://bulma.io/) - Bulma é uma estrutura CSS gratuita e de código aberto baseada no Flexbox e usada por mais de 200.000 desenvolvedores
-* [Neumorphism](https://neumorphism.io/) - É uma tendência mundial para utilização de CSS em 2020, este site conta com as tags prontas de forma auxiliar a utilização do mesmo
-* [Lottie](https://lottiefiles.com/) - Animações Lottie e as ferramentas necessárias para testá-las e aperfeiçoá-las. Simplesmente edite e envie suas animações em apenas alguns cliques
+* [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
+* [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
+* [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
+* [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
+* [Lottie](https://lottiefiles.com/) - Animações em after effects via json
+* [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
+* [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
+* [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
 
 
 ## 🖌 Biblioteca de ícones
@@ -176,7 +176,7 @@
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-* [Feather Icons](https://feathericons.com/) - Ícones de código aberto simplesmente lindos
+* [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 
 
@@ -282,7 +282,7 @@
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft
-* [Erick Wendel](https://cursos.erickwendel.com.br/) - Com foco em backend, Erick Wendel tem um conhecimento e didática ímpar, conta com cursos gratuitos para iniciantes de excelente qualidade.
+* [Erick Wendel](https://cursos.erickwendel.com.br/) - Cursos de Nodejs Gratuito com certificado
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
@@ -337,7 +337,6 @@
 * [CodeShow](https://www.youtube.com/CodeShowBR) - Canal sobre Python e Rust
 * [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal sobre tecnologia e desenvolvimento
 * [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
-
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
