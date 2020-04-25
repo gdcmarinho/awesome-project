@@ -8,6 +8,7 @@
 * [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
 * [Gratisography](https://gratisography.com/) - Banco de imagens gratuitas
 * [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas
+* [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
 * [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas
 * [Flickr](https://flickr.com/) - Rede social de fotógrafos
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
@@ -270,6 +271,7 @@
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft 
+* [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
