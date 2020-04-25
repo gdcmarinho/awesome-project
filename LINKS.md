@@ -8,7 +8,6 @@
 * [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
 * [Gratisography](https://gratisography.com/) - Banco de imagens gratuitas
 * [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas
-* [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
 * [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas
 * [Flickr](https://flickr.com/) - Rede social de fotógrafos
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
@@ -30,6 +29,7 @@
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 * [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
+* [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
