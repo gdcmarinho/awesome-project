@@ -166,7 +166,7 @@
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-* [feathericons](https://feathericons.com) - Biblioteca de ícones open-source.
+* [feathericons](https://feathericons.com) - Biblioteca de ícones open-source
 
 
 ## ☁ IDE Cloud
