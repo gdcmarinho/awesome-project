@@ -29,6 +29,7 @@
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 * [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
+* [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -283,6 +284,7 @@
 * [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft
 * [Erick Wendel](https://cursos.erickwendel.com.br/) - Cursos de Nodejs Gratuito com certificado
+* [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
