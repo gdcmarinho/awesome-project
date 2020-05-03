@@ -86,6 +86,7 @@
 * [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
 * [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
+* [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -160,6 +161,15 @@
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Coolors](https://coolors.co/) - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta.
+* [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
+* [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
+* [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
+* [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
+* [Lottie](https://lottiefiles.com/) - Animações em after effects via json
+* [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
+* [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
+* [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
+
 
 ## 🖌 Biblioteca de ícones
 
@@ -167,6 +177,8 @@
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
+* [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
+* [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 
 
 ## ☁ IDE Cloud
@@ -270,7 +282,8 @@
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
-* [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft 
+* [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft
+* [Erick Wendel](https://cursos.erickwendel.com.br/) - Cursos de Nodejs Gratuito com certificado
 * [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
 
 ## 🏨 Hosting
