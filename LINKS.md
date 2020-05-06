@@ -226,7 +226,8 @@
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 * [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
-* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
+* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord 
+* [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
 * [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
 
 ## 👨‍🏫 Estudos
