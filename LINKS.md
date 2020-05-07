@@ -29,6 +29,22 @@
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 * [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
+* [Magdeleine](https://magdeleine.co/) - Galeria e fotos grátis em alta resolução todos os dias
+* [Picspree](https://picspree.com/) - Imagens livres de royalties, fotos, ilustrações e vetores
+* [Stock Snap](https://stocksnap.io/) - Centenas de fotos de alta qualidade adicionadas semanalmente
+* [Kaboom Pics](https://kaboompics.com/) - Fotografia e paletas de cor.Ideal para imagens de produtos
+* [New Old Stock](https://nos.twnsnd.co/) - Fotos vintages
+* [Pic Jumbo](https://picjumbo.com/) - Boas coleções de diferentes tipos de fotos
+* [Public Domain Pictures](https://www.publicdomainpictures.net/en/) - Imagens de domínio público de todos os tipos
+* [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) - Pesquisa vários sites de fotos de estoque
+* [Stockvault](http://www.stockvault.net/) - Fotos categorizadas
+
+## 🎥 Banco de vídeos gratuitos
+* [Coverr.co](https://coverr.co/) - Belas imagens de vídeo grátis
+* [Videezy](https://www.videezy.com/) - Imagens de ações hd grátis e vídeos em 4K
+* [Mix Kit](https://mixkit.co/) - Clipes de vídeo e música
+* [Life Of Vids](https://www.lifeofvids.com/) - Clipes e loops gratuitos
+* [Videvo](https://www.videvo.net/stock-video-footage/) - Vídeos de ações gratuitos e premium
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -114,6 +130,19 @@
 * [HTML5 UP](https://html5up.net/) - Templates gratuitos
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
 * [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
+* [Templatemo](https://templatemo.com/) - Mínimo, currículo, temas da galeria e muito mais
+* [Templated.co](https://templated.co/) - Toneladas de temas minimalistas HTML5/CSS3
+* [FreeHTML5](https://freehtml5.co/) - Temas gratuitos & premium HTML5 e Bootstrap
+* [StyleShout](https://www.styleshout.com/free-templates/) - Modelos de sites gratuitos brilhantemente criados
+* [Start Bootstrap](https://startbootstrap.com/) - Temas iniciais bootstrap
+* [Zerotheme](https://www.zerotheme.com/) - HTML5, Bootstrap, Prestashop templates
+* [HTML5xCSS3](https://www.html5xcss3.com/) - Coleção de modelos maravilhosos em diferentes categorias
+* [Colorlib](https://colorlib.com/wp/templates/) - Quase qualquer categoria de tema que você pode pensar
+* [Free CSS](https://www.free-css.com/free-css-templates) - Enorme coleção de modelos gratuitos
+* [Hubspot](https://www.hubspot.com/resources) - Modelos, infográficos, banners e muito mais
+* [Mobirise](https://mobirise.com/html-templates/) - Modelos HTML5/CSS3 de ótima aparência
+* [Bootswatch](https://bootswatch.com/) - Temas gratuitos para Bootstrap
+* [Onepagelove](https://onepagelove.com/) - Sites de uma página, modelos e recursos
 
 ## 📝 IDEs e editores de código
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
@@ -159,14 +188,50 @@
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Coolors](https://coolors.co/) - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta.
+* [Vectr](https://vectr.com/) - Software de gráficos vetoriais grátis
+* [Wireframe.cc](https://wireframe.cc/) - Ferramenta de wireframing (gratuita e paga)
+* [Fotor](https://www.fotor.com/) - Editor de fotos e criador de design
+* [Animoto Video Maker](https://animoto.com/apps/online-video-maker) - Faça vídeos online
+* [RemoveBG](https://www.remove.bg/) - Remover fundos da imagem
+* [Photo Creator](https://photos.icons8.com/creator) - Crie suas próprias fotos em vez de procurar estoque 
+* [Visme](https://www.visme.co/) - Crie apresentações, infográficos e muito mais
+* [Infogram](https://infogram.com/) - Criar infogramas
+* [ChartGo](https://www.chartgo.com/) - Crie tabelas e gráficos online
+* [Cartoon Photo](https://cartoon.pho.to/) - Transforme fotos em desenhos animados
+* [ColorSpace](https://mycolor.space/) - Gere paletas de cores agradáveis ​​a partir de uma cor
+* [Adobe Color](https://color.adobe.com/create) - Crie paletas de cores, extraia gradientes de imagens, etc 
+* [Logo Maker](https://logomakr.com/) - Crie logotipos personalizados
+* [Whimsical](https://whimsical.com/) - Wireframes, diagramas e mais
+* [Whiteboard](https://witeboard.com/) - Ferramenta de desenho online
+* [Octopus](https://octopus.do/) - Construtor Sitemap
+* [Favicon Generator](http://tools.dynamicdrive.com/favicon/) - Gere arquivos favicon ico para o seu site 
+* [CTA Button Maker](https://www.clickminded.com/button-generator/) - Criar botões de chamada para ação
+* [Blobmaker](https://www.blobmaker.app/) - O Blobmaker é uma ferramenta de design generativa gratuita, para ajudá-lo a criar rapidamente formas SVG aleatórias, únicas e de aparência orgânica 
+* [Personas](https://personas.draftbit.com/) - Um gerador de avatar divertido para a era moderna 
+* [SoftUI](https://www.softui.io) - A Soft UI (neumorphism) CSS generator 
+* [Photopea](https://www.photopea.com) - Um editor on-line do Photoshop
+* [MapInSeconds](http://mapinseconds.com/) - Maneira simples de visualizar seus dados com um mapa
+* [Colorsinspo](https://colorsinspo.com/) * Tudo em um recurso para encontrar tudo sobre cores
 
 ## 🖌 Biblioteca de ícones
-
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-
+* [Material Icons](https://material.io/resources/icons/) - Biblioteca de ícones de design de Material UI
+* [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) - 8000+ Icones Grátis
+* [Feather Icons](https://feathericons.com/) - Ícones de código aberto bonitos e personalizáveis
+* [Tabler Icons](https://tablericons.com/) - 470+ ícones SVG de código aberto altamente personalizáveis
+* [Simple Icons](https://simpleicons.org/) - 1307 Ícones Gratuitos de SVG para marcas populares
+* [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3) - Ícones personalizáveis da Foundation
+* [Entypo](http://www.entypo.com/) - 411 Pictogramas premium cuidadosamente elaborados por Daniel Bruce
+* [Icons8](https://icons8.com/) - Ícones gratuitos, fotos, vetores e ferramentas
+* [Flat Icon](https://www.flaticon.com/) - O maior banco de dados de ícones gratuitos nos formatos PNG, SVG, EPS, PSD e BASE 64
+* [The Noun Project](https://thenounproject.com/) - Mais de 2 milhões de ícones com curadoria, criados por uma comunidade global
+* [Iconsout](https://iconscout.com/) - Download gratuito Ilustrações de ícones estocam fotos em um só lugar
+* [Colors & Fonts](https://www.colorsandfonts.com/) - Uma biblioteca curada de cores, fontes e recursos
+* [icon-icons.com](https://icon-icons.com/) - Ícones gratuitos PNG, ICO, ICNS e arquivo Vector SVG
+* [Bootstrap Icons](https://icons.getbootstrap.com/) - Ícones gratuitos construídos para bootstrap, mas eles vão trabalhar em qualquer projeto
 
 ## ☁ IDE Cloud
 * [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
@@ -200,6 +265,7 @@
 * [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
 * [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
 * [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google
+* [Python - PEP8](https://www.python.org/dev/peps/pep-0008/) - PEP 8 -- Guia de estilo para código python
 
 ##  📁 Desafios
 * [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
