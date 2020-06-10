@@ -104,6 +104,7 @@
 * [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
 * [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
 * [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
+* [Things](http://https://culturedcode.com/things/) - Gerenciador de tarefas pessoais
 
 ## 🆓 Freebies
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
