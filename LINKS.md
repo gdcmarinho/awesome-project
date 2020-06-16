@@ -27,6 +27,7 @@
 * [lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
 * [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
+* [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
