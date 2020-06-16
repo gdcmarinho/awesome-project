@@ -30,6 +30,7 @@
 * [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
 * [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
+* [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
