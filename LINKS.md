@@ -88,6 +88,8 @@
 * [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 * [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores
+* [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
+* [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
