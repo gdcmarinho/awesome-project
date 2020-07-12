@@ -234,6 +234,7 @@
 * [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord 
 * [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
 * [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
+* [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
 
 ## 👨‍🏫 Estudos
 * [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação
@@ -291,6 +292,7 @@
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft
 * [Erick Wendel](https://cursos.erickwendel.com.br/) - Cursos de Nodejs Gratuito com certificado
 * [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
+* [Grupo de Estudos CS50](https://comunidade.codigopratodos.com/t/grupo-de-estudos-gratuito-cpt-harvard-cs50/218) - Grupo de Estudos Brasileiro da Cadeira CS50 da Harvard, tutorial de tradução das aulas, lives com as resoluções dos exercícios e estudos dos temas abordados no curso
 
 ## 🏨 Hosting
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
@@ -347,6 +349,7 @@
 * [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
 * [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter
 * [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) - Canal com aulas e cursos gratuitos sobre diversas tecnlogias
+* [CodigoPraTodos](https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ) - Canal com lives de resolução de exercícios do CS50 e mais dicas de programação
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
