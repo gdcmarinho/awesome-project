@@ -315,6 +315,7 @@
 * [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
 * [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
 * [Heroku](https://www.heroku.com/) -  Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure
+* [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless.
 
 ## 🔓 Pentest
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
