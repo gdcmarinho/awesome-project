@@ -174,6 +174,8 @@
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
 * [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
+* [FlatuiColors](https://flatuicolors.com/) - Paletas de cores com temas inspirados em paises
+* [Photopea](https://www.photopea.com/) - Editor de raster e gráficos vetoriais gratuita baseada na Web
 
 
 ## 🖌 Biblioteca de ícones
