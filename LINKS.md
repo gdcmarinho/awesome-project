@@ -174,6 +174,8 @@
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
 * [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
+* [FontSpark](https://fontspark.app/) - Gera fontes aleatórias de uma lista de fontes famosas usadas na web
+* [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
 
 
 ## 🖌 Biblioteca de ícones
