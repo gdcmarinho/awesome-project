@@ -9,3 +9,19 @@ Este é um projeto totalmente livre que aceita contribuições via pull requests
 5. Insira um pequeno resumo dos links adicionados
 
 ## Estilo dos links e títulos
+
+
+## Estilo dos commits
+Este projeto segue o padrão abaixo de commits para manter a organização:
+
+`<tipo>: mensagem imperativa`
+### Tipos de commits
+- **fix** - Você corrigiu algum erro
+- **new** - Você adicionou um novo link
+- **docs** - Você encontrou um erro na documentação ou adicionou novas informações
+- **style** - Você encontrou algum problema de padrão nos links
+
+### Exemplo de mensagens imperativas
+- adiciona ferramenta de codificação
+- atualiza link quebrado
+- remove site offline
