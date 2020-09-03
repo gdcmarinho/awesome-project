@@ -327,6 +327,9 @@
 * [HTTRack](http://www.httrack.com/) - Browser utility
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
+* [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+* [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* (HStrike)[https://hstrike.com/] - Ferramentas de pentest em nuvem
 
 ## 🎥 Canais no YouTube
 * [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial que irão dominar o mundo (a revolução começa com ele)
