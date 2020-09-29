@@ -31,8 +31,8 @@
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
 * [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
 * [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas
-* [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores.
-* [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos.
+* [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores
+* [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
