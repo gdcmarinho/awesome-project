@@ -31,6 +31,8 @@
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
 * [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
 * [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas
+* [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores.
+* [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos.
 
 ## 🔧 Ferramentas de desenvolvimento
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -176,7 +178,7 @@
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
 * [FontSpark](https://fontspark.app/) - Gera fontes aleatórias de uma lista de fontes famosas usadas na web
 * [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
-
+* [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
 
 ## 🖌 Biblioteca de ícones
 
