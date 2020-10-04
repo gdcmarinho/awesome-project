@@ -361,7 +361,7 @@
 * [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) - Canal com aulas e cursos gratuitos sobre diversas tecnlogias
 * [CodigoPraTodos](https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ) - Canal com lives de resolução de exercícios do CS50 e mais dicas de programação
 * [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
-* [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Sobre carreira em Portugal e no exterior do Brasil. Vídeos sobre Testes automatizados, GitHub, PHP, Golang e outras linguagens
+* [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
