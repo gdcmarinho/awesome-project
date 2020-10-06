@@ -380,6 +380,7 @@
 * [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
 * [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS
 * [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
+* [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/) - Podcast de entrevistas com brasileiros e brasileiras que vivem e trabalham no exterior, não se restringindo apenas a área de tecnologia. Muito interessante para quem pretende um dia trabalhar fora do país e também para matar a curiosidade do mercado de trabalho internacional.
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
