@@ -198,7 +198,7 @@
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
 * [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
 * [Devmind.io](https://devmind.io/) - Editor de código online
-* [myCmpiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
+* [My Compiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
 
 ## 🔤 Linguagens de programação
