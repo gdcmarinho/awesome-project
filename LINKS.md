@@ -216,6 +216,7 @@
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
 * [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos
+* [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional executada na máquina virutal Erlang
 
 ## 📕 Guia de Estilo
 * [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
