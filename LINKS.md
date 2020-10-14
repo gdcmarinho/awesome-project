@@ -15,6 +15,7 @@
 * [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos
 * [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
 * [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas
+* [lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
 * [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores
 * [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas
 * [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
@@ -28,42 +29,43 @@
 * [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas
 * [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
 * [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
+* [unDraw](https://undraw.co/) - Ilustrações livres para usar
 * [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
 * [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
-* [lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
-* [unDraw](https://undraw.co/) - Ilustrações livres para usar
 ## 🔧 Ferramentas de desenvolvimento
 * [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 * [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
 * [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
 * [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
-* [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
-* [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
-* [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
-* [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
 * [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
 * [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
 * [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
+* [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
+* [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
+* [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
+* [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
 * [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
-* [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
+* [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
 * [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source
+* [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
 * [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
 * [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome
+* [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
 * [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
 * [Grader](https://website.grader.com/) - Avaliação de site
 * [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
 * [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
+* [Joomla](https://www.joomla.org/) - CMS gratuita
 * [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS
 * [JSCompress](https://jscompress.com/) - Conversor de código JS para JS minificado
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
-* [Joomla](https://www.joomla.org/) - CMS gratuita
 * [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
 * [Liveweave](https://liveweave.com/) - Codifique projetos HTML, CSS e JS
 * [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
@@ -90,8 +92,6 @@
 * [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
-* [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
-* [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
 ## 🗂 Gerenciamento de projetos
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
@@ -99,6 +99,7 @@
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
+* [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
 * [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
 * [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
 * [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
@@ -108,7 +109,6 @@
 * [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
-* [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
 ## 🆓 Freebies
 * [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
@@ -142,12 +142,12 @@
 * [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
-* [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
-* [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
 * [Canva](https://www.canva.com/) - Ferramenta de design online
 * [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
 * [Coolors](https://coolors.co/) - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta.
 * [Cruip](https://cruip.com/) - Recursos de templates
+* [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
+* [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
 * [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
@@ -167,8 +167,8 @@
 * [Nes.css](https://nostalgic-css.github.io/NES.css/) - Framework CSS estilo NES
 * [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
 * [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
-* [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
 * [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
+* [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
 * [Pure.css](https://purecss.io/) - Framework CSS responsivo
 * [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
@@ -200,8 +200,8 @@
 * [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 * [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
-* [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
+* [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
 * [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros
@@ -230,17 +230,18 @@
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 ## 👨‍🏫 Estudos
-* [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
 * [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
-* [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
+* [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
 * [Casa do Código](https://www.casadocodigo.com.br/) - Livros sobre programação e tecnologias em geral
 * [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação
 * [CodeAcademy](https://www.codecademy.com/) - Academia digital de ensino sobre programação
 * [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados
+* [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
 * [Curso de React Básico](https://github.com/diogocezar/dctb-react-course) - Aprenda React criando um sistema que exibe todos os repositórios de um usuário ou empresa no GitHub
 * [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
 * [Deep Learning Book](http://deeplearningbook.com.br) - Livro digital gratuito sobre aprendizado em deep learning
 * [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
+* [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
 * [Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/) - Livro grátis sobre Javascript, programação e maravilhas digitais
 * [Erick Wendel](https://cursos.erickwendel.com.br/) - Cursos de Nodejs Gratuito com certificado
 * [Exercism](https://exercism.io/) - Pratique seus conhecimentos em programação
@@ -252,6 +253,8 @@
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 * [Free Tech Books](https://www.freetechbooks.com) - Livros e ebooks grátis sobre tecnologia
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
+* [git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git
+* [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
 * [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa
 * [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
 * [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
@@ -271,8 +274,8 @@
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
-* [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
 * [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
+* [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
 * [TreinaDev](https://www.treinadev.com.br/) - Programa gratuito de formação de devs da Campus Code
 * [TreinaWeb](https://www.treinaweb.com.br/) - Escola digital para desenvolvedores
 * [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing, etc)
@@ -283,9 +286,6 @@
 * [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
 * [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
-* [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
-* [git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git
-* [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
 ## 🏨 Hosting
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
 * [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
@@ -301,23 +301,23 @@
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
 * [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
+* [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
 * [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
 * [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
 * [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites)
 * [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
 * [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 * [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless
-* [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
 ## 🔓 Pentest
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
 * [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
 * [HTTRack](http://www.httrack.com/) - Browser utility
-* [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
 * [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
 * [NMap](https://nmap.org/) - Scanner de portas de rede
-* [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 * [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+* [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 ## 🎥 Canais no YouTube
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
 * [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
