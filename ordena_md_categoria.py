@@ -4,7 +4,7 @@ raw_df = pd.read_csv('LINKS.md', sep='\n', names=['column']) # Lê o arquivo
 
 md_titles = list(raw_df[raw_df['column'].str.startswith('##')].index) # Cria lista com os nomes de cada categoria
 md_titles.append(len(raw_df)) # Adiciona o index do fim do dataframe 
-tuples = [(md_titles[idx], md_titles[idx+1]) for idx in range(len(md_titles)-1)] #Cria tuplas com os intervalos (de cada categoria) a serem ordenados
+tuples = [(md_titles[idx], md_titles[idx+1]) for idx in range(len(md_titles)-1)] # Cria tuplas com os intervalos (de cada categoria) a serem ordenados
 
 regex_df = raw_df[~raw_df['column'].str.startswith('##')] # Links da lista
 raw_df['regex'] = regex_df['column'].str.extract(r'(?:\*{1}[ ]\[)([\w .,()\-=+&%/:*#$@!?|<>]*)(?:\])') # Regex para extrair somente o que tem dentro de cada []
