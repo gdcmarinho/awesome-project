@@ -33,6 +33,7 @@
 * [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
 * [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
+
 ## 🔧 Ferramentas de desenvolvimento
 * [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 * [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
@@ -92,6 +93,7 @@
 * [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
+
 ## 🗂 Gerenciamento de projetos
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
@@ -109,6 +111,7 @@
 * [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
+
 ## 🆓 Freebies
 * [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
@@ -121,6 +124,7 @@
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
 * [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
 * [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
+
 ## 📝 IDEs e editores de código
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
@@ -136,6 +140,7 @@
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
+
 ## 🖌 Design Front-end
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
 * [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
@@ -175,6 +180,7 @@
 * [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
+
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
@@ -182,6 +188,7 @@
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
+
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
@@ -191,6 +198,7 @@
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
 * [My Compiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
+
 ## 🔤 Linguagens de programação
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
 * [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
@@ -207,17 +215,20 @@
 * [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
 * [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)
+
 ## 📕 Guia de Estilo
 * [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
 * [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb
 * [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google
 * [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
 * [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
+
 ##  📁 Desafios
 * [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
 * [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas
 * [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
 * [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
+
 ## 👥 Aumentando o network
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 * [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
@@ -229,6 +240,7 @@
 * [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
+
 ## 👨‍🏫 Estudos
 * [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
 * [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
@@ -286,6 +298,7 @@
 * [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
 * [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
+
 ## 🏨 Hosting
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
 * [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
@@ -308,6 +321,7 @@
 * [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
 * [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 * [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless
+
 ## 🔓 Pentest
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
@@ -318,6 +332,7 @@
 * [NMap](https://nmap.org/) - Scanner de portas de rede
 * [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
+
 ## 🎥 Canais no YouTube
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
 * [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
@@ -347,6 +362,7 @@
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
+
 ## 🎙 Podcasts
 * [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
 * [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro da mídia, da tecnologia e da comunicação
@@ -363,6 +379,7 @@
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
+
 ## 🏢 Business
 * [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
