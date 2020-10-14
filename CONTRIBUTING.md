@@ -22,7 +22,7 @@ Para manter um padrão geral em todos os links, você deve:
 Algumas outras observações são:
 - Não adicione ponto final no título ou na descrição do link
 - Não escreva uma descrição de link muito grande
-- Não adicionar links no começo ou no meio de uma categoria de links
+- Não adicionar links no começo ou no fim de uma categoria de links (sempre após o último elemento ordenado alfabeticamente)
 
 ## Estilo dos commits
 Este projeto segue o padrão abaixo de commits para manter a organização:
