@@ -379,6 +379,7 @@
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
+* [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/) - Podcast com brasileiros que vivem e trabalham no exterior
 
 ## 🏢 Business
 * [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
