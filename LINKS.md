@@ -278,6 +278,7 @@
 * [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
 * [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft
+* [MaterialDesign](https://material.io/design/) - Contéudo sobre criação de UI/UX eficiente
 * [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) - Tutorial sobre WebCrawling
 * [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
 * [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
