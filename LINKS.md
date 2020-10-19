@@ -228,6 +228,7 @@
 * [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas
 * [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
 * [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
+* [Desafios de Programação](https://github.com/michelbernardods/programming-challenges) Repositório no GitHub com vários sites para praticar algorítimos e estrutura de dados na sua linguagem favorita
 
 ## 👥 Aumentando o network
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
