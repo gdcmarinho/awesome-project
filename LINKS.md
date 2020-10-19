@@ -325,6 +325,7 @@
 ## 🔓 Pentest
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* [CTFs](https://github.com/michelbernardods/labs-pentest) - Repositório contendo vários sites praticar Pentest
 * [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
 * [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
 * [HTTRack](http://www.httrack.com/) - Browser utility
