@@ -260,7 +260,6 @@
 * [Explain Shell](https://explainshell.com/) - Digite um comando e descubra sua função
 * [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
-* [Flexbox Froggy](https://flexboxfroggy.com/) - Aprenda flexbox com um game
 * [Flexbox Froggy](http://flexboxfroggy.com/) - Ferramenta online para estudos de Flexbox (CSS)
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 * [Free Tech Books](https://www.freetechbooks.com) - Livros e ebooks grátis sobre tecnologia
