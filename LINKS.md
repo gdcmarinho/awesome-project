@@ -192,12 +192,16 @@
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
+* [Codepen](https://codepen.io) - Plataforma de codificação na nuvem
+* [Code Sandbox](https://codesandbox.io) - Plataforma de codificação na nuvem
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
 * [Devmind.io](https://devmind.io/) - Editor de código online
 * [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
 * [My Compiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
+* [Slingcode](https://slingcode.net) - Plataforma de codificação na nuvem
+* [Stackblitz](https://stackblitz.com) - Plataforma de codificação na nuvem
 
 ## 🔤 Linguagens de programação
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
