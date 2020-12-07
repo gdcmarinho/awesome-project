@@ -183,10 +183,14 @@
 
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
+* [Flat Icons](https://www.flaticon.com) - Ícones gratuitos: PNG, SVG, EPS, PSD e BASE 64.
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
+* [Iconfinder](https://www.iconfinder.com) - Encontre ícones vetoriais nos formatos SVG, PNG, CSH e AI
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
+* [Material Design](https://material.io/resources/icons/?style=baseline) - Pacote de icones do google
+* [RemixIcon](https://remixicon.com) - Banco de Ícones para uso gratuito
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
 
 ## ☁ IDE Cloud
