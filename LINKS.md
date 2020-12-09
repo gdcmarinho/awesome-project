@@ -1,3 +1,23 @@
+## 📋 Índice
+* [Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
+* [Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
+* [Gerenciamento de projetos](#-gerenciamento-de-projetos)
+* [Freebies](#-freebies)
+* [IDEs e editores de código](#-ides-e-editores-de-código)
+* [Design Front-end](#-design-front-end)
+* [Biblioteca de ícones](#-biblioteca-de-ícones)
+* [IDE Cloud](#-ide-cloud)
+* [Linguagens de programação](#-linguagens-de-programação)
+* [Guia de Estilo](#-guia-de-estilo)
+* [Desafios](#-desafios)
+* [Aumentando o network](#-aumentando-o-network)
+* [Estudos](#-estudos)
+* [Hosting](#-hosting)
+* [Pentest](#-pentest)
+* [Canais no YouTube](#-canais-no-youtube)
+* [Podcasts](#-podcasts)
+* [Business](#-business)
+
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
@@ -22,7 +42,7 @@
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 * [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
-* [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo 
+* [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo
 * [Picjumbo](https://picjumbo.com/) - Banco de imagens gratuitas
 * [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
@@ -184,7 +204,7 @@
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-* [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
+* [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
@@ -232,7 +252,7 @@
 ## 👥 Aumentando o network
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 * [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
-* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord 
+* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
 * [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
 * [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
 * [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
@@ -353,7 +373,7 @@
 * [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
 * [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens
 * [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter
-* [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação 
+* [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
@@ -375,7 +395,7 @@
 * [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
 * [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
-* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira 
+* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
