@@ -66,6 +66,7 @@
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
+* [Connection Strings](https://www.connectionstrings.com/) - Site com strings de conexão para diversas plataformas
 * [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
@@ -100,6 +101,7 @@
 * [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
+* [Shields.io](https://shields.io/) - Gerador de badges para markdown
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
@@ -157,6 +159,7 @@
 * [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
+* [StackEdit](https://stackedit.io/) - Editor de markdown online
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
@@ -199,7 +202,9 @@
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
+* [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
+* [X-Icon Editor](http://www.xiconeditor.com/) -
 
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
