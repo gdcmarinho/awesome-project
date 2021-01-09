@@ -132,6 +132,7 @@
 * [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
 * [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
+* [Goland](https://www.jetbrains.com/pt-br/go/) - IDE específica para Golang
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
 * [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
 * [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
@@ -140,6 +141,8 @@
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
+* [WebStorm](https://www.jetbrains.com/pt-br/webstorm/) - IDE da Jetbrains específica para Javascript
+
 
 ## 🖌 Design Front-end
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
@@ -228,6 +231,9 @@
 * [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas
 * [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
 * [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
+* [Programming Challenges](https://github.com/michelbernardods/programming-challenges) - Repositório no GitHub com vários desafios backend, frontend e pentest
+
+
 
 ## 👥 Aumentando o network
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
