@@ -102,6 +102,7 @@
 * [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 * [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
 * [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
+* [Miro](https://miro.com/) - Quadro branco colaborativo e em tempo real. Utilize post-its (e muito mais) para organizar qualquer processo.
 * [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
 * [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
 * [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
