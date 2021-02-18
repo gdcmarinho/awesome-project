@@ -199,7 +199,6 @@
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 
 ## 🔤 Linguagens de programação
-* [C](https://pt.cppreference.com/w/) - C é uma linguagem de programação compilada de propósito geral
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
 * [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
 * [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
