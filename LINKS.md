@@ -307,7 +307,6 @@
 * [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
 * [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
 * [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduzidas em vídeo com opções de teste durante a aula
-* [Shellter Labs](https://shellterlabs.com/pt/) - Lições e exercícios sobre Segurança de Informação
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
@@ -326,7 +325,6 @@
 
 ## 🏨 Hosting
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
-* [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
