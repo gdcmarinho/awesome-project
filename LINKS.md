@@ -87,6 +87,7 @@
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS
 * [JSCompress](https://jscompress.com/) - Conversor de código JS para JS minificado
+* [JSON Editor Online](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
 * [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
