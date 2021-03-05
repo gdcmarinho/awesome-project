@@ -1,3 +1,23 @@
+## 📋 Índice
+* [Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
+* [Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
+* [Gerenciamento de projetos](#-gerenciamento-de-projetos)
+* [Freebies](#-freebies)
+* [IDEs e editores de código](#-ides-e-editores-de-código)
+* [Design Front-end](#-design-front-end)
+* [Biblioteca de ícones](#-biblioteca-de-ícones)
+* [IDE Cloud](#-ide-cloud)
+* [Linguagens de programação](#-linguagens-de-programação)
+* [Guia de Estilo](#-guia-de-estilo)
+* [Desafios](#-desafios)
+* [Aumentando o network](#-aumentando-o-network)
+* [Estudos](#-estudos)
+* [Hosting](#-hosting)
+* [Pentest](#-pentest)
+* [Canais no YouTube](#-canais-no-youtube)
+* [Podcasts](#-podcasts)
+* [Business](#-business)
+
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
@@ -22,7 +42,7 @@
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 * [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
-* [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo 
+* [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo
 * [Picjumbo](https://picjumbo.com/) - Banco de imagens gratuitas
 * [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
@@ -46,6 +66,7 @@
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
+* [Connection Strings](https://www.connectionstrings.com/) - Site com strings de conexão para diversas plataformas
 * [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
@@ -80,6 +101,7 @@
 * [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
+* [Shields.io](https://shields.io/) - Gerador de badges para markdown
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
@@ -138,6 +160,7 @@
 * [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
+* [StackEdit](https://stackedit.io/) - Editor de markdown online
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
@@ -180,12 +203,14 @@
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
+* [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
+* [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens
 
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-* [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
+* [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
@@ -260,7 +285,7 @@
 ## 👥 Aumentando o network
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 * [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
-* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord 
+* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
 * [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
 * [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
 * [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
@@ -378,7 +403,7 @@
 * [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
 * [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens
 * [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter
-* [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação 
+* [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
@@ -400,7 +425,7 @@
 * [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
 * [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
-* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira 
+* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
