@@ -1,22 +1,23 @@
 ## 📋 Índice
-* [Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
-* [Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
-* [Gerenciamento de projetos](#-gerenciamento-de-projetos)
-* [Freebies](#-freebies)
-* [IDEs e editores de código](#-ides-e-editores-de-código)
-* [Design Front-end](#-design-front-end)
-* [Biblioteca de ícones](#-biblioteca-de-ícones)
-* [IDE Cloud](#-ide-cloud)
-* [Linguagens de programação](#-linguagens-de-programação)
-* [Guia de Estilo](#-guia-de-estilo)
-* [Desafios](#-desafios)
-* [Aumentando o network](#-aumentando-o-network)
-* [Estudos](#-estudos)
-* [Hosting](#-hosting)
-* [Pentest](#-pentest)
-* [Canais no YouTube](#-canais-no-youtube)
-* [Podcasts](#-podcasts)
-* [Business](#-business)
+- [📋 Índice](#-índice)
+- [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
+- [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
+- [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
+- [🆓 Freebies](#-freebies)
+- [📝 IDEs e editores de código](#-ides-e-editores-de-código)
+- [🖌 Design Front-end](#-design-front-end)
+- [🖌 Biblioteca de ícones](#-biblioteca-de-ícones)
+- [☁ IDE Cloud](#-ide-cloud)
+- [🔤 Linguagens de programação](#-linguagens-de-programação)
+- [📕 Guia de Estilo](#-guia-de-estilo)
+- [📁 Desafios](#-desafios)
+- [👥 Aumentando o network](#-aumentando-o-network)
+- [👨‍🏫 Estudos](#-estudos)
+- [🏨 Hosting](#-hosting)
+- [🔓 Pentest](#-pentest)
+- [🎥 Canais no YouTube](#-canais-no-youtube)
+- [🎙 Podcasts](#-podcasts)
+- [🏢 Business](#-business)
 
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
@@ -151,6 +152,7 @@
 ## 📝 IDEs e editores de código
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - Editor de código SQL e gerenciador de banco de dados
 * [Brackets](http://brackets.io/) - Editor de código da Adobe
 * [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
