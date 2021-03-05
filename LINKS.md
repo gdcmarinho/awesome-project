@@ -104,6 +104,7 @@
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 * [Shields.io](https://shields.io/) - Gerador de badges para markdown
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
+* [Swagger](https://swagger.io/) - Ferramenta para projetar, construir, documentar e usar serviços da Web RESTful
 * [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
