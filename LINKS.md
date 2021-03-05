@@ -1,22 +1,23 @@
 ## 📋 Índice
-* [Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
-* [Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
-* [Gerenciamento de projetos](#-gerenciamento-de-projetos)
-* [Freebies](#-freebies)
-* [IDEs e editores de código](#-ides-e-editores-de-código)
-* [Design Front-end](#-design-front-end)
-* [Biblioteca de ícones](#-biblioteca-de-ícones)
-* [IDE Cloud](#-ide-cloud)
-* [Linguagens de programação](#-linguagens-de-programação)
-* [Guia de Estilo](#-guia-de-estilo)
-* [Desafios](#-desafios)
-* [Aumentando o network](#-aumentando-o-network)
-* [Estudos](#-estudos)
-* [Hosting](#-hosting)
-* [Pentest](#-pentest)
-* [Canais no YouTube](#-canais-no-youtube)
-* [Podcasts](#-podcasts)
-* [Business](#-business)
+- [📋 Índice](#-índice)
+- [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
+- [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
+- [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
+- [🆓 Freebies](#-freebies)
+- [📝 IDEs e editores de código](#-ides-e-editores-de-código)
+- [🖌 Design Front-end](#-design-front-end)
+- [🖌 Biblioteca de ícones](#-biblioteca-de-ícones)
+- [☁ IDE Cloud](#-ide-cloud)
+- [🔤 Linguagens de programação](#-linguagens-de-programação)
+- [📕 Guia de Estilo](#-guia-de-estilo)
+- [📁 Desafios](#-desafios)
+- [👥 Aumentando o network](#-aumentando-o-network)
+- [👨‍🏫 Estudos](#-estudos)
+- [🏨 Hosting](#-hosting)
+- [🔓 Pentest](#-pentest)
+- [🎥 Canais no YouTube](#-canais-no-youtube)
+- [🎙 Podcasts](#-podcasts)
+- [🏢 Business](#-business)
 
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
@@ -86,6 +87,7 @@
 * [Joomla](https://www.joomla.org/) - CMS gratuita
 * [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS
 * [JSCompress](https://jscompress.com/) - Conversor de código JS para JS minificado
+* [JSON Editor Online](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON
 * [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 * [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
 * [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
@@ -103,6 +105,7 @@
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 * [Shields.io](https://shields.io/) - Gerador de badges para markdown
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
+* [Swagger](https://swagger.io/) - Ferramenta para projetar, construir, documentar e usar serviços da Web RESTful
 * [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
 * [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
@@ -151,6 +154,7 @@
 ## 📝 IDEs e editores de código
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - Editor de código SQL e gerenciador de banco de dados
 * [Brackets](http://brackets.io/) - Editor de código da Adobe
 * [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
