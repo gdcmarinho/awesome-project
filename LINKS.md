@@ -1,3 +1,23 @@
+## 📋 Índice
+* [Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
+* [Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
+* [Gerenciamento de projetos](#-gerenciamento-de-projetos)
+* [Freebies](#-freebies)
+* [IDEs e editores de código](#-ides-e-editores-de-código)
+* [Design Front-end](#-design-front-end)
+* [Biblioteca de ícones](#-biblioteca-de-ícones)
+* [IDE Cloud](#-ide-cloud)
+* [Linguagens de programação](#-linguagens-de-programação)
+* [Guia de Estilo](#-guia-de-estilo)
+* [Desafios](#-desafios)
+* [Aumentando o network](#-aumentando-o-network)
+* [Estudos](#-estudos)
+* [Hosting](#-hosting)
+* [Pentest](#-pentest)
+* [Canais no YouTube](#-canais-no-youtube)
+* [Podcasts](#-podcasts)
+* [Business](#-business)
+
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
@@ -22,7 +42,7 @@
 * [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
 * [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
 * [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
-* [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo 
+* [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo
 * [Picjumbo](https://picjumbo.com/) - Banco de imagens gratuitas
 * [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
@@ -46,6 +66,7 @@
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 * [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
+* [Connection Strings](https://www.connectionstrings.com/) - Site com strings de conexão para diversas plataformas
 * [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 * [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
@@ -80,6 +101,7 @@
 * [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
+* [Shields.io](https://shields.io/) - Gerador de badges para markdown
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
@@ -121,6 +143,7 @@
 * [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
 * [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
 * [HTML5 UP](https://html5up.net/) - Templates gratuitos
+* [MDBootstrap](https://mdbootstrap.com/) - Templates, freebies, tutoriais de Bootstrap gratuitos
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
 * [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
 * [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
@@ -138,11 +161,11 @@
 * [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
+* [StackEdit](https://stackedit.io/) - Editor de markdown online
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 * [WebStorm](https://www.jetbrains.com/pt-br/webstorm/) - IDE da Jetbrains específica para Javascript
-
 
 ## 🖌 Design Front-end
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
@@ -182,12 +205,14 @@
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
+* [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
+* [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens
 
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-* [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
+* [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
@@ -196,10 +221,10 @@
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
-* [Devmind.io](https://devmind.io/) - Editor de código online
 * [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
 * [My Compiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
+* [RStudio.Cloud](https://rstudio.cloud/) - IDE online para codificação na linguagem R com integração com o GitHub
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 
 ## 🔤 Linguagens de programação
@@ -227,18 +252,43 @@
 * [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
 
 ##  📁 Desafios
+* [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
+* [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário
 * [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
+* [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada
+* [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet
+* [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
+* [CodePen Challenges](hhttps://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
+* [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada
+* [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada
+* [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
+* [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada
+* [Codility](https://app.codility.com/) - Desafios de Programação Back-end. IDE integrada
+* [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada
+* [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
+* [DailyCodingProblem](https://www.dailycodingproblem.com/) - Desafios de Programação Back-end enviados por e-mail. Solução do problema Premium
 * [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas
 * [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
+* [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
+* [Exercism.io](https://exercism.io/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI.
+* [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
+* [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
+* [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Bogs com desafios de programação front-end
 * [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
 * [Programming Challenges](https://github.com/michelbernardods/programming-challenges) - Repositório no GitHub com vários desafios backend, frontend e pentest
-
-
+* [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada
+* [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada
+* [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
+* [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada
+* [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
+* [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada
+* [URI](https://www.urionlinejudge.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada
 
 ## 👥 Aumentando o network
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 * [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
-* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord 
+* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
 * [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
 * [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
 * [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
@@ -277,7 +327,6 @@
 * [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
 * [Grid Malven](http://grid.malven.co/) - Documentação interessante sobre Grid (CSS)
 * [Grupo de Estudos CS50](https://comunidade.codigopratodos.com/t/grupo-de-estudos-gratuito-cpt-harvard-cs50/218) - Grupo de Estudos Brasileiro da Cadeira CS50 da Harvard, tutorial de tradução das aulas, lives com as resoluções dos exercícios e estudos dos temas abordados no curso
-* [HackerRank](https://www.hackerrank.com) - Pratique seus conhecimentos com algoritmos e atividades
 * [Hackr.io](https://hackr.io/) - Documentações e cursos de inúmeras linguagens, frameworks e ferramentas.
 * [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
 * [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
@@ -287,7 +336,6 @@
 * [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
 * [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
 * [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduzidas em vídeo com opções de teste durante a aula
-* [Shellter Labs](https://shellterlabs.com/pt/) - Lições e exercícios sobre Segurança de Informação
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
@@ -306,7 +354,6 @@
 
 ## 🏨 Hosting
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
-* [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
 * [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
@@ -359,7 +406,7 @@
 * [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
 * [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens
 * [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter
-* [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação 
+* [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
@@ -381,7 +428,7 @@
 * [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
 * [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
-* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira 
+* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
