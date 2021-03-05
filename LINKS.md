@@ -223,6 +223,7 @@
 * [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 * [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
 * [My Compiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
+* [RStudio.Cloud](https://rstudio.cloud/) - IDE online para codificação na linguagem R com integração com o GitHub
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 
 ## 🔤 Linguagens de programação
