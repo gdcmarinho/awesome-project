@@ -227,6 +227,7 @@
 * [My Compiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
 * [RStudio.Cloud](https://rstudio.cloud/) - IDE online para codificação na linguagem R com integração com o GitHub
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
+* [Stackblitz](https://stackblitz.com) - Plataforma de codificação na nuvem
 
 ## 🔤 Linguagens de programação
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
