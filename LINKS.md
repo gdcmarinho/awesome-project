@@ -2,7 +2,7 @@
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
 * [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
-* [Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Bancos de Imagens com Pessoas Diversas, maior acesso e representatividade.
+* [Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Imagens com pessoas diversas.
 * [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
 * [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
 * [Flickr](https://flickr.com/) - Rede social de fotógrafos
