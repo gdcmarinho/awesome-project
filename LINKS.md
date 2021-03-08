@@ -190,7 +190,7 @@
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Material Design](https://material.io/resources/icons/?style=baseline) - Pacote de icones do google
-* [RemixIcon](https://remixicon.com) - Banco de Ícones para uso gratuito
+* [RemixIcon](https://remixicon.com) - Banco de ícones para uso gratuito
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
 
 ## ☁ IDE Cloud
