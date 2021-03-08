@@ -189,7 +189,7 @@
 * [Iconfinder](https://www.iconfinder.com) - Encontre ícones vetoriais nos formatos SVG, PNG, CSH e AI
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
-* [Material Design](https://material.io/resources/icons/?style=baseline) - Pacote de icones do google
+* [Material Design](https://material.io/resources/icons) - Pacote de icones do google
 * [RemixIcon](https://remixicon.com) - Banco de ícones para uso gratuito
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
 
