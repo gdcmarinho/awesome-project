@@ -149,7 +149,7 @@
 * [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
 * [Canva](https://www.canva.com/) - Ferramenta de design online
 * [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
-* [Coolors](https://coolors.co/) - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta
+* [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
 * [Colors lol](https://colors.lol) - Repositório de paletas de cores
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
