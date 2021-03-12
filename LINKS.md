@@ -415,7 +415,7 @@
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
-* ![Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - O canal fala principalmente sobre a lógica por trás do desenvolvimento das IA 
+* [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - O canal fala principalmente sobre a lógica por trás do desenvolvimento das IA 
 
 ## 🎙 Podcasts
 * [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
