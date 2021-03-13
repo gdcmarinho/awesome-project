@@ -176,10 +176,12 @@
 * [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
 * [Canva](https://www.canva.com/) - Ferramenta de design online
 * [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
-* [Coolors](https://coolors.co/) - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta.
+* [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
+* [Colors lol](https://colors.lol) - Repositório de paletas de cores
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
 * [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
+* [Excalidraw](https://excalidraw.com) - Desenhe diagramas como se tivessem sido feitos a mão
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
 * [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
