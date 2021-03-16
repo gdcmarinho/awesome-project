@@ -123,6 +123,7 @@
 
 ## 🗂 Gerenciamento de projetos
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
+* [Azure DevOps](https://azure.microsoft.com/services/devops/) - Gerenciamento de projetos focados em planejamento, colaboração e entregas
 * [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
 * [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
