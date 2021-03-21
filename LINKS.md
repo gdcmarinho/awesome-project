@@ -336,6 +336,7 @@
 * [Grid Malven](http://grid.malven.co/) - Documentação interessante sobre Grid (CSS)
 * [Grupo de Estudos CS50](https://comunidade.codigopratodos.com/t/grupo-de-estudos-gratuito-cpt-harvard-cs50/218) - Grupo de Estudos Brasileiro da Cadeira CS50 da Harvard, tutorial de tradução das aulas, lives com as resoluções dos exercícios e estudos dos temas abordados no curso
 * [Hackr.io](https://hackr.io/) - Documentações e cursos de inúmeras linguagens, frameworks e ferramentas.
+* [IME-USP](https://www.ime.usp.br/~pf/analise_de_algoritmos/index.html) - Materiais sobre análise de algoritmos do IME-USP
 * [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
 * [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
 * [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
