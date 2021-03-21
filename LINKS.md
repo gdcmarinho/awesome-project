@@ -244,6 +244,7 @@
 * [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 * [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
+* [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
