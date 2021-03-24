@@ -165,6 +165,7 @@
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
 * [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
+* [NeoVim](https://neovim.io/) - Editor de código via terminal
 * [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
 * [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
