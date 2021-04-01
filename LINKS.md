@@ -1,5 +1,4 @@
 ## 📋 Índice
-- [� Índice](#-índice)
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
 - [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
@@ -254,7 +253,6 @@ para a Linguagem R e sua variantes
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
 * [R](https://cran.r-project.org/) - Voltada para Matemática, Estatística, Análise
-de dados, Ciência de dados, aprendizagem de máquina e inteligência de negócios
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
 * [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
