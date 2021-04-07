@@ -170,6 +170,8 @@
 * [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
+* [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica
+para a Linguagem R e suas variantes
 * [StackEdit](https://stackedit.io/) - Editor de markdown online
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
@@ -251,6 +253,7 @@
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
+* [R](https://cran.r-project.org/) - Linguagem de programação com foco em matemática, estatística, ciência de dados e aprendizagem de máquina
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
 * [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
