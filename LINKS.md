@@ -170,7 +170,7 @@
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
 * [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica
-para a Linguagem R e sua variantes
+para a Linguagem R e suas variantes
 * [StackEdit](https://stackedit.io/) - Editor de markdown online
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
