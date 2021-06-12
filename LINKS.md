@@ -75,6 +75,7 @@
 * [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
 * [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
 * [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
+* [EasyForms](https://easyforms.vercel.app/) - API open source que permite criação formulários de contato com HTML puro
 * [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source
 * [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
 * [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
