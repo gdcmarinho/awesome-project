@@ -411,6 +411,7 @@ para a Linguagem R e suas variantes
 * [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end, etc
 * [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de cursos de tecnologia gratuitos
 * [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
+* [Dev Aprender](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Otimo lugar para aprender Python, Automação e Aplicações do zero
 * [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
 * [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
 * [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
