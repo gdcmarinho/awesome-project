@@ -276,7 +276,7 @@ para a Linguagem R e suas variantes
 * [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada
 * [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet
 * [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
-* [CodePen Challenges](hhttps://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
+* [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
 * [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada
 * [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada
 * [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
