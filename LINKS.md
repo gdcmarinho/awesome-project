@@ -1,4 +1,5 @@
 ## 📋 Índice
+
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
 - [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
@@ -287,6 +288,7 @@ para a Linguagem R e suas variantes
 * [DailyCodingProblem](https://www.dailycodingproblem.com/) - Desafios de Programação Back-end enviados por e-mail. Solução do problema Premium
 * [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas
 * [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
+* [DevChallenges.io](https://devchallenges.io/) - Site com projectos webs responsivos, front-end e full-stack
 * [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
 * [Exercism.io](https://exercism.io/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI.
 * [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
