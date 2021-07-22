@@ -268,7 +268,7 @@ para a Linguagem R e suas variantes
 * [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google
 * [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
 * [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
-
+* [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google
 ##  📁 Desafios
 * [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
 * [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário
