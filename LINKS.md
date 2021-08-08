@@ -18,6 +18,7 @@
 - [🎥 Canais no YouTube](#-canais-no-youtube)
 - [🎙 Podcasts](#-podcasts)
 - [🏢 Business](#-business)
+- [🌐 Sites para baixar livros](#-sites-para-baixar-livros)
 
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
@@ -231,6 +232,7 @@ para a Linguagem R e suas variantes
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
+* [FlatIcon](https://www.flaticon.com/) - Links vetoriais e stickers para os projectos.
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
@@ -433,7 +435,9 @@ para a Linguagem R e suas variantes
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - Canal sobre programaçã sobre várias coisas de forma muito simples.
 * [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais
+* 
 
 ## 🎙 Podcasts
 * [Boss Level](https://open.spotify.com/show/003zbichzSTjf3m7W2Sfvc) - O Boss Level é um Podcast sobre desenvolvimento, Frontend, Backend e DevOps
@@ -459,3 +463,13 @@ para a Linguagem R e suas variantes
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
 * [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional
 * [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes
+
+## 🌐 Sites para baixar livros
+* [Z-library](https://z-lib.org/) - Z-library, considerada a maior biblioteca de livros
+* [All It Books](https://allitbooks.net/) - All It Books - Site baixar livros de TI, no idioma inglês.
+* [Academia Edu](https://www.academia.edu/) - Academia Edu - é um site eletrónico para acadêmicos em formato de rede social. 
+* [PDF Drive](https://www.pdfdrive.com/) - PDF Drive - Considerado o mecanismo de pesquisa para arquivos PDF.
+* [Le Livros](https://lelivros.love/) - Le Livros
+* [E Livros](https://elivros.love/recentes/2) - E Livros
+
+
