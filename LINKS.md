@@ -227,6 +227,7 @@ para a Linguagem R e suas variantes
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
+* [Iconfinder](https://www.iconfinder.com/) - Site contendo milhões de ícones e ilustrações
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos
 * [Iconmonstr](https://iconmonstr.com/) - Site com 316 coleções de ícones gratuitos
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
