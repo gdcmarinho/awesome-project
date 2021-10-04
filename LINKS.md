@@ -252,10 +252,16 @@ para a Linguagem R e suas variantes
 * [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
 * [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional executada na máquina virutal Erlang
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
+* [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas
 * [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos
+* [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 * [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
+* [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica
 * [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
+* [Lua](https://www.lua.org/portugues.html) - Linguagem de programação desenvolvida no Brasil, permite programação procedural e POO
+* [MatLab](https://www.mathworks.com/help/matlab/) -Linguagem de programação de alto nível com foco em cálculos  e construção de gráficos
+* [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
