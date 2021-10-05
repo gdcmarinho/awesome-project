@@ -193,7 +193,10 @@ para a Linguagem R e suas variantes
 * [Colors lol](https://colors.lol) - Repositório de paletas de cores
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
+* [CSS Layout](https://csslayout.io/) - Layouts e padrões populares feitos com CSS
+* [CSS Reference](https://cssreference.io/) - Guia visual para CSS com referencias de uso
 * [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
+* [DevSamples](https://www.devsamples.com/) - Exemplos de códigos fáceis de usar para HTML, CSS e JavaScript
 * [Excalidraw](https://excalidraw.com) - Desenhe diagramas como se tivessem sido feitos a mão
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
@@ -204,6 +207,7 @@ para a Linguagem R e suas variantes
 * [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
 * [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
 * [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
+* [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
 * [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
 * [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
