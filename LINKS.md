@@ -215,6 +215,7 @@ para a Linguagem R e suas variantes
 * [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
 * [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
 * [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
+* [Pixlr](https://pixlr.com/br/) - Conjunto de ferramentas e utilitários de edição de imagem baseado em nuvem
 * [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
 * [Pure.css](https://purecss.io/) - Framework CSS responsivo
 * [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
