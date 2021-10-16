@@ -188,13 +188,18 @@ para a Linguagem R e suas variantes
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
 * [Canva](https://www.canva.com/) - Ferramenta de design online
+* [Chart.js](https://www.chartjs.org/) - Biblioteca JavaScript de criação de gráficos
 * [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
 * [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
 * [Colors lol](https://colors.lol) - Repositório de paletas de cores
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
+* [CSS Layout](https://csslayout.io/) - Layouts e padrões populares feitos com CSS
+* [CSS Reference](https://cssreference.io/) - Guia visual para CSS com referencias de uso
 * [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
+* [DevSamples](https://www.devsamples.com/) - Exemplos de códigos fáceis de usar para HTML, CSS e JavaScript
 * [Excalidraw](https://excalidraw.com) - Desenhe diagramas como se tivessem sido feitos a mão
+* [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
 * [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
@@ -204,6 +209,8 @@ para a Linguagem R e suas variantes
 * [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
 * [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
 * [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
+* [Grid Layoutit](https://grid.layoutit.com/) - Gerador de grid para código CSS
+* [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
 * [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
 * [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
@@ -221,6 +228,8 @@ para a Linguagem R e suas variantes
 * [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
+* [SweetAlert2](https://sweetalert2.github.io/) - Biblioteca JavaScript de alertas responsivos e customizáveis
+* [Tailwind CSS](https://tailwindcss.com/) - Framework de estilo CSS
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
 * [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
@@ -253,10 +262,16 @@ para a Linguagem R e suas variantes
 * [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
 * [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional executada na máquina virutal Erlang
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
+* [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas
 * [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos
+* [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 * [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
+* [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica
 * [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
+* [Lua](https://www.lua.org/portugues.html) - Linguagem de programação desenvolvida no Brasil, permite programação procedural e POO
+* [MatLab](https://www.mathworks.com/help/matlab/) -Linguagem de programação de alto nível com foco em cálculos  e construção de gráficos
+* [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
