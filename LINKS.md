@@ -1,4 +1,5 @@
 ## 📋 Índice
+
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
 - [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
@@ -102,6 +103,7 @@
 * [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 * [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
+* [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança
 * [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
 * [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
 * [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
@@ -109,6 +111,7 @@
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 * [Shields.io](https://shields.io/) - Gerador de badges para markdown
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
+* [StreamYard](https://streamyard.com/) - O StreamYard é um estúdio de transmissões ao vivo no seu navegador
 * [Swagger](https://swagger.io/) - Ferramenta para projetar, construir, documentar e usar serviços da Web RESTful
 * [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
 * [Telegram](https://telegram.org/) - Mensageiro criptografado
@@ -185,13 +188,18 @@ para a Linguagem R e suas variantes
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
 * [Canva](https://www.canva.com/) - Ferramenta de design online
+* [Chart.js](https://www.chartjs.org/) - Biblioteca JavaScript de criação de gráficos
 * [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
 * [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
 * [Colors lol](https://colors.lol) - Repositório de paletas de cores
 * [Cruip](https://cruip.com/) - Recursos de templates
 * [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
+* [CSS Layout](https://csslayout.io/) - Layouts e padrões populares feitos com CSS
+* [CSS Reference](https://cssreference.io/) - Guia visual para CSS com referencias de uso
 * [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
+* [DevSamples](https://www.devsamples.com/) - Exemplos de códigos fáceis de usar para HTML, CSS e JavaScript
 * [Excalidraw](https://excalidraw.com) - Desenhe diagramas como se tivessem sido feitos a mão
+* [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
 * [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
@@ -201,6 +209,8 @@ para a Linguagem R e suas variantes
 * [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
 * [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
 * [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
+* [Grid Layoutit](https://grid.layoutit.com/) - Gerador de grid para código CSS
+* [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
 * [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
 * [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
@@ -212,11 +222,14 @@ para a Linguagem R e suas variantes
 * [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
 * [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
 * [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
+* [Pixlr](https://pixlr.com/br/) - Conjunto de ferramentas e utilitários de edição de imagem baseado em nuvem
 * [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
 * [Pure.css](https://purecss.io/) - Framework CSS responsivo
 * [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 * [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
 * [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
+* [SweetAlert2](https://sweetalert2.github.io/) - Biblioteca JavaScript de alertas responsivos e customizáveis
+* [Tailwind CSS](https://tailwindcss.com/) - Framework de estilo CSS
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
 * [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
@@ -225,7 +238,9 @@ para a Linguagem R e suas variantes
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
+* [Iconfinder](https://www.iconfinder.com/) - Site contendo milhões de ícones e ilustrações
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos
+* [Iconmonstr](https://iconmonstr.com/) - Site com 316 coleções de ícones gratuitos
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
@@ -247,10 +262,16 @@ para a Linguagem R e suas variantes
 * [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
 * [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional executada na máquina virutal Erlang
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
+* [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas
 * [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos
+* [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 * [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
+* [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica
 * [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
+* [Lua](https://www.lua.org/portugues.html) - Linguagem de programação desenvolvida no Brasil, permite programação procedural e POO
+* [MatLab](https://www.mathworks.com/help/matlab/) -Linguagem de programação de alto nível com foco em cálculos  e construção de gráficos
+* [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
@@ -267,7 +288,7 @@ para a Linguagem R e suas variantes
 * [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google
 * [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
 * [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
-
+* [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google
 ##  📁 Desafios
 * [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
 * [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário
@@ -276,7 +297,7 @@ para a Linguagem R e suas variantes
 * [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada
 * [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet
 * [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
-* [CodePen Challenges](hhttps://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
+* [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
 * [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada
 * [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada
 * [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
@@ -287,6 +308,7 @@ para a Linguagem R e suas variantes
 * [DailyCodingProblem](https://www.dailycodingproblem.com/) - Desafios de Programação Back-end enviados por e-mail. Solução do problema Premium
 * [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas
 * [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
+* [DevChallenges.io](https://devchallenges.io/) - Site com projectos webs responsivos, front-end e full-stack
 * [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
 * [Exercism.io](https://exercism.io/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI.
 * [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
@@ -416,6 +438,7 @@ para a Linguagem R e suas variantes
 * [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
 * [Dev Aprender](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Otimo lugar para aprender Python, Automação e Aplicações do zero
 * [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
+* [Erick Wendel](https://www.youtube.com/c/ErickWendelTreinamentos) - Canal com conteúdos inéditos e exclusivos sobre Node.js, Javascript
 * [EspecializaTI](https://www.youtube.com/user/especializati) - Cursos gratuitos sobre PHP, Laravel, Linux e HTML+CSS
 * [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal sobre tecnologia e desenvolvimento
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) - Canal oficial da comunidade de desenvolvedores do Facebook
@@ -426,15 +449,22 @@ para a Linguagem R e suas variantes
 * [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
+* [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
+* [One Bit Code](https://www.youtube.com/c/OneBitCode) - Canal com aulas de React e Ruby
 * [O Irmão mais Velho](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) - Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
+* [Programação Dinâmica](https://www.youtube.com/c/ProgramaçãoDinâmica) - Canal sobre Python, Ciencias de Dados, Machine learning e Inteligência Artificial
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
+* [Roger Melo](https://www.youtube.com/c/RogerMelo) - Canal com aula e dicas de JavaScript puro
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
 * [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais
+* [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo
+* [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript
 
 ## 🎙 Podcasts
+* [Boss Level](https://open.spotify.com/show/003zbichzSTjf3m7W2Sfvc) - O Boss Level é um Podcast sobre desenvolvimento, Frontend, Backend e DevOps
 * [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
 * [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/) - Podcast com brasileiros que vivem e trabalham no exterior
 * [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro
@@ -451,6 +481,7 @@ para a Linguagem R e suas variantes
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
+
 ## 🏢 Business
 * [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
 * [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
