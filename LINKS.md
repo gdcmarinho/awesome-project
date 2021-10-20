@@ -436,6 +436,7 @@ para a Linguagem R e suas variantes
 * [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
 * [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
 * [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
+* [DevSuperior](https://youtube.com/devsuperior) - Canal para estudantes e profissionais iniciantes
 * [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
 * [Erick Wendel](https://www.youtube.com/c/ErickWendelTreinamentos) - Canal com conteúdos inéditos e exclusivos sobre Node.js, Javascript
 * [EspecializaTI](https://www.youtube.com/user/especializati) - Cursos gratuitos sobre PHP, Laravel, Linux e HTML+CSS
