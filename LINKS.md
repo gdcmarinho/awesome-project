@@ -452,6 +452,7 @@ para a Linguagem R e suas variantes
 * [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
 * [One Bit Code](https://www.youtube.com/c/OneBitCode) - Canal com aulas de React e Ruby
+* [O Irmão mais Velho](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) - Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
 * [Programação Dinâmica](https://www.youtube.com/c/ProgramaçãoDinâmica) - Canal sobre Python, Ciencias de Dados, Machine learning e Inteligência Artificial
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
