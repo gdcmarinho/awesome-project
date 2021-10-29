@@ -365,6 +365,7 @@ para a Linguagem R e suas variantes
 * [Grid Malven](http://grid.malven.co/) - Documentação interessante sobre Grid (CSS)
 * [Grupo de Estudos CS50](https://comunidade.codigopratodos.com/t/grupo-de-estudos-gratuito-cpt-harvard-cs50/218) - Grupo de Estudos Brasileiro da Cadeira CS50 da Harvard, tutorial de tradução das aulas, lives com as resoluções dos exercícios e estudos dos temas abordados no curso
 * [Hackr.io](https://hackr.io/) - Documentações e cursos de inúmeras linguagens, frameworks e ferramentas.
+* [IGTI](https://www.igti.com.br/) - Plataforma com bootcamps, trilhas, imersões (possui cursos grátis)
 * [IME-USP](https://www.ime.usp.br/~pf/analise_de_algoritmos/index.html) - Materiais sobre análise de algoritmos do IME-USP
 * [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
 * [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
@@ -376,6 +377,7 @@ para a Linguagem R e suas variantes
 * [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduzidas em vídeo com opções de teste durante a aula
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
+* [SoulCode](https://soulcodeacademy.org/) - Cursos intensivos de vários meses, que ensina a programação a soft skills
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
 * [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
 * [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
