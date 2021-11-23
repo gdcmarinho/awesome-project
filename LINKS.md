@@ -377,7 +377,7 @@ para a Linguagem R e suas variantes
 * [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduzidas em vídeo com opções de teste durante a aula
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
 * [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
-* [SoulCode](https://soulcodeacademy.org/) - Cursos intensivos de vários meses, que ensina a programação a soft skills
+* [SoulCode](https://soulcodeacademy.org/) - Cursos de programação e soft skills intensivos
 * [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
 * [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
 * [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
