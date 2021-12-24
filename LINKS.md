@@ -139,6 +139,7 @@
 * [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
 * [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
 * [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
+* [Runrun.it](https://runrun.it/pt-BR) - Gerenciador de projetos e tarefas por quadros
 * [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
 * [Taiga](https://taiga.io/) - Controle de projetos com equipes através de quadros
 * [Things](https://culturedcode.com/things/) - Gerenciador de tarefas pessoais
