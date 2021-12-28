@@ -485,6 +485,7 @@ para a Linguagem R e suas variantes
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
+* [PodApps](https://podapps.net) - Podcast e Blog focado em privacidade e proteção de dados
 
 ## 🏢 Business
 * [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
