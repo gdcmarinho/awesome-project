@@ -482,9 +482,11 @@ para a Linguagem R e suas variantes
 * [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
 * [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira
+* [PodApps](https://podapps.net) - Podcast e Blog focado em privacidade e proteção de dados
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
+
 
 ## 🏢 Business
 * [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
