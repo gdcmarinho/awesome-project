@@ -102,6 +102,7 @@
 * [Memcached](https://memcached.org/) - Melhore o desempenho de seu website com cache
 * [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
+* [NextDocs](https://next-docs-xi.vercel.app/) - Template open source para documentação usando Next.js e Markdown
 * [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
 * [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança
 * [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
