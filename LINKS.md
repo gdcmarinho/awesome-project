@@ -291,6 +291,7 @@ para a Linguagem R e suas variantes
 * [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
 * [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
 * [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google
+
 ##  📁 Desafios
 * [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
 * [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário
@@ -316,7 +317,7 @@ para a Linguagem R e suas variantes
 * [Exercism.io](https://exercism.io/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI.
 * [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
 * [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
-* [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Bogs com desafios de programação front-end
+* [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Blog com desafios de programação front-end
 * [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
 * [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada
 * [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada
