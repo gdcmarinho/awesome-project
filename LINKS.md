@@ -421,6 +421,7 @@ para a Linguagem R e suas variantes
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
 * [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
+* [HackTheBox Academy](https://academy.hackthebox.com/) - Aprenda hacking
 * [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
 * [HTTRack](http://www.httrack.com/) - Browser utility
 * [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
