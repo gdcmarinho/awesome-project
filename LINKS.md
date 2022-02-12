@@ -456,6 +456,8 @@ para a Linguagem R e suas variantes
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
+* [John Hammond](https://www.youtube.com/c/JohnHammond010) - Videos e aulas sobre hacking
+* [LiveOverflow ](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
 * [One Bit Code](https://www.youtube.com/c/OneBitCode) - Canal com aulas de React e Ruby
 * [O Irmão mais Velho](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) - Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
@@ -465,6 +467,7 @@ para a Linguagem R e suas variantes
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [Roger Melo](https://www.youtube.com/c/RogerMelo) - Canal com aula e dicas de JavaScript puro
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
+* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Videos e aulas sobre hacking
 * [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais
 * [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo
 * [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript
