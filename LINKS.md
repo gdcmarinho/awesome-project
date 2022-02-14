@@ -22,7 +22,7 @@
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 * [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
-* [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
+* [Cupcake](http://cupcake.nilssonlee.se) - Imagens gratuitas para uso comercial
 * [BancoDeImagensComDiversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Banco de imagens com pessoas diversas
 * [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
 * [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
@@ -425,7 +425,8 @@ para a Linguagem R e suas variantes
 * [HTTRack](http://www.httrack.com/) - Browser utility
 * [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
 * [NMap](https://nmap.org/) - Scanner de portas de rede
-* [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+* [PicoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+* [Portswigger](https://portswigger.net/web-security) - Curso de hacking web
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
 ## 🎥 Canais no YouTube
