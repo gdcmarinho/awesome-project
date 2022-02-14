@@ -419,7 +419,9 @@ para a Linguagem R e suas variantes
 
 ## 🔓 Pentest
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
+* [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier) - Analisador de cifras
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* [Cryptii](https://cryptii.com/) - Decodificador de cifras
 * [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
 * [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
 * [HTTRack](http://www.httrack.com/) - Browser utility
