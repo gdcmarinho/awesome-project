@@ -120,6 +120,7 @@
 * [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
 * [W3.org](https://validator.w3.org/) - Validar HTML
 * [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
+* [Wappalyzer](https://www.wappalyzer.com/) - Veja as tecnologias que um site está rodando
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções
 * [Web.dev](https://web.dev/) - Testar website (criado pela Google)
 * [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
