@@ -66,6 +66,7 @@
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
 * [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
 * [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
+* [Carbon](https://carbon.now.sh/) - Compartilhe pedaços de seu código de uma forma visualmente agradável
 * [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
