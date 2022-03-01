@@ -189,6 +189,7 @@ para a Linguagem R e suas variantes
 * [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
+* [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Estilos de botões em CSS que podem ser usados em projetos
 * [Canva](https://www.canva.com/) - Ferramenta de design online
 * [Chart.js](https://www.chartjs.org/) - Biblioteca JavaScript de criação de gráficos
 * [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
