@@ -64,6 +64,7 @@
 * [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
 * [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
+* [BrowserLing](https://www.browserling.com) - Teste seu site em diferentes navegadores e diferentes sistemas operacionais
 * [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
 * [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
 * [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
@@ -111,6 +112,7 @@
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 * [Shields.io](https://shields.io/) - Gerador de badges para markdown
+* [Simple CSS Media Query Generator](https://simplecss.eu) - Gere consultas de mídia para um tamanho de dispositivo específico
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 * [StreamYard](https://streamyard.com/) - O StreamYard é um estúdio de transmissões ao vivo no seu navegador
 * [Swagger](https://swagger.io/) - Ferramenta para projetar, construir, documentar e usar serviços da Web RESTful
@@ -243,6 +245,7 @@ para a Linguagem R e suas variantes
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
 * [Iconfinder](https://www.iconfinder.com/) - Site contendo milhões de ícones e ilustrações
 * [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos
+* [Iconify Design](https://iconify.design) - Mais de 100 coleções de ícones dentro de uma única biblioteca
 * [Iconmonstr](https://iconmonstr.com/) - Site com 316 coleções de ícones gratuitos
 * [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
