@@ -216,6 +216,7 @@ para a Linguagem R e suas variantes
 * [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
 * [Grid Layoutit](https://grid.layoutit.com/) - Gerador de grid para código CSS
 * [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
+* [Image Color Picker](https://imagecolorpicker.com) - Obter a paleta de cores da imagem desejada
 * [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
 * [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 * [Invision](https://www.invisionapp.com/) - Software de design para projetos
