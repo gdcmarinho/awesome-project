@@ -401,6 +401,7 @@ para a Linguagem R e suas variantes
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
 
 ## 🏨 Hosting
+* [InfinityFree](https://infinityfree.net/) - Hospedagem de sites totalmente gratuita com PHP, MySQL.
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
