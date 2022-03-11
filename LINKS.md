@@ -401,7 +401,6 @@ para a Linguagem R e suas variantes
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
 
 ## 🏨 Hosting
-* [InfinityFree](https://infinityfree.net/) - Hospedagem de sites totalmente gratuita com PHP, MySQL.
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
 * [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
@@ -415,6 +414,7 @@ para a Linguagem R e suas variantes
 * [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
 * [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
 * [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
+* [InfinityFree](https://infinityfree.net/) - Hospedagem de sites totalmente gratuita com PHP, MySQL.
 * [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
 * [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
 * [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
