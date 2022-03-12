@@ -6,7 +6,7 @@
 - [🆓 Freebies](#-freebies)
 - [📝 IDEs e editores de código](#-ides-e-editores-de-código)
 - [🖌 Design Front-end](#-design-front-end)
-- [🖌 Biblioteca de ícones](#-biblioteca-de-ícones)
+- [🎠 Biblioteca de ícones](#-biblioteca-de-ícones)
 - [☁ IDE Cloud](#-ide-cloud)
 - [🔤 Linguagens de programação](#-linguagens-de-programação)
 - [📕 Guia de Estilo](#-guia-de-estilo)
@@ -67,6 +67,7 @@
 * [BrowserLing](https://www.browserling.com) - Teste seu site em diferentes navegadores e diferentes sistemas operacionais
 * [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
 * [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
+* [Carbon](https://carbon.now.sh/) - Compartilhe pedaços de seu código de uma forma visualmente agradável
 * [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
@@ -122,6 +123,7 @@
 * [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
 * [W3.org](https://validator.w3.org/) - Validar HTML
 * [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
+* [Wappalyzer](https://www.wappalyzer.com/) - Veja as tecnologias que um site está rodando
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções
 * [Web.dev](https://web.dev/) - Testar website (criado pela Google)
 * [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
@@ -241,7 +243,7 @@ para a Linguagem R e suas variantes
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
 * [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens
 
-## 🖌 Biblioteca de ícones
+## 🎠 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
 * [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
 * [Iconfinder](https://www.iconfinder.com/) - Site contendo milhões de ícones e ilustrações
@@ -302,7 +304,6 @@ para a Linguagem R e suas variantes
 * [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário
 * [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
 * [Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada
-* [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
 * [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada
 * [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet
 * [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
@@ -326,7 +327,6 @@ para a Linguagem R e suas variantes
 * [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
 * [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada
 * [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada
-* [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
 * [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada
 * [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
 * [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada
@@ -377,6 +377,7 @@ para a Linguagem R e suas variantes
 * [IME-USP](https://www.ime.usp.br/~pf/analise_de_algoritmos/index.html) - Materiais sobre análise de algoritmos do IME-USP
 * [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
 * [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
+* [Loiane](https://loiane.training/) - Angular, Java, Spring e mais...
 * [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
 * [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft
 * [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) - Tutorial sobre WebCrawling
@@ -425,13 +426,20 @@ para a Linguagem R e suas variantes
 
 ## 🔓 Pentest
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
+* [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier) - Analisador de cifras
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* [Hackaflag](https://hackaflag.com.br/) - Plataforma combinada de campeonatos estilo CTF, programas de Bug Bounty e cursos online
+* [Cryptii](https://cryptii.com/) - Decodificador de cifras
+* [Hacker101](https://www.hacker101.com/) - Aprenda hacking e bug bounty
+* [Hackerone](https://www.hackerone.com/) - Plataforma de pesquisa de vulnerabilidades e recompensa por bugs****
 * [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
+* [HackTheBox Academy](https://academy.hackthebox.com/) - Aprenda hacking
 * [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
 * [HTTRack](http://www.httrack.com/) - Browser utility
 * [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
 * [NMap](https://nmap.org/) - Scanner de portas de rede
-* [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+* [PicoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+* [Portswigger](https://portswigger.net/web-security) - Curso de hacking web
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
 ## 🎥 Canais no YouTube
@@ -459,9 +467,12 @@ para a Linguagem R e suas variantes
 * [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter
 * [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
+* [GaneshICMC](https://www.youtube.com/c/GaneshICMC) - Melhor curso de hacking que achei até agora
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
+* [John Hammond](https://www.youtube.com/c/JohnHammond010) - Writeups de hacking
+* [LiveOverflow ](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
 * [One Bit Code](https://www.youtube.com/c/OneBitCode) - Canal com aulas de React e Ruby
 * [O Irmão mais Velho](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) - Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
@@ -471,6 +482,7 @@ para a Linguagem R e suas variantes
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [Roger Melo](https://www.youtube.com/c/RogerMelo) - Canal com aula e dicas de JavaScript puro
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
+* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Videos e aulas sobre hacking
 * [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais
 * [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo
 * [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript
