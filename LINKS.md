@@ -1,23 +1,6 @@
-## 📋 Índice
+↖️ acessar índice no menu lateral
 
-- [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
-- [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
-- [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
-- [🆓 Freebies](#-freebies)
-- [📝 IDEs e editores de código](#-ides-e-editores-de-código)
-- [🖌 Design Front-end](#-design-front-end)
-- [🎠 Biblioteca de ícones](#-biblioteca-de-ícones)
-- [☁ IDE Cloud](#-ide-cloud)
-- [🔤 Linguagens de programação](#-linguagens-de-programação)
-- [📕 Guia de Estilo](#-guia-de-estilo)
-- [📁 Desafios](#-desafios)
-- [👥 Aumentando o network](#-aumentando-o-network)
-- [👨‍🏫 Estudos](#-estudos)
-- [🏨 Hosting](#-hosting)
-- [🔓 Pentest](#-pentest)
-- [🎥 Canais no YouTube](#-canais-no-youtube)
-- [🎙 Podcasts](#-podcasts)
-- [🏢 Business](#-business)
+<hr>
 
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
