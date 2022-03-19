@@ -13,6 +13,7 @@
 - [📁 Desafios](#-desafios)
 - [👥 Aumentando o network](#-aumentando-o-network)
 - [👨‍🏫 Estudos](#-estudos)
+- [📚 Livros](#-livros)
 - [🏨 Hosting](#-hosting)
 - [🔓 Pentest](#-pentest)
 - [🎥 Canais no YouTube](#-canais-no-youtube)
@@ -400,6 +401,9 @@ para a Linguagem R e suas variantes
 * [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
 * [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
+
+## 📚 Livros
+* [zLibrary](https://pt.br1lib.org/) - A maior biblioteca eletrónica do mundo
 
 ## 🏨 Hosting
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
