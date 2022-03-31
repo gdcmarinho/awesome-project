@@ -114,6 +114,7 @@
 * [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
+* [readme.so](https://readme.so/) - Ferramenta para criar e ajustar READMEs
 * [Shields.io](https://shields.io/) - Gerador de badges para markdown
 * [Simple CSS Media Query Generator](https://simplecss.eu) - Gere consultas de mídia para um tamanho de dispositivo específico
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
