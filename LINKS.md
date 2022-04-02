@@ -2,7 +2,8 @@
 
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
-- [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
+- [📁 Documentação](#-documentação)
+- [📌 Gerenciamento de projetos](#-gerenciamento-de-projetos)
 - [🆓 Freebies](#-freebies)
 - [📝 IDEs e editores de código](#-ides-e-editores-de-código)
 - [🖌 Design Front-end](#-design-front-end)
@@ -10,7 +11,7 @@
 - [☁ IDE Cloud](#-ide-cloud)
 - [🔤 Linguagens de programação](#-linguagens-de-programação)
 - [📕 Guia de Estilo](#-guia-de-estilo)
-- [📁 Desafios](#-desafios)
+- [🏆 Desafios](#-desafios)
 - [👥 Aumentando o network](#-aumentando-o-network)
 - [👨‍🏫 Estudos](#-estudos)
 - [📚 Livros](#-livros)
@@ -133,7 +134,11 @@
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
 
-## 🗂 Gerenciamento de projetos
+## 📁 Documentação
+* [Markdown Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Texto demostrativo oficial do github para markdown
+* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) - Guia de referência de código aberto para markdown
+
+## 📌 Gerenciamento de projetos
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Azure DevOps](https://azure.microsoft.com/services/devops/) - Gerenciamento de projetos focados em planejamento, colaboração e entregas
 * [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
@@ -301,7 +306,7 @@ para a Linguagem R e suas variantes
 * [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
 * [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google
 
-##  📁 Desafios
+## 🏆 Desafios
 * [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
 * [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário
 * [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
