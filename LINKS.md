@@ -4,6 +4,7 @@
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
 - [📁 Documentação](#-documentação)
 - [📌 Gerenciamento de projetos](#-gerenciamento-de-projetos)
+- [📊 Estatísticas para devs](#-estatísticas-para-devs)
 - [🆓 Freebies](#-freebies)
 - [📝 IDEs e editores de código](#-ides-e-editores-de-código)
 - [🖌 Design Front-end](#-design-front-end)
@@ -158,6 +159,12 @@
 * [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
+
+## 📊 Estatísticas para devs
+* [Githut 2.0](https://madnight.github.io/githut/#/pushes/2021/4) - Estatisticas de linguagens do github
+* [Githut](https://githut.info/) - Estatisticas de linguagens do github
+* [Stackoverflow survey](https://insights.stackoverflow.com/survey) - Questionario anual do stack overflow
+
 
 ## 🆓 Freebies
 * [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
