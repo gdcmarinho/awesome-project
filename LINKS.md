@@ -116,7 +116,6 @@
 * [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
-* [readme.so](https://readme.so/) - Ferramenta para criar e ajustar READMEs
 * [Shields.io](https://shields.io/) - Gerador de badges para markdown
 * [Simple CSS Media Query Generator](https://simplecss.eu) - Gere consultas de mídia para um tamanho de dispositivo específico
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
@@ -137,6 +136,7 @@
 * [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
 
 ## 📁 Documentação
+* [readme.so](https://readme.so/) - Ferramenta para criar e estilizar arquivos READMEs
 * [Markdown Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Texto demostrativo oficial do github para markdown
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) - Guia de referência de código aberto para markdown
 
