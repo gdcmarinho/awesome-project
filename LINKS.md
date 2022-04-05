@@ -138,6 +138,7 @@
 ## 📁 Documentação
 * [Markdown Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Texto demostrativo oficial do github para markdown
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) - Guia de referência de código aberto para markdown
+* [readme.so](https://readme.so/) - Ferramenta para criar e estilizar arquivos READMEs
 
 ## 📌 Gerenciamento de projetos
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
