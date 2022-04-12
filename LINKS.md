@@ -490,6 +490,7 @@ para a Linguagem R e suas variantes
 * [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
 * [John Hammond](https://www.youtube.com/c/JohnHammond010) - Writeups de hacking
+* [Jamilton Damasceno](https://www.youtube.com/jamiltondamasceno) - Canal sobre desenvolvimento Mobile e Web
 * [LiveOverflow ](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
 * [One Bit Code](https://www.youtube.com/c/OneBitCode) - Canal com aulas de React e Ruby
 * [O Irmão mais Velho](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) - Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset
