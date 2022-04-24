@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/gdcmarinho/links-uteis/blob/master/LINKS.md">
-    <img alt="Logo do projeto" src="https://raw.githubusercontent.com/gdcmarinho/links-uteis/master/logo.png">
+    <img alt="Logo do projeto" src="./logo.png" width="350">
   </a>
 </div>
 <p align="center">Lista de links úteis para o desenvolvimento de projetos de programação e design.</p>
