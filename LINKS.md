@@ -2,7 +2,6 @@
 
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
-- [📁 Documentação](#-documentação)
 - [📌 Gerenciamento de projetos](#-gerenciamento-de-projetos)
 - [📊 Estatísticas para devs](#-estatísticas-para-devs)
 - [🆓 Freebies](#-freebies)
@@ -134,12 +133,6 @@
 * [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
-
-## 📁 Documentação
-* [Markdown Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Texto demostrativo oficial do github para markdown
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) - Guia de referência de código aberto para markdown
-* [Python](https://docs.python.org) - Documentação oficial da linguagem python
-* [Readme.so](https://readme.so/) - Ferramenta para criar e estilizar arquivos READMEs
 
 ## 📌 Gerenciamento de projetos
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
@@ -295,6 +288,7 @@ para a Linguagem R e suas variantes
 * [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica
 * [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
 * [Lua](https://www.lua.org/portugues.html) - Linguagem de programação desenvolvida no Brasil, permite programação procedural e POO
+* [Markdown](https://www.markdownguide.org/) - Linguagem de marcação frequentemente usado para formatar arquivos README 
 * [MatLab](https://www.mathworks.com/help/matlab/) -Linguagem de programação de alto nível com foco em cálculos  e construção de gráficos
 * [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
