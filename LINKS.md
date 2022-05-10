@@ -441,6 +441,7 @@ para a Linguagem R e suas variantes
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier) - Analisador de cifras
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* [Ctf time](https://ctftime.org/event/list/upcoming) - Lista que agrega eventos de CTF, entre e participe
 * [Hackaflag](https://hackaflag.com.br/) - Plataforma combinada de campeonatos estilo CTF, programas de Bug Bounty e cursos online
 * [Cryptii](https://cryptii.com/) - Decodificador de cifras
 * [Hacker101](https://www.hacker101.com/) - Aprenda hacking e bug bounty
