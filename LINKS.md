@@ -363,6 +363,7 @@ para a Linguagem R e suas variantes
 * [Curso de React Básico](https://github.com/diogocezar/dctb-react-course) - Aprenda React criando um sistema que exibe todos os repositórios de um usuário ou empresa no GitHub
 * [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
 * [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
+* [Duolingo](https://www.duolingo.com/learn) - A melhor maneira do mundo de aprender um idioma
 * [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
 * [Erick Wendel](https://cursos.erickwendel.com.br/) - Cursos de Nodejs Gratuito com certificado
 * [Exercism](https://exercism.io/) - Pratique seus conhecimentos em programação
