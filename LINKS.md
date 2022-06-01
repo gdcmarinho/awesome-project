@@ -6,7 +6,8 @@
 - [📊 Estatísticas para devs](#-estatísticas-para-devs)
 - [🆓 Freebies](#-freebies)
 - [📝 IDEs e editores de código](#-ides-e-editores-de-código)
-- [🖌 Design Front-end](#-design-front-end)
+- [👨‍🎤️ Frontend](#-frontend)
+- [🔮️ Edição de imagens](#-edição-de-imagens)
 - [🎠 Biblioteca de ícones](#-biblioteca-de-ícones)
 - [☁ IDE Cloud](#-ide-cloud)
 - [🔤 Linguagens de programação](#-linguagens-de-programação)
@@ -16,8 +17,9 @@
 - [👨‍🏫 Estudos](#-estudos)
 - [📚 Livros](#-livros)
 - [🏨 Hosting](#-hosting)
-- [🔓 Pentest](#-pentest)
-- [🎥 Canais no YouTube](#-canais-no-youtube)
+- [👮️ Hacking em geral](#-hacking-em-geral)
+- [🔓 Hacking no youtube](#-hacking-no-youtube)
+- [🖱️ Tecnologia no youTube](#-tecnologia-no-youtube)
 - [🎙 Podcasts](#-podcasts)
 - [🏢 Business](#-business)
 
@@ -196,14 +198,12 @@ para a Linguagem R e suas variantes
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 
-## 🖌 Design Front-end
-* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
+## 👨‍🎤️ Frontend
 * [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
 * [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
 * [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 * [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
 * [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Estilos de botões em CSS que podem ser usados em projetos
-* [Canva](https://www.canva.com/) - Ferramenta de design online
 * [Chart.js](https://www.chartjs.org/) - Biblioteca JavaScript de criação de gráficos
 * [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
 * [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
@@ -214,9 +214,7 @@ para a Linguagem R e suas variantes
 * [CSS Reference](https://cssreference.io/) - Guia visual para CSS com referencias de uso
 * [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
 * [DevSamples](https://www.devsamples.com/) - Exemplos de códigos fáceis de usar para HTML, CSS e JavaScript
-* [Excalidraw](https://excalidraw.com) - Desenhe diagramas como se tivessem sido feitos a mão
 * [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
-* [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
 * [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
 * [FontPair](https://fontpair.co/) - Ferramenta para combinações de fontes
@@ -224,7 +222,6 @@ para a Linguagem R e suas variantes
 * [Foundation](https://foundation.zurb.com/) - Framework responsivo
 * [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
 * [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
-* [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
 * [Grid Layoutit](https://grid.layoutit.com/) - Gerador de grid para código CSS
 * [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
 * [Image Color Picker](https://imagecolorpicker.com) - Obter a paleta de cores da imagem desejada
@@ -238,16 +235,25 @@ para a Linguagem R e suas variantes
 * [Nes.css](https://nostalgic-css.github.io/NES.css/) - Framework CSS estilo NES
 * [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
 * [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
-* [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
-* [Pixlr](https://pixlr.com/br/) - Conjunto de ferramentas e utilitários de edição de imagem baseado em nuvem
 * [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
 * [Pure.css](https://purecss.io/) - Framework CSS responsivo
-* [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
-* [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
-* [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
 * [SweetAlert2](https://sweetalert2.github.io/) - Biblioteca JavaScript de alertas responsivos e customizáveis
 * [Tailwind CSS](https://tailwindcss.com/) - Framework de estilo CSS
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
+
+## 🔮️ Edição de imagens
+* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
+* [Canva](https://www.canva.com/) - Ferramenta de design online
+* [Excalidraw](https://excalidraw.com) - Desenhe diagramas como se tivessem sido feitos a mão
+* [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
+* [Gimp](https://www.gimp.org/) - GIMP é um programa de código aberto voltado principalmente para criação e edição de imagens
+* [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
+* [Photoshop](https://www.adobe.com/br/products/photoshop.html) - Imagens incríveis, desenhos avançados e arte espetacular
+* [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
+* [Pixlr](https://pixlr.com/br/) - Conjunto de ferramentas e utilitários de edição de imagem baseado em nuvem
+* [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
+* [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
+* [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
 * [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
 * [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens
@@ -438,7 +444,7 @@ para a Linguagem R e suas variantes
 * [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 * [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless
 
-## 🔓 Pentest
+## 👮️ Hacking em geral
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier) - Analisador de cifras
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
@@ -457,7 +463,15 @@ para a Linguagem R e suas variantes
 * [Portswigger](https://portswigger.net/web-security) - Curso de hacking web
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
-## 🎥 Canais no YouTube
+## 🔓 Hacking no youtube
+* [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
+* [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
+* [GaneshICMC](https://www.youtube.com/c/GaneshICMC) - Melhor curso de hacking que achei até agora
+* [John Hammond](https://www.youtube.com/c/JohnHammond010) - Writeups de hacking
+* [LiveOverflow ](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
+* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Videos e aulas sobre hacking
+
+## 🖱️ Tecnologia no youTube
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
 * [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
 * [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
@@ -467,7 +481,6 @@ para a Linguagem R e suas variantes
 * [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end, etc
 * [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de cursos de tecnologia gratuitos
 * [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
-* [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
 * [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
 * [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
 * [DevSuperior](https://youtube.com/devsuperior) - Canal para estudantes e profissionais iniciantes
@@ -481,14 +494,10 @@ para a Linguagem R e suas variantes
 * [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens
 * [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter
 * [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação
-* [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
-* [GaneshICMC](https://www.youtube.com/c/GaneshICMC) - Melhor curso de hacking que achei até agora
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
 * [Jamilton Damasceno](https://www.youtube.com/jamiltondamasceno) - Canal sobre desenvolvimento Mobile e Web
-* [John Hammond](https://www.youtube.com/c/JohnHammond010) - Writeups de hacking
-* [LiveOverflow ](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
 * [One Bit Code](https://www.youtube.com/c/OneBitCode) - Canal com aulas de React e Ruby
 * [O Irmão mais Velho](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) - Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset
 * [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
@@ -498,7 +507,6 @@ para a Linguagem R e suas variantes
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [Roger Melo](https://www.youtube.com/c/RogerMelo) - Canal com aula e dicas de JavaScript puro
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
-* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Videos e aulas sobre hacking
 * [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais
 * [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo
 * [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript
