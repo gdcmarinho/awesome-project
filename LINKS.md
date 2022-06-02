@@ -452,7 +452,7 @@ para a Linguagem R e suas variantes
 * [Ctf time](https://ctftime.org/event/list/upcoming) - Lista que agrega eventos de CTF, entre e participe
 * [Hackaflag](https://hackaflag.com.br/) - Plataforma combinada de campeonatos estilo CTF, programas de Bug Bounty e cursos online
 * [Hacker101](https://www.hacker101.com/) - Aprenda hacking e bug bounty
-* [Hackerone](https://www.hackerone.com/) - Plataforma de pesquisa de vulnerabilidades e recompensa por bugs****
+* [Hackerone](https://www.hackerone.com/) - Plataforma de pesquisa de vulnerabilidades e recompensa por bugs
 * [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
 * [HackTheBox Academy](https://academy.hackthebox.com/) - Aprenda hacking
 * [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
