@@ -448,9 +448,9 @@ para a Linguagem R e suas variantes
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier) - Analisador de cifras
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* [Cryptii](https://cryptii.com/) - Decodificador de cifras
 * [Ctf time](https://ctftime.org/event/list/upcoming) - Lista que agrega eventos de CTF, entre e participe
 * [Hackaflag](https://hackaflag.com.br/) - Plataforma combinada de campeonatos estilo CTF, programas de Bug Bounty e cursos online
-* [Cryptii](https://cryptii.com/) - Decodificador de cifras
 * [Hacker101](https://www.hacker101.com/) - Aprenda hacking e bug bounty
 * [Hackerone](https://www.hackerone.com/) - Plataforma de pesquisa de vulnerabilidades e recompensa por bugs****
 * [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
@@ -464,11 +464,13 @@ para a Linguagem R e suas variantes
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
 ## 🔓 Hacking no youtube
+* [Crowsec Edtech | Carlos Vieira](https://www.youtube.com/c/CarlosVieiraCrowSec) - Videos e aulas sobre hacking
 * [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
 * [GaneshICMC](https://www.youtube.com/c/GaneshICMC) - Melhor curso de hacking que achei até agora
 * [John Hammond](https://www.youtube.com/c/JohnHammond010) - Writeups de hacking
-* [LiveOverflow ](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
+* [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
+* [Solyd Offensive Security](https://www.youtube.com/c/solyd) - Videos e aulas sobre hacking
 * [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Videos e aulas sobre hacking
 
 ## 🖱️ Tecnologia no youTube
