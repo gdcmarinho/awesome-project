@@ -379,8 +379,7 @@ para a Linguagem R e suas variantes
 * [Flexbox Froggy](http://flexboxfroggy.com/) - Ferramenta online para estudos de Flexbox (CSS)
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
-* [git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git
-* [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
+* [Git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
 * [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
 * [Grid Malven](http://grid.malven.co/) - Documentação interessante sobre Grid (CSS)
 * [Grupo de Estudos CS50](https://comunidade.codigopratodos.com/t/grupo-de-estudos-gratuito-cpt-harvard-cs50/218) - Grupo de Estudos Brasileiro da Cadeira CS50 da Harvard, tutorial de tradução das aulas, lives com as resoluções dos exercícios e estudos dos temas abordados no curso
