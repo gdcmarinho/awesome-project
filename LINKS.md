@@ -466,7 +466,8 @@ para a Linguagem R e suas variantes
 * [Crowsec Edtech | Carlos Vieira](https://www.youtube.com/c/CarlosVieiraCrowSec) - Videos e aulas sobre hacking
 * [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
 * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
-* [GaneshICMC](https://www.youtube.com/c/GaneshICMC) - Melhor curso de hacking que achei até agora
+* [GaneshICMC](https://www.youtube.com/c/GaneshICMC) - Videos e aulas sobre hacking
+* [Hack the box](https://youtube.com/c/HackTheBox) - Plataforma com desafios de hacking
 * [John Hammond](https://www.youtube.com/c/JohnHammond010) - Writeups de hacking
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
 * [Solyd Offensive Security](https://www.youtube.com/c/solyd) - Videos e aulas sobre hacking
