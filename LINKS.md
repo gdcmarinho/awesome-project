@@ -499,6 +499,7 @@ para a Linguagem R e suas variantes
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
 * [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos
 * [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
+* [Hora de Codar](https://www.youtube.com/c/MatheusBattisti) - Canal principalmente sobre javascript
 * [Jamilton Damasceno](https://www.youtube.com/jamiltondamasceno) - Canal sobre desenvolvimento Mobile e Web
 * [One Bit Code](https://www.youtube.com/c/OneBitCode) - Canal com aulas de React e Ruby
 * [O Irmão mais Velho](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) - Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset
