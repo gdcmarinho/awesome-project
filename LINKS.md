@@ -350,7 +350,6 @@ para a Linguagem R e suas variantes
 
 ## 👥 Aumentando o network
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
-* [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
 * [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
 * [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
 * [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
