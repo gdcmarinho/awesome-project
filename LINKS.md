@@ -400,14 +400,13 @@ for the R Language and its variants
 * [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens
 * [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
 
-## 📚 Livros
-* [Deep Learning Book](http://deeplearningbook.com.br) - Livro digital gratuito sobre aprendizado em deep learning
-* [Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/) - Livro grátis sobre Javascript, programação e maravilhas digitais
-* [Free Tech Books](https://www.freetechbooks.com) - Livros e ebooks grátis sobre tecnologia
-* [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
-* [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
-* [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
-* [zLibrary](https://pt.br1lib.org/) - A maior biblioteca eletrónica do mundo
+## 📚 Books
+* [Eloquent JavaScript](https://eloquentjavascript.net/) - Book about JavaScript
+* [Free Tech Books](https://www.freetechbooks.com) - Free technology books and ebooks
+* [GoalKicker](https://goalkicker.com/) - Free programming books
+* [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Free books, articles and tutorials for beginners who want to program in C
+* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - JavaScript book series
+* [zLibrary](https://br1lib.org/) - The largest electronic library in the world
 
 ## 🏨 Hosting
 * [1FreeHosting](http://www.1freehosting.com/) - Free website hosting with 100GB bandwidth
