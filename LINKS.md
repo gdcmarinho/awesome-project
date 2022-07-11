@@ -68,7 +68,7 @@
 * [Can I email...](https://www.caniemail.com/) - Find out what HTML and CSS can be used in email frameworks
 * [Can I use...](https://caniuse.com/) - Find out if you can use certain web technologies
 * [Carbon](https://carbon.now.sh/) - Share chunks of your code in a visually pleasing way
-* [CloudFlare](https://www.cloudflare.com/pt-br/) - Free CDN
+* [CloudFlare](https://www.cloudflare.com/) - Free CDN
 * [CMDER](https://cmder.net/) - Simple command line, can run bash and shell commands, alternative to Hyper
 * [CodePen](https://codepen.io/) - Social network of front-end developers
 * [CodeSandbox](https://codesandbox.io/) - Area box for web developers
@@ -82,7 +82,7 @@
 * [Editor.md](https://pandao.github.io/editor.md/en.html) - Markdown editor online and open source
 * [ES6console](https://es6console.com/) - JS Compiler for Ecmascript
 * [Firebase](https://firebase.google.com/) - Develop amazing mobile and web apps this Google service
-* [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Web browser for web developers
+* [Firefox Developer Edition](https://www.mozilla.org/firefox/developer/) - Web browser for web developers
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-BR) - Capture entire pages with a Chrome extension
 * [generatedata](http://www.generatedata.com/) - Test data generator
 * [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without scouring the web
@@ -133,67 +133,67 @@
 * [WordPress](https://wordpress.org/) - Creating blogs
 * [XML Sitemaps](https://www.xml-sitemaps.com/) - Sitemaps.xml builder
 
-## 📌 Gerenciamento de projetos
-* [Asana](https://asana.com/pt) - Gerenciamento de trabalho
-* [Azure DevOps](https://azure.microsoft.com/services/devops/) - Gerenciamento de projetos focados em planejamento, colaboração e entregas
-* [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
-* [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
-* [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
-* [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
-* [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
-* [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
-* [Miro](https://miro.com/) - Quadro branco colaborativo em tempo real
-* [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
-* [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
-* [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
-* [Runrun.it](https://runrun.it/pt-BR) - Gerenciador de projetos e tarefas por quadros
-* [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
-* [Taiga](https://taiga.io/) - Controle de projetos com equipes através de quadros
-* [Things](https://culturedcode.com/things/) - Gerenciador de tarefas pessoais
-* [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
-* [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
-* [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
+## 📌 Project management
+* [Asana](https://asana.com/en) - Work management
+* [Azure DevOps](https://azure.microsoft.com/services/devops/) - Project management focused on planning, collaboration and deliverables
+* [Dontpad](http://dontpad.com/) - No-register note tabs
+* [Draw.io](https://www.draw.io/) - Develop amazing mind maps
+* [Evernote](https://evernote.com/intl/pt-br) - Sticky notes in the cloud
+* [Google Keep](https://keep.google.com/) - Sticky Notes in the Cloud
+* [Jira](https://www.atlassian.com/software/jira) - Project manager and task monitoring
+* [lucidchart](https://lucidchart.com) - Documentation and team task management
+* [Miro](https://miro.com/) - Real-time collaborative whiteboard
+* [Notion](https://www.notion.so/) - Cloud sticky notes and online project management
+* [Pipefy](https://www.pipefy.com/) - Project Manager (PMS)
+* [Protectedtext](https://www.protectedtext.com/) - Encrypted note tabs with no registration required
+* [Runrun.it](https://runrun.it/pt-BR) - Project and task manager by boards
+* [Slack](https://slack.com/) - Project management with teams
+* [Taiga](https://taiga.io/) - Project control with teams through boards
+* [Things](https://culturedcode.com/things/) - Personal Task Manager
+* [Todoist](https://todoist.com/app?lang=pt_BR) - Management of personal and team projects
+* [Trello](https://www.trello.com/) - Manage your projects with boards
+* [YouTrack](https://www.jetbrains.com/youtrack/) - Online Project Manager
 
-## 📊 Estatísticas para devs
-* [Githut 2.0](https://madnight.github.io/githut/#/pushes/2021/4) - Estatisticas de linguagens do github
-* [Githut](https://githut.info/) - Estatisticas de linguagens do github
-* [Stackoverflow survey](https://insights.stackoverflow.com/survey) - Questionario anual do stack overflow
+## 📊 Stats for devs
+* [GitHut 2.0](https://madnight.github.io/githut/#/) - Language statistics from GitHub
+* [GitHut](https://githut.info/) - Language statistics from GitHub
+* [StackOverflow survey](https://insights.stackoverflow.com/survey) - Annual Stack Overflow survey
 
 
 ## 🆓 Freebies
-* [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
-* [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
-* [Codester Freebies](https://www.codester.com/free/) - Temas e projetos de codificações grátis semanalmente
-* [Freebbble](http://freebbble.com/) - Freebies do Dribbble
-* [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
-* [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
-* [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
-* [HTML5 UP](https://html5up.net/) - Templates gratuitos
-* [MDBootstrap](https://mdbootstrap.com/) - Templates, freebies, tutoriais de Bootstrap gratuitos
-* [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
-* [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
-* [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
+* [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Free Fonts
+* [365 PSD](https://pt.365psd.com/) - Free items all year round
+* [Codester Freebies](https://www.codester.com/free/) - Free coding themes and projects weekly
+* [Freebbble](http://freebbble.com/) - Dribbble Freebies
+* [Freebiesbug](https://freebiesbug.com/) - Website with free digital files
+* [FundleBundle](https://www.fundlebundle.net/freebies) - Free freebies
+* [GreenSock](https://greensock.com/examples-showcases) - Showcase of inspiring applications
+* [HTML5 UP](https://html5up.net/) - Free HTML5 templates
+* [MDBootstrap](https://mdbootstrap.com/) - Templates, freebies, free Bootstrap tutorials
+* [ShareBootstrap](https://sharebootstrap.com/) - Free Bootstrap Templates
+* [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 free premium WordPress themes monthly
+* [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Free HTML5 + CSS3 Themes
 
-## 📝 IDEs e editores de código
-* [Atom](https://atom.io/) - Editor de código do GitHub
-* [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
-* [Beekeeper Studio](https://www.beekeeperstudio.io/) - Editor de código SQL e gerenciador de banco de dados
-* [Brackets](http://brackets.io/) - Editor de código da Adobe
-* [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
-* [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
-* [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
-* [NeoVim](https://neovim.io/) - Editor de código via terminal
-* [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
-* [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
-* [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
-* [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
-* [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica
-para a Linguagem R e suas variantes
-* [StackEdit](https://stackedit.io/) - Editor de markdown online
-* [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
-* [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
-* [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
+## 📝 IDEs and code editors
+* [Atom](https://atom.io/) - GitHub Code Editor
+* [BBEdit](https://www.barebones.com/products/bbedit/) - Code editor for Mac OS
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - SQL code editor and database manager
+* [Brackets](http://brackets.io/) - Adobe Code Editor
+* [CodeBlocks](http://www.codeblocks.org/) - IDE for C and C++
+* [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ for C/C++ language
+* [Eclipse](https://www.eclipse.org/downloads/) - IBM's free software IDE
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Jetbrains IDE
+* [NeoVim](https://neovim.io/) - Code editor via terminal
+* [NetBeans](https://netbeans.org/) - Free Apache IDE
+* [Notepad++](https://notepad-plus-plus.org/) - Root code editor
+* [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP specific IDE
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Python-specific IDE
+* [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - Specific IDE
+for the R Language and its variants
+* [StackEdit](https://stackedit.io/) - Online Markdown Editor
+* [Sublime Text](https://www.sublimetext.com/) - Your license has expired
+* [Visual Studio](https://visualstudio.microsoft.com/en-us/vs/) - Microsoft IDE
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft Code Editor
 
 ## 👨‍🎤️ Frontend
 * [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
