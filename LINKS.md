@@ -410,108 +410,29 @@ for the R Language and its variants
 * [zLibrary](https://pt.br1lib.org/) - A maior biblioteca eletrónica do mundo
 
 ## 🏨 Hosting
-* [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
-* [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
-* [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
-* [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
-* [DreamHost](https://www.dreamhost.com/) - Hospedagem de sites de alta disponibilidade
-* [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
-* [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
-* [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
-* [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
-* [Heroku](https://www.heroku.com/) -  Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure
-* [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
-* [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
-* [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
-* [InfinityFree](https://infinityfree.net/) - Hospedagem de sites totalmente gratuita com PHP, MySQL
-* [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
-* [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
-* [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
-* [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites)
-* [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
-* [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
-* [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless
+* [1FreeHosting](http://www.1freehosting.com/) - Free website hosting with 100GB bandwidth
+* [Amazon Web Services](https://aws.amazon.com/) - Server rental service and other services
+* [BlueHost](https://www.bluehost.com/) - American web hosting company
+* [DigitalOcean](https://www.digitalocean.com/) - Dedicated and shared server rental
+* [DreamHost](https://www.dreamhost.com/) - High availability website hosting
+* [GoDaddy](https://br.godaddy.com/) - Shared and dedicated server rental company and domain registration
+* [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Google Server Rental Service
+* [Heroku](https://www.heroku.com/) - Free website hosting with support for NodeJS, Java, Ruby, PHP, Python, Go, Scala and Clojure
+* [HostGator](https://www.hostgator.com/) - Shared and dedicated hosting for websites and services
+* [Hostinger](https://www.hostinger.com/) - Website Hosting
+* [Hostoo](https://hostoo.io/) - Dedicated cloud computing website hosting
+* [InfinityFree](https://infinityfree.net/) - Completely free website hosting with PHP, MySQL
+* [iPage](https://www.ipage.com/) - Hosting of gringa websites with discounts for ads
+* [Netlify](https://www.netlify.com/) - Hosting for static websites that combines global deployment, continuous integration and automatic HTTPS
+* [One.com](https://www.one.com/) - General digital services (including website hosting)
+* [Surge](https://surge.sh/) - Free hosting for static pages
+* [Vercel](https://vercel.com/) - Free static and serverless website hosting
 
 ## 👮️ Hacking em geral
 * [Awesome hacking](https://github.com/sindresorhus/awesome#security) - Lista que agrega links relacionados a hacking
 * [Ctf time](https://ctftime.org/event/list/upcoming) - Lista que agrega eventos de CTF, entre e participe
 * [Hackerone](https://www.hackerone.com/) - Plataforma de pesquisa de vulnerabilidades e recompensa por bugs
 * [Portswigger](https://portswigger.net/web-security) - Curso de hacking web
-
-## 🔓 Hacking no youtube
-* [Crowsec Edtech | Carlos Vieira](https://www.youtube.com/c/CarlosVieiraCrowSec) - Videos e aulas sobre hacking
-* [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
-* [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
-* [GaneshICMC](https://www.youtube.com/c/GaneshICMC) - Videos e aulas sobre hacking
-* [Hack the box](https://youtube.com/c/HackTheBox) - Plataforma com desafios de hacking
-* [John Hammond](https://www.youtube.com/c/JohnHammond010) - Writeups de hacking
-* [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
-* [Papo binario](https://www.youtube.com/c/PapoBin%C3%A1rio) - Aulas sobre engenharia reversa e outros assuntos
-* [Solyd Offensive Security](https://www.youtube.com/c/solyd) - Introdução ao hacking e pentest
-* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Ethical hacking, buffer overflow, etc
-
-## 🖱️ Tecnologia no youTube
-* [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
-* [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
-* [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
-* [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) - Canal com aulas e cursos gratuitos sobre diversas tecnlogias
-* [CodeShow](https://www.youtube.com/CodeShowBR) - Canal sobre Python e Rust
-* [CodigoPraTodos](https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ) - Canal com lives de resolução de exercícios do CS50 e mais dicas de programação
-* [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end, etc
-* [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de cursos de tecnologia gratuitos
-* [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
-* [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
-* [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
-* [DevSuperior](https://youtube.com/devsuperior) - Canal para estudantes e profissionais iniciantes
-* [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
-* [Erick Wendel](https://www.youtube.com/c/ErickWendelTreinamentos) - Canal com conteúdos inéditos e exclusivos sobre Node.js, Javascript
-* [EspecializaTI](https://www.youtube.com/user/especializati) - Cursos gratuitos sobre PHP, Laravel, Linux e HTML+CSS
-* [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal sobre tecnologia e desenvolvimento
-* [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) - Canal oficial da comunidade de desenvolvedores do Facebook
-* [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial
-* [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
-* [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens
-* [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter
-* [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação
-* [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
-* [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos
-* [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
-* [Hora de Codar](https://www.youtube.com/c/MatheusBattisti) - Canal principalmente sobre javascript
-* [Jamilton Damasceno](https://www.youtube.com/jamiltondamasceno) - Canal sobre desenvolvimento Mobile e Web
-* [One Bit Code](https://www.youtube.com/c/OneBitCode) - Canal com aulas de React e Ruby
-* [O Irmão mais Velho](https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg/featured) - Aprenda UX/UI, Web e Mobile e desenvolva o seu mindset
-* [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
-* [Programação Dinâmica](https://www.youtube.com/c/ProgramaçãoDinâmica) - Canal sobre Python, Ciencias de Dados, Machine learning e Inteligência Artificial
-* [Programador de Elite](https://www.youtube.com/c/ProgramadordeElite/featured) - Canal com dicas de como conseguir emprego na área de TI fora do país
-* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
-* [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
-* [Roger Melo](https://www.youtube.com/c/RogerMelo) - Canal com aula e dicas de JavaScript puro
-* [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
-* [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais
-* [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo
-* [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript
-
-## 🎙 Podcasts
-* [Boss Level](https://open.spotify.com/show/003zbichzSTjf3m7W2Sfvc) - O Boss Level é um Podcast sobre desenvolvimento, Frontend, Backend e DevOps
-* [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
-* [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/) - Podcast com brasileiros que vivem e trabalham no exterior
-* [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro
-* [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral
-* [DioCast](https://castbox.fm/app/castbox/player/id1323408) - Tecnologia geral do canal DioLinux
-* [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
-* [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS
-* [Hackers Brasil](https://open.spotify.com/show/1w1OuG4Eec3aViCuNATBXo) - Podcast focado em Hacking e cybersecurity
-* [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
-* [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
-* [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
-* [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
-* [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
-* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira
-* [PodApps](https://podapps.net) - Podcast e Blog focado em privacidade e proteção de dados
-* [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
-* [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
-* [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
-
 
 ## 🏢 Business
 * [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
