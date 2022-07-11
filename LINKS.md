@@ -196,64 +196,64 @@ for the R Language and its variants
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft Code Editor
 
 ## 👨‍🎤️ Frontend
-* [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
-* [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
-* [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
-* [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
-* [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Estilos de botões em CSS que podem ser usados em projetos
-* [Chart.js](https://www.chartjs.org/) - Biblioteca JavaScript de criação de gráficos
-* [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
-* [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
-* [Colors lol](https://colors.lol) - Repositório de paletas de cores
-* [Cruip](https://cruip.com/) - Recursos de templates
-* [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
-* [CSS Layout](https://csslayout.io/) - Layouts e padrões populares feitos com CSS
-* [CSS Reference](https://cssreference.io/) - Guia visual para CSS com referencias de uso
-* [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
-* [DevSamples](https://www.devsamples.com/) - Exemplos de códigos fáceis de usar para HTML, CSS e JavaScript
-* [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
-* [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
-* [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
-* [FontPair](https://fontpair.co/) - Ferramenta para combinações de fontes
-* [FontSpark](https://fontspark.app/) - Gera fontes aleatórias de uma lista de fontes famosas usadas na web
-* [Foundation](https://foundation.zurb.com/) - Framework responsivo
-* [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
-* [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
-* [Grid Layoutit](https://grid.layoutit.com/) - Gerador de grid para código CSS
-* [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
-* [Image Color Picker](https://imagecolorpicker.com) - Obter a paleta de cores da imagem desejada
-* [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
-* [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
-* [Invision](https://www.invisionapp.com/) - Software de design para projetos
-* [Lottie](https://lottiefiles.com/) - Animações em after effects via json
-* [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
-* [Material-UI](https://material-ui.com/) - Um framework de interface de usuário para React
-* [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
-* [Nes.css](https://nostalgic-css.github.io/NES.css/) - Framework CSS estilo NES
-* [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
-* [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
-* [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
-* [Pure.css](https://purecss.io/) - Framework CSS responsivo
-* [SweetAlert2](https://sweetalert2.github.io/) - Biblioteca JavaScript de alertas responsivos e customizáveis
-* [Tailwind CSS](https://tailwindcss.com/) - Framework de estilo CSS
-* [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
+* [Awwwards](https://www.awwwards.com) - Inspiration for interfaces and templates with the latest in interface design
+* [Bootstrap](https://www.getbootstrap.com/) - CSS Framework
+* [BuildBootstrap](https://buildbootstrap.com/) - Create responsive layout for Bootstrap framework in version 3 and 4
+* [Bulma CSS](https://bulma.io/) - Free CSS framework based on Flexbox
+* [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - CSS button styles that can be used in projects
+* [Chart.js](https://www.chartjs.org/) - JavaScript chart creation library
+* [Colors and Fonts](https://www.colorsandfonts.com/) - Features color palettes and typography
+* [Coolors](https://coolors.co/) - Color palettes and build your own
+* [Colors lol](https://colors.lol) - Color palette repository
+* [Cruip](https://cruip.com/) - Template resources
+* [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Ready-to-use CSS animations
+* [CSS Layout](https://csslayout.io/) - Popular layouts and patterns made with CSS
+* [CSS Reference](https://cssreference.io/) - Visual guide to CSS with usage references
+* [CSS Tricks](https://css-tricks.com/) - Blog with several frontend tutorials
+* [DevSamples](https://www.devsamples.com/) - Easy-to-use code examples for HTML, CSS and JavaScript
+* [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Shape generator with border-radius in CSS
+* [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Interactive color palette to harmonize the front
+* [Font Flipper](https://fontflipper.com/) - Tool for testing fonts
+* [FontPair](https://fontpair.co/) - Tool for font combinations
+* [FontSpark](https://fontspark.app/) - Generates random fonts from a list of famous fonts used on the web
+* [Foundation](https://foundation.zurb.com/) - Responsive Framework
+* [Framer](https://www.framer.com/) - Tool for creating interactive interfaces
+* [FreeFrontEnd](https://freefrontend.com/) - Code examples, tutorials and HTML, CSS, Javascript articles (Angular, JQuery, React, Vue)
+* [Grid Layoutit](https://grid.layoutit.com/) - Grid generator for CSS code
+* [HTML DOM](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript
+* [Image Color Picker](https://imagecolorpicker.com) - Get the desired image color palette
+* [Interfacer](https://interfacer.xyz/) - Resources for creating interfaces
+* [Interfaces.pro](https://interfaces.pro/) - Inspiration for interfaces
+* [Invision](https://www.invisionapp.com/) - Design software for projects
+* [Lottie](https://lottiefiles.com/) - After effects animations via json
+* [Luna](https://github.com/OfficialMarinho/luna) - Brazilian CSS Framework
+* [Material-UI](https://material-ui.com/) - A UI framework for React
+* [Mockup](https://mockup.io/about/) - View and collaborate on mobile app design
+* [Nes.css](https://nostalgic-css.github.io/NES.css/) - NES-style CSS framework
+* [Neumorphism](https://neumorphism.io/) - Trend border-radius application
+* [Normalize CSS](https://necolas.github.io/normalize.css/) - Normalizes structures across browsers
+* [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Generates the script for a shadow (box-shadow & text-shadow) in CSS based on the shadow settings in Photoshop
+* [Pure.css](https://purecss.io/) - Responsive CSS Framework
+* [SweetAlert2](https://sweetalert2.github.io/) - JavaScript library of responsive and customizable alerts
+* [Tailwind CSS](https://tailwindcss.com/) - CSS styling framework
+* [UI Gradients](https://uigradients.com/) - UI Gradients to use
 
-## 🔮️ Edição de imagens
-* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
-* [Canva](https://www.canva.com/) - Ferramenta de design online
-* [Excalidraw](https://excalidraw.com) - Desenhe diagramas como se tivessem sido feitos a mão
-* [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
-* [Gimp](https://www.gimp.org/) - GIMP é um programa de código aberto voltado principalmente para criação e edição de imagens
-* [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
-* [Photoshop](https://www.adobe.com/br/products/photoshop.html) - Imagens incríveis, desenhos avançados e arte espetacular
-* [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
-* [Pixlr](https://pixlr.com/br/) - Conjunto de ferramentas e utilitários de edição de imagem baseado em nuvem
-* [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
-* [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
-* [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
-* [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
-* [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
-* [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens
+## 🔮️ Image editing
+* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Design software for projects
+* [Canva](https://www.canva.com/) - Online design tool
+* [Excalidraw](https://excalidraw.com) - Draw diagrams as if they were handmade
+* [Figma](https://www.figma.com/) - Design online projects for apps, software and websites
+* [Gimp](https://www.gimp.org/) - GIMP is an open source program primarily aimed at creating and editing images
+* [Gravit Designer](https://www.designer.io) - Online design tool with vector illustration support
+* [Photoshop](https://www.adobe.com/br/products/photoshop.html) - Incredible images, advanced designs and spectacular artwork
+* [Pixilart](https://www.pixilart.com/draw) - Draw pixel arts online
+* [Pixlr](https://pixlr.com/br/) - Cloud-based image editing tools and utilities suite
+* [Remove.bg](https://www.remove.bg/) - Removes backgrounds from images automatically
+* [Sketch](https://www.sketch.com/) - Development of high quality layouts
+* [Squoosh.app](https://squoosh.app/) - Image compressor and comparator, via browser
+* [Vectorizer](https://www.vectorizer.io/) - Convert images like PNGs, BMPs and JPEGs into vector graphics (SVG, EPS, DXF)
+* [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes and Mind Map
+* [X-Icon Editor](http://www.xiconeditor.com/) - High resolution favicon generator from images
 
 ## 🎠 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
