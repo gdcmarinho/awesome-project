@@ -444,23 +444,10 @@ para a Linguagem R e suas variantes
 * [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless
 
 ## 👮️ Hacking em geral
-* [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
-* [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier) - Analisador de cifras
-* [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
-* [Cryptii](https://cryptii.com/) - Decodificador de cifras
+* [Awesome hacking](https://github.com/sindresorhus/awesome#security) - Lista que agrega links relacionados a hacking
 * [Ctf time](https://ctftime.org/event/list/upcoming) - Lista que agrega eventos de CTF, entre e participe
-* [Hackaflag](https://hackaflag.com.br/) - Plataforma combinada de campeonatos estilo CTF, programas de Bug Bounty e cursos online
-* [Hacker101](https://www.hacker101.com/) - Aprenda hacking e bug bounty
 * [Hackerone](https://www.hackerone.com/) - Plataforma de pesquisa de vulnerabilidades e recompensa por bugs
-* [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
-* [HackTheBox Academy](https://academy.hackthebox.com/) - Aprenda hacking
-* [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
-* [HTTRack](http://www.httrack.com/) - Browser utility
-* [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
-* [NMap](https://nmap.org/) - Scanner de portas de rede
-* [PicoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
 * [Portswigger](https://portswigger.net/web-security) - Curso de hacking web
-* [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
 ## 🔓 Hacking no youtube
 * [Crowsec Edtech | Carlos Vieira](https://www.youtube.com/c/CarlosVieiraCrowSec) - Videos e aulas sobre hacking
@@ -470,8 +457,9 @@ para a Linguagem R e suas variantes
 * [Hack the box](https://youtube.com/c/HackTheBox) - Plataforma com desafios de hacking
 * [John Hammond](https://www.youtube.com/c/JohnHammond010) - Writeups de hacking
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Videos e aulas sobre hacking
-* [Solyd Offensive Security](https://www.youtube.com/c/solyd) - Videos e aulas sobre hacking
-* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Videos e aulas sobre hacking
+* [Papo binario](https://www.youtube.com/c/PapoBin%C3%A1rio) - Aulas sobre engenharia reversa e outros assuntos
+* [Solyd Offensive Security](https://www.youtube.com/c/solyd) - Introdução ao hacking e pentest
+* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Ethical hacking, buffer overflow, etc
 
 ## 🖱️ Tecnologia no youTube
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
