@@ -66,6 +66,7 @@
 * [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 * [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
 * [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
+* [Resopitório de API's públicas](https://github.com/public-apis/public-apis) - Repositório/catálogo de API's públicas separadas por categorias
 * [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
 * [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
 * [BrowserLing](https://www.browserling.com) - Teste seu site em diferentes navegadores e diferentes sistemas operacionais
