@@ -1,4 +1,4 @@
-## 📋 Índice
+## 📋 Table of Contents
 
 - [🖼 Free Stock Images](#-free-stock-images)
 - [🔧 Development Tools](#-development-tools)
@@ -8,15 +8,15 @@
 - [📝 IDEs and code editors](#-ides-and-code-editors)
 - [👨‍🎤️ Frontend](#-frontend)
 - [🔮️ Image editing](#-image-editing)
-- [🎠 Icon Library](#-icon-library)
+- [🎠 Icon libraries](#-icon-libraries)
 - [☁ IDE Cloud](#-ide-cloud)
 - [🔤 Programming languages](#-programming-languages)
 - [📕 Style Guide](#-style-guide)
 - [🏆 Challenges](#-challenges)
-- [👥 Increasing the network](#-increasing-the-network)
 - [👨‍🏫 Studies](#-studies)
 - [📚 Books](#-books)
 - [🏨 Hosting](#-hosting)
+- [👮️ Web security](#-web-security)
 - [🏢 Business](#-business)
 
 ## 🖼 Free stock images
@@ -138,7 +138,7 @@
 * [Azure DevOps](https://azure.microsoft.com/services/devops/) - Project management focused on planning, collaboration and deliverables
 * [Dontpad](http://dontpad.com/) - No-register note tabs
 * [Draw.io](https://www.draw.io/) - Develop amazing mind maps
-* [Evernote](https://evernote.com/intl/pt-br) - Sticky notes in the cloud
+* [Evernote](https://evernote.com/intl/) - Sticky notes in the cloud
 * [Google Keep](https://keep.google.com/) - Sticky Notes in the Cloud
 * [Jira](https://www.atlassian.com/software/jira) - Project manager and task monitoring
 * [lucidchart](https://lucidchart.com) - Documentation and team task management
@@ -146,11 +146,11 @@
 * [Notion](https://www.notion.so/) - Cloud sticky notes and online project management
 * [Pipefy](https://www.pipefy.com/) - Project Manager (PMS)
 * [Protectedtext](https://www.protectedtext.com/) - Encrypted note tabs with no registration required
-* [Runrun.it](https://runrun.it/pt-BR) - Project and task manager by boards
+* [Runrun.it](https://runrun.it/) - Project and task manager by boards
 * [Slack](https://slack.com/) - Project management with teams
 * [Taiga](https://taiga.io/) - Project control with teams through boards
 * [Things](https://culturedcode.com/things/) - Personal Task Manager
-* [Todoist](https://todoist.com/app?lang=pt_BR) - Management of personal and team projects
+* [Todoist](https://todoist.com/app) - Management of personal and team projects
 * [Trello](https://www.trello.com/) - Manage your projects with boards
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Online Project Manager
 
@@ -158,7 +158,6 @@
 * [GitHut 2.0](https://madnight.github.io/githut/#/) - Language statistics from GitHub
 * [GitHut](https://githut.info/) - Language statistics from GitHub
 * [StackOverflow survey](https://insights.stackoverflow.com/survey) - Annual Stack Overflow survey
-
 
 ## 🆓 Freebies
 * [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Free Fonts
@@ -188,8 +187,7 @@
 * [Notepad++](https://notepad-plus-plus.org/) - Root code editor
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP specific IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python-specific IDE
-* [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - Specific IDE
-for the R Language and its variants
+* [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - Specific IDE for the R Language and its variants
 * [StackEdit](https://stackedit.io/) - Online Markdown Editor
 * [Sublime Text](https://www.sublimetext.com/) - Your license has expired
 * [Visual Studio](https://visualstudio.microsoft.com/en-us/vs/) - Microsoft IDE
@@ -255,150 +253,134 @@ for the R Language and its variants
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes and Mind Map
 * [X-Icon Editor](http://www.xiconeditor.com/) - High resolution favicon generator from images
 
-## 🎠 Biblioteca de ícones
-* [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
-* [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-* [Iconfinder](https://www.iconfinder.com/) - Site contendo milhões de ícones e ilustrações
-* [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos
-* [Iconify Design](https://iconify.design) - Mais de 100 coleções de ícones dentro de uma única biblioteca
-* [Iconmonstr](https://iconmonstr.com/) - Site com 316 coleções de ícones gratuitos
-* [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
-* [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
-* [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
+## 🎠 Icon libraries
+* [Feather Icons](https://feathericons.com/) - Free and customizable icons
+* [Font Awesome](https://fontawesome.com) - Get vector icons and social logos on your website with Font Awesome
+* [Iconfinder](https://www.iconfinder.com/) - Site containing millions of icons and illustrations
+* [Iconfonts](https://icofont.com) - 2100+ free icons to spice up your creative designs
+* [Iconify Design](https://iconify.design) - 100+ icon collections within a single library
+* [Iconmonstr](https://iconmonstr.com/) - Website with 316 free icon collections
+* [Iconscout](https://iconscout.com/) - Site brings together a large collection of free icons
+* [LineIcons](https://lineicons.com/icons) - 2000+ line icons style
+* [Streamline](https://app.streamlineicons.com) - Library full of icons to use
 
 ## ☁ IDE Cloud
-* [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
-* [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
-* [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
-* [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
-* [IDE One](https://ideone.com/) - IDE online para C, Python, Java, etc
-* [My Compiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
-* [RStudio.Cloud](https://rstudio.cloud/) - IDE online para codificação na linguagem R com integração com o GitHub
-* [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
-* [Stackblitz](https://stackblitz.com) - Plataforma de codificação na nuvem
+* [CodeAnywhere](https://codeanywhere.com/) - Cloud coding platform
+* [CodeChef](https://www.codechef.com/ide) - Cloud coding platform
+* [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Various online coding platforms
+* [Gitpod](https://www.gitpod.io/) - Online IDE for GitHub
+* [IDE One](https://ideone.com/) - Online IDE for C, Python, Java, etc
+* [My Compiler](https://www.mycompiler.io/) - Online IDE with support for many languages
+* [RStudio.Cloud](https://rstudio.cloud/) - Online IDE for coding in R language with GitHub integration
+* [Repl.it](https://repl.it/) - Cloud coding platform
+* [Stackblitz](https://stackblitz.com) - Cloud coding platform
 
-## 🔤 Linguagens de programação
-* [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
-* [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
-* [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
-* [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional executada na máquina virutal Erlang
-* [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
-* [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas
-* [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos
-* [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada
-* [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
-* [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
-* [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica
-* [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
-* [Lua](https://www.lua.org/portugues.html) - Linguagem de programação desenvolvida no Brasil, permite programação procedural e POO
-* [Markdown](https://www.markdownguide.org/) - Linguagem de marcação frequentemente usado para formatar arquivos README 
-* [MatLab](https://www.mathworks.com/help/matlab/) -Linguagem de programação de alto nível com foco em cálculos  e construção de gráficos
-* [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos
-* [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
-* [PHP](https://www.php.net/) - A linguagem de programação dominante na web
-* [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
-* [R](https://cran.r-project.org/) - Linguagem de programação com foco em matemática, estatística, ciência de dados e aprendizagem de máquina
-* [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
-* [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros
-* [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
-* [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura
-* [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)
+## 🔤 Programming languages
+* [C#](https://docs.microsoft.com/dotnet/csharp/) - Programming language based on C++
+* [Clojure](https://clojure.org/) - Functional programming language (commonly used for AIs)
+* [Dart](https://dart.dev/) - Web-oriented scripting language developed by Google, used in Flutter
+* [Elixir](https://elixir-lang.org/) - Functional programming language running on Erlang virutal machine
+* [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Object-oriented and functional programming language
+* [Fortran](https://www.fortran90.org/) - Programming language developed by IBM, used in computer science and numerical analysis
+* [Go](https://golang.org/) - The Go programming language is an open source project to make programmers more productive
+* [Haskell](https://www.haskell.org/) - Purely functional and statically typed programming language
+* [Java](https://www.java.com/) - Typed, object-oriented and high-performance programming language
+* [JavaScript](http://brasil.js.org) - Constant evolution and growth in the market
+* [Julia](https://julialang.org/) - Open source, high performance programming language for technical computing
+* [Kotlin](https://kotlinlang.org/) - Cross-platform, object-oriented programming language compiles to MVJ
+* [Lua](https://www.lua.org/) - Programming language developed in Brazil, allows procedural programming and OOP
+* [Markdown](https://www.markdownguide.org/) - Markdown language often used to format README files
+* [MatLab](https://www.mathworks.com/help/matlab/) - High-level programming language focusing on calculations and graphing
+* [Pascal](https://docs.freepascal.org/) - Imperative, structured, object-oriented programming language
+* [Perl](https://www.perl.org/) - Cross-platform and dynamic programming language
+* [PHP](https://www.php.net/) - The dominant programming language on the web
+* [Python](https://www.python.org/) - Very suitable for data projects, artificial intelligence and chatbot
+* [R](https://cran.r-project.org/) - Programming language focusing on mathematics, statistics, data science and machine learning
+* [Ruby](https://www.ruby-lang.org/en/) - Multiparadigm programming language and dynamic typing
+* [Rust](https://www.rust-lang.org/) - Language for fast, competitive and secure systems
+* [Swift](https://www.apple.com/swift/) - Created by Apple primarily for iPhone app development
+* [Scala](https://www.scala-lang.org/) - Modern, multi-paradigm, concise, elegant and type-safe programming language
+* [Visual Basic](https://docs.microsoft.com/dotnet/visual-basic/) - Microsoft programming language (with graphical IDE)
 
-## 📕 Guia de Estilo
-* [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
-* [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb
-* [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google
-* [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
-* [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
-* [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google
+## 📕 Style Guide
+* [Airbnb - Javascript](https://github.com/airbnb/javascript) - Airbnb JavaScript Code Style Guide
+* [Airbnb - Ruby](https://github.com/airbnb/ruby) - Airbnb Ruby Code Style Guide
+* [Google - Good Engineering Practices](https://github.com/google/eng-practices) - Good Engineering Practices used by Google internals
+* [Google - C++](https://google.github.io/styleguide/cppguide.html) - Google's C++ Code Style Guide
+* [Google - Python](https://google.github.io/styleguide/pyguide.html) - Google's Python Code Style Guide
+* [Google - Java](https://google.github.io/styleguide/javaguide.html) - Google's Java Code Style Guide
 
-## 🏆 Desafios
-* [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
-* [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário
-* [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
-* [Beecrowd](https://www.beecrowd.com.br/judge/en/login) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada
-* [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada
-* [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet
-* [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
-* [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
-* [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada
-* [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada
-* [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
-* [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada
-* [Codility](https://app.codility.com/) - Desafios de Programação Back-end. IDE integrada
-* [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada
-* [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
-* [DailyCodingProblem](https://www.dailycodingproblem.com/) - Desafios de Programação Back-end enviados por e-mail. Solução do problema Premium
-* [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas
-* [DevChallenges.io](https://devchallenges.io/) - Site com projectos webs responsivos, front-end e full-stack
-* [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
-* [Exercism.io](https://exercism.io/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI.
-* [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
-* [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
-* [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Blog com desafios de programação front-end
-* [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
-* [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada
-* [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada
-* [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada
-* [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
-* [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada
+## 🏆 Challenges
+* [Ace Front End](https://www.acefrontend.com/) - Front-end programming challenges. Results via text. integrated IDE
+* [AdventoOfCode](https://adventofcode.com/) - Programming challenges by season. No built-in IDE. Manual validation done by the user
+* [App Ideas](https://github.com/florinpop17/app-ideas) - Compiled challenges for you to test your knowledge and increase your portfolio
+* [Beecrowd](https://www.beecrowd.com.br/judge/en/login) - Back-end Programming, Mathematics and SQL Challenges. integrated IDE
+* [ChallengeRocket](https://challengerocket.com/) - Back-end Programming Challenges. integrated IDE
+* [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Community-to-community programming challenges, Snippet-only integrated IDE
+* [CodeForces](https://codeforces.com/) - Back-end Programming Challenges with compilation and testing done by the platform but without an integrated IDE
+* [CodePen Challenges](https://codepen.io/challenges) - Front-end Programming Challenges. integrated IDE
+* [CoderByte](https://coderbyte.com/) - Back-end Programming Challenges. integrated IDE
+* [CodeSignal](https://app.codesignal.com/) - Back-end Programming Challenges. integrated IDE
+* [CodeWars](https://www.codewars.com/) - Back-end Programming Challenges. integrated IDE
+* [Codier](https://codier.io/challenge) - Front-end Programming Challenges, analysis of results by the community. integrated IDE
+* [Codility](https://app.codility.com/) - Back-end Programming Challenges. integrated IDE
+* [Coding Games](https://www.codingame.com/) - Back-end programming challenges focused on games theme. integrated IDE
+* [CSS Battle](https://cssbattle.dev/) - Temporary CSS battles. integrated IDE
+* [DailyCodingProblem](https://www.dailycodingproblem.com/) - Backend Programming Challenges sent via email. Premium Troubleshooting
+* [Desafio333](https://github.com/codigofalado/desafio333) - Desafio333 is a SIMPLE bimonthly challenge with the aim of inviting the community to discover new tools
+* [DevChallenges.io](https://devchallenges.io/) - Site with responsive web projects, front-end and full-stack
+* [Edabit](https://edabit.com/) - Back-end Programming Challenges. integrated IDE
+* [Exercism.io](https://exercism.io/) - Back-end Programming Challenges. No built-in IDE. Requires CLI download.
+* [Flex Box Defense](http://www.flexboxdefense.com/) - Front-end Programming Challenge focused on the flex box property. Integrated IDE.
+* [Flex Box Froggy](https://flexboxfroggy.com/) - Front-end Programming Challenge focused on the flex box property. Integrated IDE.
+* [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Blog with front-end programming challenges
+* [Frontend Mentor](https://www.frontendmentor.io/) - Front-end Programming Challenges, community analysis of results, no integrated IDE
+* [HackerRank](https://www.hackerrank.com/) - Backend Programming Challenges. integrated IDE
+* [ProjectEuler](https://projecteuler.net/) - Back-end Programming Challenges focused on mathematical problems. integrated IDE
+* [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Back-end Programming Challenges with compilation and testing done by the platform but without integrated IDE
+* [TopCoder](https://arena.topcoder.com/) - Challenges and Back-end Programming Arena with integrated IDE
 
-## 👥 Aumentando o network
-* [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
-* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
-* [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
-* [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
-* [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
-* [Dev.to](https://dev.to/) - Rede social para desenvolvedores
-* [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
-* [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
-* [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
-
-## 👨‍🏫 Estudos
-* [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
-* [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
-* [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação
-* [CodeAcademy](https://www.codecademy.com/) - Academia digital de ensino sobre programação
-* [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados
-* [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
-* [Curso de React Básico](https://github.com/diogocezar/dctb-react-course) - Aprenda React criando um sistema que exibe todos os repositórios de um usuário ou empresa no GitHub
-* [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
-* [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
-* [Duolingo](https://www.duolingo.com/learn) - A melhor maneira do mundo de aprender um idioma
-* [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
-* [Exercism](https://exercism.io/) - Pratique seus conhecimentos em programação
-* [Explain Shell](https://explainshell.com/) - Digite um comando e descubra sua função
-* [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
-* [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
-* [Flexbox Froggy](http://flexboxfroggy.com/) - Ferramenta online para estudos de Flexbox (CSS)
-* [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
-* [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
-* [Git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
-* [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
-* [Grid Malven](http://grid.malven.co/) - Documentação interessante sobre Grid (CSS)
-* [Grupo de Estudos CS50](https://comunidade.codigopratodos.com/t/grupo-de-estudos-gratuito-cpt-harvard-cs50/218) - Grupo de Estudos Brasileiro da Cadeira CS50 da Harvard, tutorial de tradução das aulas, lives com as resoluções dos exercícios e estudos dos temas abordados no curso
-* [Hackr.io](https://hackr.io/) - Documentações e cursos de inúmeras linguagens, frameworks e ferramentas.
-* [IGTI](https://www.igti.com.br/) - Plataforma com bootcamps, trilhas, imersões (possui cursos grátis)
-* [IME-USP](https://www.ime.usp.br/~pf/analise_de_algoritmos/index.html) - Materiais sobre análise de algoritmos do IME-USP
-* [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
-* [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
-* [Loiane](https://loiane.training/) - Angular, Java, Spring e mais...
-* [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
-* [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft
-* [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) - Tutorial sobre WebCrawling
-* [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
-* [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduzidas em vídeo com opções de teste durante a aula
-* [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
-* [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
-* [SoulCode](https://soulcodeacademy.org/) - Cursos de programação e soft skills intensivos
-* [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
-* [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
-* [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing, etc)
-* [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos
-* [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
-* [W3](https://www.w3schools.com/) - Conteúdos mais completos sobre HTML, CSS e JS
-* [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens
-* [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
+## 👨‍🏫 Studies
+* [Alligator](http://alligator.io) - Free classes from basics to advanced
+* [AWS Training and Certification](https://aws.amazon.com/en/training/) - Official Amazon Training for AWS Service
+* [Cisco NetAcad](https://www.netacad.com/) - Computer networking and programming courses
+* [CodeAcademy](https://www.codecademy.com/) - Digital academy for teaching programming
+* [Coursera](https://www.coursera.org/) - Free courses with highly regarded content
+* [CSS Grid Garden](http://cssgridgarden.com/) - Online tool for Grid Studies (CSS)
+* [Basic React Course](https://github.com/diogocezar/dctb-react-course) - Learn React by creating a system that displays all repositories of a user or company on GitHub
+* [Video Course](https://www.cursoemvideo.com/) - Free basic courses for beginners
+* [Digital Innovation One](http://digitalinnovation.one/) - Free teaching platform that develops and connects talent
+* [Duolingo](https://www.duolingo.com/learn) - The world's best way to learn a language
+* [edX](https://www.edx.org/) - Learn from the best, computer science and data science courses taught by faculty from the biggest and best universities around the world
+* [Exercism](https://exercism.io/) - Practice your programming skills
+* [Explain Shell](https://explainshell.com/) - Type a command and find out its function
+* [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Official Facebook Marketing Courses
+* [Flexbox Defense](http://www.flexboxdefense.com/) - Learn flexbox with a game
+* [Flexbox Froggy](http://flexboxfroggy.com/) - Online tool for studying Flexbox (CSS)
+* [Flukeout](http://flukeout.github.io/) - Online application to learn CSS in a practical way
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Learn how to code for free and earn portfolio helping nonprofits
+* [Git - commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Just a handy guide to get started with Git
+* [GitHub Learning Lab](https://lab.github.com/courses) - GitHub Study Platform
+* [Grid Malven](http://grid.malven.co/) - Interesting Grid Documentation (CSS)
+* [Hackr.io](https://hackr.io/) - Documentation and courses for numerous languages, frameworks and tools.
+* [JS: The Right Way](http://jstherightway.org/en-us/) - Guide intended to introduce new developers to JavaScript and help experienced developers learn more about best practices
+* [Khan Academy](https://pt.khanacademy.org/) - Reputable study platform on gamified learning
+* [Loiane](https://loiane.training/) - Angular, Java, Spring and more...
+* [Macorrati](http://www.macoratti.net/Default.aspx) - Tutorials and courses on .NET development
+* [Microsoft Learning](https://www.microsoft.com/en-us/learning) - Official Microsoft free and paid courses
+* [Data scraping for beginners](https://github.com/DwarfThief/Data-scraping-for-beginners) - WebCrawling Tutorial
+* [School of Net](https://www.schoolofnet.com/) - Online School of Technology
+* [Scrimba](https://scrimba.com) - Free lessons from basics to advanced played on video with in-class testing options
+* [Silent Teacher](http://silentteacher.toxicode.fr/) - Learn JavaScript with a game
+* [SoloLearn](https://www.sololearn.com/) - Learn to program for free on mobile or web
+* [SoulCode](https://soulcodeacademy.org/) - Intensive programming and soft skills courses
+* [StackOverflow](https://stackoverflow.com/) - Largest technology Q&A portal in the world
+* [Udacity](https://www.udacity.com/) - Technological learning with the hottest content on the market (AI, data science, cloud computing, etc)
+* [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - 1,400+ free development courses
+* [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 IT courses and software
+* [W3](https://www.w3schools.com/) - More complete content on HTML, CSS and JS
+* [W3Resources](https://w3resource.com) - Online exercises to practice in numerous languages
+* [W3Schools](https://www.w3schools.com) - Numerous documentations explained in an intuitive way
 
 ## 📚 Books
 * [Eloquent JavaScript](https://eloquentjavascript.net/) - Book about JavaScript
@@ -427,14 +409,12 @@ for the R Language and its variants
 * [Surge](https://surge.sh/) - Free hosting for static pages
 * [Vercel](https://vercel.com/) - Free static and serverless website hosting
 
-## 👮️ Hacking em geral
-* [Awesome hacking](https://github.com/sindresorhus/awesome#security) - Lista que agrega links relacionados a hacking
-* [Ctf time](https://ctftime.org/event/list/upcoming) - Lista que agrega eventos de CTF, entre e participe
-* [Hackerone](https://www.hackerone.com/) - Plataforma de pesquisa de vulnerabilidades e recompensa por bugs
-* [Portswigger](https://portswigger.net/web-security) - Curso de hacking web
+## 👮️ Web security
+* [Awesome hacking](https://github.com/sindresorhus/awesome#security) - List that aggregates hacking related links
+* [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
+* [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
+* [Portswigger](https://portswigger.net/web-security) - Web hacking course
 
 ## 🏢 Business
-* [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
-* [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
-* [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional
-* [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes
+* [CodeInterview](https://codeinterview.io/) - Conduct job interviews with live coding
+* [Rocket.Chat](https://rocket.chat/) - Free open-source corporate chat for teams
