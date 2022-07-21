@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md">
-    <img alt="Project banner" src="./banner.png" width="350">
+    <img alt="Project banner" src="./banner.png">
   </a>
 </div>
 <p align="center">A curated list of awesome project development links</p>
