@@ -333,7 +333,7 @@
 * [Exercism.io](https://exercism.io/) - Back-end Programming Challenges. No built-in IDE. Requires CLI download.
 * [Flex Box Defense](http://www.flexboxdefense.com/) - Front-end Programming Challenge focused on the flex box property. Integrated IDE.
 * [Flex Box Froggy](https://flexboxfroggy.com/) - Front-end Programming Challenge focused on the flex box property. Integrated IDE.
-* [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Blog with front-end programming challenges
+* [Front-End Challenges Club](https://piccalil.li/category/front-end-challenges-club) - Blog with front-end programming challenges
 * [Frontend Mentor](https://www.frontendmentor.io/) - Front-end Programming Challenges, community analysis of results, no integrated IDE
 * [HackerRank](https://www.hackerrank.com/) - Backend Programming Challenges. integrated IDE
 * [ProjectEuler](https://projecteuler.net/) - Back-end Programming Challenges focused on mathematical problems. integrated IDE
