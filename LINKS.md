@@ -410,7 +410,7 @@
 * [Vercel](https://vercel.com/) - Free static and serverless website hosting
 
 ## 👮️ Web security
-* [Awesome hacking](https://github.com/sindresorhus/awesome#security) - List that aggregates hacking related links
+* [C.S. university](https://github.com/brootware/awesome-cyber-security-university) - Hacking zero to hero
 * [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
 * [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
 * [Portswigger](https://portswigger.net/web-security) - Web hacking course
