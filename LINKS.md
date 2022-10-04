@@ -23,7 +23,6 @@
 * [500px](https://500px.com/creativecommons) - Free Stock Images
 * [Burst](https://pt.shopify.com/burst) - Shopify ecommerce service image platform
 * [Cupcake](http://cupcake.nilssonlee.se/) - Free images for commercial use
-* [ImageBankWithDiversidade](https://github.com/JulianaHelena5/ImageBankWithDiversidade) - Image bank with diverse people
 * [DrawKIT](https://www.drawkit.io/) - Illustrations for anyone to use
 * [FlatIcon](https://www.flaticon.com) - Stock vector icons
 * [Flickr](https://flickr.com/) - Social network of photographers
