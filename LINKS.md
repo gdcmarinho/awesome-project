@@ -1,5 +1,8 @@
 ## 📋 Table of Contents
 
+- [🎒️ Development courses](#-development-courses)
+- [👮️ Web security](#-web-security)
+- [📚 Books](#-books)
 - [🖼 Free Stock Images](#-free-stock-images)
 - [🔧 Development Tools](#-development-tools)
 - [📌 Project Management](#-project-management)
@@ -13,11 +16,68 @@
 - [🔤 Programming languages](#-programming-languages)
 - [📕 Style Guide](#-style-guide)
 - [🏆 Challenges](#-challenges)
-- [👨‍🏫 Studies](#-studies)
-- [📚 Books](#-books)
 - [🏨 Hosting](#-hosting)
-- [👮️ Web security](#-web-security)
 - [🏢 Business](#-business)
+
+
+## 🎒️ Development courses
+
+* [Alligator](http://alligator.io) - Free classes from basics to advanced
+* [AWS Training and Certification](https://aws.amazon.com/en/training/) - Official Amazon Training for AWS Service
+* [Cisco NetAcad](https://www.netacad.com/) - Computer networking and programming courses
+* [CodeAcademy](https://www.codecademy.com/) - Digital academy for teaching programming
+* [Coursera](https://www.coursera.org/) - Free courses with highly regarded content
+* [CSS Grid Garden](http://cssgridgarden.com/) - Online tool for Grid Studies (CSS)
+* [Basic React Course](https://github.com/diogocezar/dctb-react-course) - Learn React by creating a system that displays all repositories of a user or company on GitHub
+* [Video Course](https://www.cursoemvideo.com/) - Free basic courses for beginners
+* [Digital Innovation One](http://digitalinnovation.one/) - Free teaching platform that develops and connects talent
+* [Duolingo](https://www.duolingo.com/learn) - The world's best way to learn a language
+* [Edx](https://www.edx.org/) - Learn from the best, computer science and data science courses taught by faculty from the biggest and best universities around the world
+* [Exercism](https://exercism.io/) - Practice your programming skills
+* [Explain Shell](https://explainshell.com/) - Type a command and find out its function
+* [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Official Facebook Marketing Courses
+* [Flexbox Defense](http://www.flexboxdefense.com/) - Learn flexbox with a game
+* [Flexbox Froggy](http://flexboxfroggy.com/) - Online tool for studying Flexbox (CSS)
+* [Flukeout](http://flukeout.github.io/) - Online application to learn CSS in a practical way
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Learn how to code for free and earn portfolio helping nonprofits
+* [Git - commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Just a handy guide to get started with Git
+* [GitHub Learning Lab](https://lab.github.com/courses) - GitHub Study Platform
+* [Grid Malven](http://grid.malven.co/) - Interesting Grid Documentation (CSS)
+* [Hackr.io](https://hackr.io/) - Documentation and courses for numerous languages, frameworks and tools.
+* [JS: The Right Way](http://jstherightway.org/en-us/) - Guide intended to introduce new developers to JavaScript and help experienced developers learn more about best practices
+* [Khan Academy](https://pt.khanacademy.org/) - Reputable study platform on gamified learning
+* [Loiane](https://loiane.training/) - Angular, Java, Spring and more...
+* [Macorrati](http://www.macoratti.net/Default.aspx) - Tutorials and courses on .NET development
+* [Microsoft Learning](https://www.microsoft.com/en-us/learning) - Official Microsoft free and paid courses
+* [Data scraping for beginners](https://github.com/DwarfThief/Data-scraping-for-beginners) - WebCrawling Tutorial
+* [Rocketseat](https://www.rocketseat.com.br/) - We boost thousands of devs daily
+* [School of Net](https://www.schoolofnet.com/) - Online School of Technology
+* [Scrimba](https://scrimba.com) - Free lessons from basics to advanced played on video with in-class testing options
+* [Silent Teacher](http://silentteacher.toxicode.fr/) - Learn JavaScript with a game
+* [SoloLearn](https://www.sololearn.com/) - Learn to program for free on mobile or web
+* [SoulCode](https://soulcodeacademy.org/) - Intensive programming and soft skills courses
+* [StackOverflow](https://stackoverflow.com/) - Largest technology Q&A portal in the world
+* [Tech Guide - Alura](https://techguide.sh/) - Be a professional in T
+* [Udacity](https://www.udacity.com/) - Technological learning with the hottest content on the market (AI, data science, cloud computing, etc)
+* [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - 1,400+ free development courses
+* [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 IT courses and software
+* [W3](https://www.w3schools.com/) - More complete content on HTML, CSS and JS
+* [W3Resources](https://w3resource.com) - Online exercises to practice in numerous languages
+* [W3Schools](https://www.w3schools.com) - Numerous documentations explained in an intuitive way
+
+## 👮️ Web security
+* [C.S. university](https://github.com/brootware/awesome-cyber-security-university) - Hacking zero to hero
+* [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
+* [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
+* [Portswigger](https://portswigger.net/web-security) - Web hacking course
+
+## 📚 Books
+* [Eloquent JavaScript](https://eloquentjavascript.net/) - Book about JavaScript
+* [Free Tech Books](https://www.freetechbooks.com) - Free technology books and ebooks
+* [GoalKicker](https://goalkicker.com/) - Free programming books
+* [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Free books, articles and tutorials for beginners who want to program in C
+* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - JavaScript book series
+* [zLibrary](https://br1lib.org/) - The largest electronic library in the world
 
 ## 🖼 Free stock images
 * [500px](https://500px.com/creativecommons) - Free Stock Images
@@ -339,56 +399,6 @@
 * [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Back-end Programming Challenges with compilation and testing done by the platform but without integrated IDE
 * [TopCoder](https://arena.topcoder.com/) - Challenges and Back-end Programming Arena with integrated IDE
 
-## 👨‍🏫 Studies
-* [Alligator](http://alligator.io) - Free classes from basics to advanced
-* [AWS Training and Certification](https://aws.amazon.com/en/training/) - Official Amazon Training for AWS Service
-* [Cisco NetAcad](https://www.netacad.com/) - Computer networking and programming courses
-* [CodeAcademy](https://www.codecademy.com/) - Digital academy for teaching programming
-* [Coursera](https://www.coursera.org/) - Free courses with highly regarded content
-* [CSS Grid Garden](http://cssgridgarden.com/) - Online tool for Grid Studies (CSS)
-* [Basic React Course](https://github.com/diogocezar/dctb-react-course) - Learn React by creating a system that displays all repositories of a user or company on GitHub
-* [Video Course](https://www.cursoemvideo.com/) - Free basic courses for beginners
-* [Digital Innovation One](http://digitalinnovation.one/) - Free teaching platform that develops and connects talent
-* [Duolingo](https://www.duolingo.com/learn) - The world's best way to learn a language
-* [edX](https://www.edx.org/) - Learn from the best, computer science and data science courses taught by faculty from the biggest and best universities around the world
-* [Exercism](https://exercism.io/) - Practice your programming skills
-* [Explain Shell](https://explainshell.com/) - Type a command and find out its function
-* [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Official Facebook Marketing Courses
-* [Flexbox Defense](http://www.flexboxdefense.com/) - Learn flexbox with a game
-* [Flexbox Froggy](http://flexboxfroggy.com/) - Online tool for studying Flexbox (CSS)
-* [Flukeout](http://flukeout.github.io/) - Online application to learn CSS in a practical way
-* [FreeCodeCamp](https://www.freecodecamp.org/) - Learn how to code for free and earn portfolio helping nonprofits
-* [Git - commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Just a handy guide to get started with Git
-* [GitHub Learning Lab](https://lab.github.com/courses) - GitHub Study Platform
-* [Grid Malven](http://grid.malven.co/) - Interesting Grid Documentation (CSS)
-* [Hackr.io](https://hackr.io/) - Documentation and courses for numerous languages, frameworks and tools.
-* [JS: The Right Way](http://jstherightway.org/en-us/) - Guide intended to introduce new developers to JavaScript and help experienced developers learn more about best practices
-* [Khan Academy](https://pt.khanacademy.org/) - Reputable study platform on gamified learning
-* [Loiane](https://loiane.training/) - Angular, Java, Spring and more...
-* [Macorrati](http://www.macoratti.net/Default.aspx) - Tutorials and courses on .NET development
-* [Microsoft Learning](https://www.microsoft.com/en-us/learning) - Official Microsoft free and paid courses
-* [Data scraping for beginners](https://github.com/DwarfThief/Data-scraping-for-beginners) - WebCrawling Tutorial
-* [School of Net](https://www.schoolofnet.com/) - Online School of Technology
-* [Scrimba](https://scrimba.com) - Free lessons from basics to advanced played on video with in-class testing options
-* [Silent Teacher](http://silentteacher.toxicode.fr/) - Learn JavaScript with a game
-* [SoloLearn](https://www.sololearn.com/) - Learn to program for free on mobile or web
-* [SoulCode](https://soulcodeacademy.org/) - Intensive programming and soft skills courses
-* [StackOverflow](https://stackoverflow.com/) - Largest technology Q&A portal in the world
-* [Udacity](https://www.udacity.com/) - Technological learning with the hottest content on the market (AI, data science, cloud computing, etc)
-* [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - 1,400+ free development courses
-* [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 IT courses and software
-* [W3](https://www.w3schools.com/) - More complete content on HTML, CSS and JS
-* [W3Resources](https://w3resource.com) - Online exercises to practice in numerous languages
-* [W3Schools](https://www.w3schools.com) - Numerous documentations explained in an intuitive way
-
-## 📚 Books
-* [Eloquent JavaScript](https://eloquentjavascript.net/) - Book about JavaScript
-* [Free Tech Books](https://www.freetechbooks.com) - Free technology books and ebooks
-* [GoalKicker](https://goalkicker.com/) - Free programming books
-* [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Free books, articles and tutorials for beginners who want to program in C
-* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - JavaScript book series
-* [zLibrary](https://br1lib.org/) - The largest electronic library in the world
-
 ## 🏨 Hosting
 * [1FreeHosting](http://www.1freehosting.com/) - Free website hosting with 100GB bandwidth
 * [Amazon Web Services](https://aws.amazon.com/) - Server rental service and other services
@@ -407,12 +417,6 @@
 * [One.com](https://www.one.com/) - General digital services (including website hosting)
 * [Surge](https://surge.sh/) - Free hosting for static pages
 * [Vercel](https://vercel.com/) - Free static and serverless website hosting
-
-## 👮️ Web security
-* [C.S. university](https://github.com/brootware/awesome-cyber-security-university) - Hacking zero to hero
-* [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
-* [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
-* [Portswigger](https://portswigger.net/web-security) - Web hacking course
 
 ## 🏢 Business
 * [CodeInterview](https://codeinterview.io/) - Conduct job interviews with live coding
