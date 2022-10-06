@@ -1,6 +1,6 @@
 ## 📋 Table of Contents
 
-- [🎒️ Development courses](#-development-courses)
+- [🎒️ Courses](#-courses)
 - [👮️ Web security](#-web-security)
 - [📚 Books](#-books)
 - [🖼 Free Stock Images](#-free-stock-images)
@@ -20,7 +20,7 @@
 - [🏢 Business](#-business)
 
 
-## 🎒️ Development courses
+## 🎒️ Courses
 
 * [Alligator](http://alligator.io) - Free classes from basics to advanced
 * [AWS Training and Certification](https://aws.amazon.com/en/training/) - Official Amazon Training for AWS Service
