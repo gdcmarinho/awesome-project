@@ -29,9 +29,8 @@ This project follows the pattern below of commits to keep the organization:
 
 `<type>: imperative message`
 ### Types of commits
-- **fix** - You fixed some bug
-- **new** - You have added a new link
-- **docs** - You found an error in the documentation or added new information
+- **fix** - You fixed something
+- **new** - You have added new things
 - **style** - You found some pattern problem in the links
 
 ### Example imperative messages for commits
