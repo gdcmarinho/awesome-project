@@ -61,9 +61,7 @@
 * [Udacity](https://www.udacity.com/) - Technological learning with the hottest content on the market (AI, data science, cloud computing, etc)
 * [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - 1,400+ free development courses
 * [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 IT courses and software
-* [W3](https://www.w3schools.com/) - More complete content on HTML, CSS and JS
-* [W3Resources](https://w3resource.com) - Online exercises to practice in numerous languages
-* [W3Schools](https://www.w3schools.com) - Numerous documentations explained in an intuitive way
+* [W3Schools](https://www.w3schools.com) - Online exercises to practice in numerous languages
 
 ## 👮️ Web security
 * [C.S. university](https://github.com/brootware/awesome-cyber-security-university) - Hacking zero to hero
