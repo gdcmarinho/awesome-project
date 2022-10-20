@@ -146,8 +146,8 @@
 * [GitHub Gist](https://gist.github.com/) - Make small notes and small code on GitHub Gist
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Check security of a website
 * [Grader](https://website.grader.com/) - Site Rating
-* [How to Center in CSS](http://howtocenterincss.com/) - Code generator for divs or texts that need centering
 * [Hyper](https://hyper.is/) - Simple, useful and free command line
+* [Invertexto] - text tooling online
 * [Joomla](https://www.joomla.org/) - Free CMS
 * [JS Bin](https://jsbin.com/) - Code and share HTML, CSS and JS projects
 * [JSCompress](https://jscompress.com/) - Converter from JS to Minified JS code
@@ -174,12 +174,11 @@
 * [Shields.io](https://shields.io/) - Badge generator for markdown
 * [Simple CSS Media Query Generator](https://simplecss.eu) - Generate media queries for a specific device size
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Test SSL of websites
+* [Squoosh] - Compress images using the browser
 * [StreamYard](https://streamyard.com/) - StreamYard is a live streaming studio in your browser
 * [Swagger](https://swagger.io/) - Tool to design, build, document and use RESTful web services
 * [ASCII Table](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Complete table with ASCII characters
 * [Telegram](https://telegram.org/) - Encrypted messenger
-* [TinyJPG](https://tinyjpg.com/) - Compress image from JPG format
-* [TinyPNG](https://tinypng.com/) - Compress image from PNG format
 * [W3.org](https://validator.w3.org/) - Validate HTML
 * [WakaTime](https://wakatime.com/) - Manage your development time
 * [Wappalyzer](https://www.wappalyzer.com/) - See the technologies a website is running
