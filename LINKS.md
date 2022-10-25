@@ -7,18 +7,14 @@
 - [🔧 Development Tools](#-development-tools)
 - [📌 Project Management](#-project-management)
 - [📊 Statistics for devs](#-stats-for-devs)
-- [🆓 Freebies](#-freebies)
 - [📝 IDEs and code editors](#-ides-and-code-editors)
 - [👨‍🎤️ Frontend](#-frontend)
 - [🔮️ Image editing](#-image-editing)
 - [🎠 Icon libraries](#-icon-libraries)
 - [☁ IDE Cloud](#-ide-cloud)
-- [🔤 Programming languages](#-programming-languages)
-- [📕 Style Guide](#-style-guide)
+- [🔤 Developer Docs](#-programming-languages)
 - [🏆 Challenges](#-challenges)
 - [🏨 Hosting](#-hosting)
-- [🏢 Business](#-business)
-
 
 ## 🎒️ Courses
 
@@ -215,20 +211,6 @@
 * [GitHut](https://githut.info/) - Language statistics from GitHub
 * [StackOverflow survey](https://insights.stackoverflow.com/survey) - Annual Stack Overflow survey
 
-## 🆓 Freebies
-* [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Free Fonts
-* [365 PSD](https://pt.365psd.com/) - Free items all year round
-* [Codester Freebies](https://www.codester.com/free/) - Free coding themes and projects weekly
-* [Freebbble](http://freebbble.com/) - Dribbble Freebies
-* [Freebiesbug](https://freebiesbug.com/) - Website with free digital files
-* [FundleBundle](https://www.fundlebundle.net/freebies) - Free freebies
-* [GreenSock](https://greensock.com/examples-showcases) - Showcase of inspiring applications
-* [HTML5 UP](https://html5up.net/) - Free HTML5 templates
-* [MDBootstrap](https://mdbootstrap.com/) - Templates, freebies, free Bootstrap tutorials
-* [ShareBootstrap](https://sharebootstrap.com/) - Free Bootstrap Templates
-* [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 free premium WordPress themes monthly
-* [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Free HTML5 + CSS3 Themes
-
 ## 📝 IDEs and code editors
 * [Atom](https://atom.io/) - GitHub Code Editor
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Code editor for Mac OS
@@ -331,7 +313,7 @@
 * [Repl.it](https://repl.it/) - Cloud coding platform
 * [Stackblitz](https://stackblitz.com) - Cloud coding platform
 
-## 🔤 Programming languages
+## 🔤 Developer Docs
 * [C#](https://docs.microsoft.com/dotnet/csharp/) - Programming language based on C++
 * [Clojure](https://clojure.org/) - Functional programming language (commonly used for AIs)
 * [Dart](https://dart.dev/) - Web-oriented scripting language developed by Google, used in Flutter
@@ -347,6 +329,7 @@
 * [Lua](https://www.lua.org/) - Programming language developed in Brazil, allows procedural programming and OOP
 * [Markdown](https://www.markdownguide.org/) - Markdown language often used to format README files
 * [MatLab](https://www.mathworks.com/help/matlab/) - High-level programming language focusing on calculations and graphing
+* [Mdn Docs](https://developer.mozilla.org/en-US/docs/Web) - Documenting web technologies, including CSS, HTML, and JavaScript, since 2005
 * [Pascal](https://docs.freepascal.org/) - Imperative, structured, object-oriented programming language
 * [Perl](https://www.perl.org/) - Cross-platform and dynamic programming language
 * [PHP](https://www.php.net/) - The dominant programming language on the web
@@ -357,14 +340,6 @@
 * [Swift](https://www.apple.com/swift/) - Created by Apple primarily for iPhone app development
 * [Scala](https://www.scala-lang.org/) - Modern, multi-paradigm, concise, elegant and type-safe programming language
 * [Visual Basic](https://docs.microsoft.com/dotnet/visual-basic/) - Microsoft programming language (with graphical IDE)
-
-## 📕 Style Guide
-* [Airbnb - Javascript](https://github.com/airbnb/javascript) - Airbnb JavaScript Code Style Guide
-* [Airbnb - Ruby](https://github.com/airbnb/ruby) - Airbnb Ruby Code Style Guide
-* [Google - Good Engineering Practices](https://github.com/google/eng-practices) - Good Engineering Practices used by Google internals
-* [Google - C++](https://google.github.io/styleguide/cppguide.html) - Google's C++ Code Style Guide
-* [Google - Python](https://google.github.io/styleguide/pyguide.html) - Google's Python Code Style Guide
-* [Google - Java](https://google.github.io/styleguide/javaguide.html) - Google's Java Code Style Guide
 
 ## 🏆 Challenges
 * [Ace Front End](https://www.acefrontend.com/) - Front-end programming challenges. Results via text. integrated IDE
@@ -414,7 +389,3 @@
 * [One.com](https://www.one.com/) - General digital services (including website hosting)
 * [Surge](https://surge.sh/) - Free hosting for static pages
 * [Vercel](https://vercel.com/) - Free static and serverless website hosting
-
-## 🏢 Business
-* [CodeInterview](https://codeinterview.io/) - Conduct job interviews with live coding
-* [Rocket.Chat](https://rocket.chat/) - Free open-source corporate chat for teams
