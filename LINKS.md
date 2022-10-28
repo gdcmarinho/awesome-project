@@ -214,7 +214,7 @@
 * [StackOverflow survey](https://insights.stackoverflow.com/survey) - Annual Stack Overflow survey
 
 ## 📝 IDEs and code editors
-* [Atom](https://atom.io/) - GitHub Code Editor
+* [Atom](https://atom.io/) - GitHub Code Editor - Is deprecated and will be archived on December 1 2022 - [Oficial statement](https://github.blog/2022-06-08-sunsetting-atom)
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Code editor for Mac OS
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) - SQL code editor and database manager
 * [Brackets](http://brackets.io/) - Adobe Code Editor
