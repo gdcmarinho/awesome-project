@@ -6,6 +6,7 @@
 <p align="center">A curated list of awesome project development links</p>
 
 [<p align="center">Start browse »</p>](https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md)
+[<p align="center">Start browse »</p>](https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md)
 [<p align="center">Contribution guideline »</p>](https://github.com/gdcmarinho/awesome-project/blob/master/CONTRIBUTING.md)
 
 # License
