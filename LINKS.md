@@ -60,11 +60,12 @@
 * [W3Schools](https://www.w3schools.com) - Online exercises to practice in numerous languages
 
 ## 👮️ Web security
+* [Bugcrowd](https://www.bugcrowd.com) Crowdsourced cybersecurity solution offering vulnerability, bug, and penetration detection.
 * [C.S. university](https://github.com/brootware/awesome-cyber-security-university) - Hacking zero to hero
 * [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
 * [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
-* [Portswigger](https://portswigger.net/web-security) - Web hacking course
 * [HackTheBox](https://www.hackthebox.com) - A massive, online cybersecurity training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills.
+* [Portswigger](https://portswigger.net/web-security) - Web hacking course
 * [TryHackMe](https://tryhackme.com) -  A free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
 ## 📚 Books
