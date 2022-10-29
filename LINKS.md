@@ -1,6 +1,5 @@
 ## 📋 Table of Contents
 
-- [📋 Table of Contents](#-table-of-contents)
 - [🎒️ Courses](#️-courses)
 - [👮️ Web security](#️-web-security)
 - [📚 Books](#-books)
