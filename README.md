@@ -5,8 +5,13 @@
 </div>
 <p align="center">A curated list of awesome project development links</p>
 
-[<p align="center">Start browse »</p>](https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md)
-[<p align="center">Contribution guideline »</p>](https://github.com/gdcmarinho/awesome-project/blob/master/CONTRIBUTING.md)
+<div align="center">
+
+[Start browse »](https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md)
+
+[Contribution guideline »](https://github.com/gdcmarinho/awesome-project/blob/master/CONTRIBUTING.md)
+
+</div>
 
 # License
 This repository is under the MIT license. For more informations, [click here](https://github.com/gdcmarinho/awesome-project/blob/master/LICENSE).
