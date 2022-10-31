@@ -63,6 +63,7 @@
 * [Bugcrowd](https://www.bugcrowd.com) Crowdsourced cybersecurity solution offering vulnerability, bug, and penetration detection.
 * [C.S. university](https://github.com/brootware/awesome-cyber-security-university) - Hacking zero to hero
 * [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
+* [Desec](https://desecsecurity.com/curso/introducao-pentest) - Introduction to hacking and pentesting
 * [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
 * [HackTheBox](https://www.hackthebox.com) - A massive, online cybersecurity training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills.
 * [Portswigger](https://portswigger.net/web-security) - Web hacking course
