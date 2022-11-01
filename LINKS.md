@@ -236,6 +236,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft Code Editor
 
 ## 👨‍🎤️ Frontend
+* [Animista](animismo.net) - Css animations on demand
 * [Awwwards](https://www.awwwards.com) - Inspiration for interfaces and templates with the latest in interface design
 * [Bootstrap](https://www.getbootstrap.com/) - CSS Framework
 * [BuildBootstrap](https://buildbootstrap.com/) - Create responsive layout for Bootstrap framework in version 3 and 4
