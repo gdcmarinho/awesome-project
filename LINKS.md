@@ -19,7 +19,7 @@
 ## 🎒️ Courses
 
 * [CSS Grid Garden](http://cssgridgarden.com/) - Online tool for Grid Studies (CSS)
-* [Video Course](hhttps://www.youtube.com/c/CursoemV%C3%ADdeo/playlists) - Free basic courses for beginners
+* [Video Course](https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists) - Free basic courses for beginners
 * [Digital Innovation One](http://digitalinnovation.one/) - Free teaching platform that develops and connects talent
 * [Duolingo](https://www.duolingo.com) - The world's best way to learn a language
 * [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Official Facebook Marketing Courses
@@ -38,7 +38,7 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Learn) - Learn web development from the professionals
 * [Microsoft Learning](https://www.microsoft.com/en-us/learning) - Official Microsoft free and paid courses
 * [Data scraping for beginners](https://github.com/DwarfThief/Data-scraping-for-beginners) - WebCrawling Tutorial
-* [Rocketseat](hhttps://www.rocketseat.com.br/discover) - We boost thousands of devs daily
+* [Rocketseat](https://www.rocketseat.com.br/discover) - We boost thousands of devs daily
 * [School of Net](https://www.schoolofnet.com/) - Online School of Technology
 * [Scrimba](https://scrimba.com) - Free lessons from basics to advanced played on video with in-class testing options
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Learn JavaScript with a game
