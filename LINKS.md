@@ -18,23 +18,14 @@
 
 ## 🎒️ Courses
 
-* [Alligator](http://alligator.io) - Free classes from basics to advanced
-* [AWS Training and Certification](https://aws.amazon.com/en/training/) - Official Amazon Training for AWS Service
-* [Cisco NetAcad](https://www.netacad.com/) - Computer networking and programming courses
-* [CodeAcademy](https://www.codecademy.com/) - Digital academy for teaching programming
-* [Coursera](https://www.coursera.org/) - Free courses with highly regarded content
 * [CSS Grid Garden](http://cssgridgarden.com/) - Online tool for Grid Studies (CSS)
-* [Basic React Course](https://github.com/diogocezar/dctb-react-course) - Learn React by creating a system that displays all repositories of a user or company on GitHub
-* [Video Course](https://www.cursoemvideo.com/) - Free basic courses for beginners
+* [Video Course](hhttps://www.youtube.com/c/CursoemV%C3%ADdeo/playlists) - Free basic courses for beginners
 * [Digital Innovation One](http://digitalinnovation.one/) - Free teaching platform that develops and connects talent
-* [Duolingo](https://www.duolingo.com/learn) - The world's best way to learn a language
-* [Edx](https://www.edx.org/) - Learn from the best, computer science and data science courses taught by faculty from the biggest and best universities around the world
-* [Exercism](https://exercism.io/) - Practice your programming skills
-* [Explain Shell](https://explainshell.com/) - Type a command and find out its function
+* [Duolingo](https://www.duolingo.com) - The world's best way to learn a language
 * [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Official Facebook Marketing Courses
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Learn flexbox with a game
 * [Flexbox Froggy](http://flexboxfroggy.com/) - Online tool for studying Flexbox (CSS)
-* [Flukeout](http://flukeout.github.io/) - Online application to learn CSS in a practical way
+* [Flukeout](http://flukeout.github.io/) - Online application to learn HTML, CSS in a practical way
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Learn how to code for free and earn portfolio helping nonprofits
 * [Git - commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Just a handy guide to get started with Git
 * [GitHub Learning Lab](https://lab.github.com/courses) - GitHub Study Platform
@@ -44,9 +35,10 @@
 * [Khan Academy](https://pt.khanacademy.org/) - Reputable study platform on gamified learning
 * [Loiane](https://loiane.training/) - Angular, Java, Spring and more...
 * [Macorrati](http://www.macoratti.net/Default.aspx) - Tutorials and courses on .NET development
+* [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Learn) - Learn web development from the professionals
 * [Microsoft Learning](https://www.microsoft.com/en-us/learning) - Official Microsoft free and paid courses
 * [Data scraping for beginners](https://github.com/DwarfThief/Data-scraping-for-beginners) - WebCrawling Tutorial
-* [Rocketseat](https://www.rocketseat.com.br/) - We boost thousands of devs daily
+* [Rocketseat](hhttps://www.rocketseat.com.br/discover) - We boost thousands of devs daily
 * [School of Net](https://www.schoolofnet.com/) - Online School of Technology
 * [Scrimba](https://scrimba.com) - Free lessons from basics to advanced played on video with in-class testing options
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Learn JavaScript with a game
@@ -335,7 +327,6 @@
 * [Lua](https://www.lua.org/) - Programming language developed in Brazil, allows procedural programming and OOP
 * [Markdown](https://www.markdownguide.org/) - Markdown language often used to format README files
 * [MatLab](https://www.mathworks.com/help/matlab/) - High-level programming language focusing on calculations and graphing
-* [Mdn Docs](https://developer.mozilla.org/en-US/docs/Web) - Documenting web technologies, including CSS, HTML, and JavaScript, since 2005
 * [Pascal](https://docs.freepascal.org/) - Imperative, structured, object-oriented programming language
 * [Perl](https://www.perl.org/) - Cross-platform and dynamic programming language
 * [PHP](https://www.php.net/) - The dominant programming language on the web
