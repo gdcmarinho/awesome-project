@@ -17,8 +17,10 @@
 - [🏨 Hosting](#-hosting)
 
 ## 🎒️ Courses
-
-* [CSS Grid Garden](http://cssgridgarden.com/) - Online tool for Grid Studies (CSS)
+* [Balta.io](https://balta.io/carreiras) - Learn frontend, backend and mobile
+* [Css Grid Garden](http://cssgridgarden.com/) - Online tool for Grid Studies (CSS)
+* [Css flex origamid](https://origamid.com/projetos/flexbox-guia-completo/) - How to use flex css
+* [Css grid origamid](https://www.origamid.com/projetos/css-grid-layout-guia-completo/) - How to use grid css
 * [Video Course](https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists) - Free basic courses for beginners
 * [Digital Innovation One](http://digitalinnovation.one/) - Free teaching platform that develops and connects talent
 * [Duolingo](https://www.duolingo.com) - The world's best way to learn a language
@@ -28,27 +30,16 @@
 * [Flukeout](http://flukeout.github.io/) - Online application to learn HTML, CSS in a practical way
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Learn how to code for free and earn portfolio helping nonprofits
 * [Git - commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Just a handy guide to get started with Git
-* [GitHub Learning Lab](https://lab.github.com/courses) - GitHub Study Platform
-* [Grid Malven](http://grid.malven.co/) - Interesting Grid Documentation (CSS)
-* [Hackr.io](https://hackr.io/) - Documentation and courses for numerous languages, frameworks and tools.
-* [JS: The Right Way](http://jstherightway.org/en-us/) - Guide intended to introduce new developers to JavaScript and help experienced developers learn more about best practices
+* [GitHub Learning Lab](https://lab.github.com) - GitHub Study Platform
 * [Khan Academy](https://pt.khanacademy.org/) - Reputable study platform on gamified learning
 * [Loiane](https://loiane.training/) - Angular, Java, Spring and more...
-* [Macorrati](http://www.macoratti.net/Default.aspx) - Tutorials and courses on .NET development
 * [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Learn) - Learn web development from the professionals
-* [Microsoft Learning](https://www.microsoft.com/en-us/learning) - Official Microsoft free and paid courses
-* [Data scraping for beginners](https://github.com/DwarfThief/Data-scraping-for-beginners) - WebCrawling Tutorial
 * [Rocketseat](https://www.rocketseat.com.br/discover) - We boost thousands of devs daily
 * [School of Net](https://www.schoolofnet.com/) - Online School of Technology
-* [Scrimba](https://scrimba.com) - Free lessons from basics to advanced played on video with in-class testing options
 * [Silent Teacher](http://silentteacher.toxicode.fr/) - Learn JavaScript with a game
 * [SoloLearn](https://www.sololearn.com/) - Learn to program for free on mobile or web
-* [SoulCode](https://soulcodeacademy.org/) - Intensive programming and soft skills courses
-* [StackOverflow](https://stackoverflow.com/) - Largest technology Q&A portal in the world
 * [Tech Guide - Alura](https://techguide.sh/) - Be a professional in T
-* [Udacity](https://www.udacity.com/) - Technological learning with the hottest content on the market (AI, data science, cloud computing, etc)
-* [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - 1,400+ free development courses
-* [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 IT courses and software
+* [Udemy](https://www.udemy.com/) - +100 courses in every topic
 * [W3Schools](https://www.w3schools.com) - Online exercises to practice in numerous languages
 
 ## 👮️ Web security
@@ -65,6 +56,7 @@
 * [Eloquent JavaScript](https://eloquentjavascript.net/) - Book about JavaScript
 * [Free Tech Books](https://www.freetechbooks.com) - Free technology books and ebooks
 * [GoalKicker](https://goalkicker.com/) - Free programming books
+* [JS: The Right Way](http://jstherightway.org/en-us/) - Guide intended to introduce new developers to JavaScript and help experienced developers learn more about best practices
 * [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Free books, articles and tutorials for beginners who want to program in C
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - JavaScript book series
 * [zLibrary](https://br1lib.org/) - The largest electronic library in the world
