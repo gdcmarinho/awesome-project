@@ -30,7 +30,6 @@
 * [Flukeout](http://flukeout.github.io/) - Online application to learn HTML, CSS in a practical way
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Learn how to code for free and earn portfolio helping nonprofits
 * [Git - commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Just a handy guide to get started with Git
-* [GitHub Learning Lab](https://lab.github.com) - GitHub Study Platform
 * [Khan Academy](https://pt.khanacademy.org/) - Reputable study platform on gamified learning
 * [Loiane](https://loiane.training/) - Angular, Java, Spring and more...
 * [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Learn) - Learn web development from the professionals
