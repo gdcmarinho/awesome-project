@@ -54,7 +54,7 @@
 ## 📚 Books
 * [Free Tech Books](https://www.freetechbooks.com) - Free technology books and ebooks
 * [GoalKicker](https://goalkicker.com/) - Free programming books
-* [Le livors](https://lelivros.digital/) - The best place for you to download books
+* [Le livros](https://lelivros.digital/) - The best place for you to download books
 * [Manga Livre](https://mangalivre.net/) - Online reader and host of manga's
 
 ## 🖼 Free stock images
