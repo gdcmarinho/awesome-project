@@ -200,21 +200,15 @@
 * [StackOverflow survey](https://insights.stackoverflow.com/survey) - Annual Stack Overflow survey
 
 ## 📝 IDEs and code editors
-* [Atom](https://atom.io/) - GitHub Code Editor - Is deprecated and will be archived on December 15 2022 - [Oficial statement](https://github.blog/2022-06-08-sunsetting-atom)
-* [BBEdit](https://www.barebones.com/products/bbedit/) - Code editor for Mac OS
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) - SQL code editor and database manager
 * [Brackets](http://brackets.io/) - Adobe Code Editor
-* [CodeBlocks](http://www.codeblocks.org/) - IDE for C and C++
-* [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ for C/C++ language
+* [CodeBlocks](https://www.codeblocks.org/) - IDE for C and C++
 * [Eclipse](https://www.eclipse.org/downloads/) - IBM's free software IDE
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Jetbrains IDE
+* [Jetbrains IDE's](https://www.jetbrains.com/products/#type=ide) - Whichever technologies you use, there's a JetBrains tool to match
+* [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
 * [NeoVim](https://neovim.io/) - Code editor via terminal
 * [NetBeans](https://netbeans.org/) - Free Apache IDE
 * [Notepad++](https://notepad-plus-plus.org/) - Root code editor
-* [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP specific IDE
-* [PyCharm](https://www.jetbrains.com/pycharm/) - Python-specific IDE
-* [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - Specific IDE for the R Language and its variants
-* [StackEdit](https://stackedit.io/) - Online Markdown Editor
 * [Sublime Text](https://www.sublimetext.com/) - Your license has expired
 * [Visual Studio](https://visualstudio.microsoft.com/en-us/vs/) - Microsoft IDE
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft Code Editor
