@@ -52,13 +52,10 @@
 * [TryHackMe](https://tryhackme.com) -  A free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
 ## 📚 Books
-* [Eloquent JavaScript](https://eloquentjavascript.net/) - Book about JavaScript
 * [Free Tech Books](https://www.freetechbooks.com) - Free technology books and ebooks
 * [GoalKicker](https://goalkicker.com/) - Free programming books
-* [JS: The Right Way](http://jstherightway.org/en-us/) - Guide intended to introduce new developers to JavaScript and help experienced developers learn more about best practices
-* [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Free books, articles and tutorials for beginners who want to program in C
-* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - JavaScript book series
-* [zLibrary](https://br1lib.org/) - The largest electronic library in the world
+* [Le livors](https://lelivros.digital/) - The best place for you to download books
+* [Manga Livre](https://mangalivre.net/) - Online reader and host of manga's
 
 ## 🖼 Free stock images
 * [500px](https://500px.com/creativecommons) - Free Stock Images
