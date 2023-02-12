@@ -42,7 +42,7 @@
 * [W3Schools](https://www.w3schools.com) - Online exercises to practice in numerous languages
 
 ## 👮️ Hacking
-* [Bugcrowd](https://www.bugcrowd.com) Crowdsourced cybersecurity solution offering vulnerability, bug, and penetration detection.
+* [Bugcrowd](https://www.bugcrowd.com) - Crowdsourced cybersecurity solution offering vulnerability, bug, and penetration detection.
 * [C.S. university](https://github.com/brootware/awesome-cyber-security-university) - Hacking zero to hero
 * [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
 * [Desec](https://desecsecurity.com/curso/introducao-pentest) - Introduction to hacking and pentesting
