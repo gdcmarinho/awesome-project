@@ -294,7 +294,7 @@
 * [Stackblitz](https://stackblitz.com) - Cloud coding platform
 
 ## 🔤 Developer Docs
-* [Angular](Angular.io) - The modern web developer's plataform
+* [Angular](https://angular.io/) - The modern web developer's plataform
 * [C#](https://docs.microsoft.com/dotnet/csharp/) - Programming language based on C++
 * [Clojure](https://clojure.org/) - Functional programming language (commonly used for AIs)
 * [Dart](https://dart.dev/) - Web-oriented scripting language developed by Google, used in Flutter
