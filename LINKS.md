@@ -6,7 +6,7 @@
 - [🖼 Free stock images](#-free-stock-images)
 - [🔧 Development tools](#-development-tools)
 - [📌 Project management](#-project-management)
-- [📊 Stats for devs](#-stats-for-devs)
+- [🔔 Blogs](#-blogs)
 - [📝 IDEs and code editors](#-ides-and-code-editors)
 - [👨‍🎤️ Frontend](#️-frontend)
 - [🔮️ Image editing](#️-image-editing)
@@ -191,10 +191,11 @@
 * [Trello](https://www.trello.com/) - Manage your projects with boards
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Online Project Manager
 
-## 📊 Stats for devs
-* [GitHut 2.0](https://madnight.github.io/githut/#/) - Language statistics from GitHub
-* [GitHut](https://githut.info/) - Language statistics from GitHub
+## 🔔 Blogs
+* [Octoverse](https://octoverse.github.com/) - The state of software, by github
 * [StackOverflow survey](https://insights.stackoverflow.com/survey) - Annual Stack Overflow survey
+* [CSS Tricks](https://css-tricks.com/) - Blog with several frontend tutorials
+
 
 ## 📝 IDEs and code editors
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) - SQL code editor and database manager
@@ -225,7 +226,6 @@
 * [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Ready-to-use CSS animations
 * [CSS Layout](https://csslayout.io/) - Popular layouts and patterns made with CSS
 * [CSS Reference](https://cssreference.io/) - Visual guide to CSS with usage references
-* [CSS Tricks](https://css-tricks.com/) - Blog with several frontend tutorials
 * [DevSamples](https://www.devsamples.com/) - Easy-to-use code examples for HTML, CSS and JavaScript
 * [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Shape generator with border-radius in CSS
 * [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Interactive color palette to harmonize the front
