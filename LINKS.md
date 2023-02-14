@@ -155,7 +155,7 @@
 * [Shields.io](https://shields.io/) - Badge generator for markdown
 * [Simple CSS Media Query Generator](https://simplecss.eu) - Generate media queries for a specific device size
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Test SSL of websites
-* [Squoosh] - Compress images using the browser
+* [Squoosh](https://squoosh.app/) - Compress images using the browser
 * [StreamYard](https://streamyard.com/) - StreamYard is a live streaming studio in your browser
 * [Swagger](https://swagger.io/) - Tool to design, build, document and use RESTful web services
 * [ASCII Table](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Complete table with ASCII characters
