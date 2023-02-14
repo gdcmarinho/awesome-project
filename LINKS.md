@@ -342,8 +342,6 @@
 * [DevChallenges.io](https://devchallenges.io/) - Site with responsive web projects, front-end and full-stack
 * [Edabit](https://edabit.com/) - Back-end Programming Challenges. integrated IDE
 * [Exercism.io](https://exercism.io/) - Back-end Programming Challenges. No built-in IDE. Requires CLI download.
-* [Flex Box Defense](http://www.flexboxdefense.com/) - Front-end Programming Challenge focused on the flex box property. Integrated IDE.
-* [Flex Box Froggy](https://flexboxfroggy.com/) - Front-end Programming Challenge focused on the flex box property. Integrated IDE.
 * [Front-End Challenges Club](https://piccalil.li/category/front-end-challenges-club) - Blog with front-end programming challenges
 * [Frontend Mentor](https://www.frontendmentor.io/) - Front-end Programming Challenges, community analysis of results, no integrated IDE
 * [HackerRank](https://www.hackerrank.com/) - Backend Programming Challenges. integrated IDE
