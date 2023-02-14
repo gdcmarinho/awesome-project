@@ -52,9 +52,9 @@
 * [TryHackMe](https://tryhackme.com) -  A free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
 ## 📚 Books
-* [Free Tech Books](https://www.freetechbooks.com) - Free technology books and ebooks
-* [GoalKicker](https://goalkicker.com/) - Free programming books
-* [Le livros](https://lelivros.digital/) - The best place for you to download books
+* [Free Computer Books](https://freecomputerbooks.com/) - Free technology books and ebooks
+* [GoalKicker](https://goalkicker.com/) - Programming notes for professionals
+* [Le livros](https://lelivros.digital/) - The best place for you to download all kind of books
 * [Manga Livre](https://mangalivre.net/) - Online reader and host of manga's
 
 ## 🖼 Free stock images
