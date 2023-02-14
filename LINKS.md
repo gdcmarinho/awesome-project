@@ -253,6 +253,7 @@
 * [SweetAlert2](https://sweetalert2.github.io/) - JavaScript library of responsive and customizable alerts
 * [Tailwind CSS](https://tailwindcss.com/) - CSS styling framework
 * [UI Gradients](https://uigradients.com/) - UI Gradients to use
+* [Atmos](http://atmos.style/) - Everything you need to create color palettes
 
 ## 🔮️ Image editing
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Design software for projects
