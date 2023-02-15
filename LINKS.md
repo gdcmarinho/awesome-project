@@ -29,7 +29,6 @@
 * [Flexbox Froggy](http://flexboxfroggy.com/) - Online tool for studying Flexbox (CSS)
 * [Flukeout](http://flukeout.github.io/) - Online application to learn HTML, CSS in a practical way
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Learn how to code for free and earn portfolio helping nonprofits
-* [Git - commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Just a handy guide to get started with Git
 * [Khan Academy](https://pt.khanacademy.org/) - Reputable study platform on gamified learning
 * [Loiane](https://loiane.training/) - Angular, Java, Spring and more...
 * [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Learn) - Learn web development from the professionals
@@ -303,6 +302,7 @@
 * [Elixir](https://elixir-lang.org/) - Functional programming language running on Erlang virutal machine
 * [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Object-oriented and functional programming language
 * [Fortran](https://www.fortran90.org/) - Programming language developed by IBM, used in computer science and numerical analysis
+* [Git](https://git-scm.com/docs) - Git, the stupid content tracker
 * [Go](https://golang.org/) - The Go programming language is an open source project to make programmers more productive
 * [Haskell](https://www.haskell.org/) - Purely functional and statically typed programming language
 * [Java](https://www.java.com/) - Typed, object-oriented and high-performance programming language
