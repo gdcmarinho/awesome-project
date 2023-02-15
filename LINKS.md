@@ -7,11 +7,10 @@
 - [🔧 Development tools](#-development-tools)
 - [📌 Project management](#-project-management)
 - [🔔 Blogs](#-blogs)
-- [📝 IDEs and code editors](#-ides-and-code-editors)
+- [📝 Code editors](#-code-editors)
 - [👨‍🎤️ Frontend](#️-frontend)
 - [🔮️ Image editing](#️-image-editing)
 - [🎠 Icon libraries](#-icon-libraries)
-- [☁ IDE Cloud](#-ide-cloud)
 - [🔤 Developer Docs](#-developer-docs)
 - [🏆 Challenges](#-challenges)
 - [🏨 Hosting](#-hosting)
@@ -198,18 +197,29 @@
 
 
 ## 📝 IDEs and code editors
-* [Beekeeper Studio](https://www.beekeeperstudio.io/) - SQL code editor and database manager
-* [Brackets](http://brackets.io/) - Adobe Code Editor
-* [CodeBlocks](https://www.codeblocks.org/) - IDE for C and C++
-* [Eclipse](https://www.eclipse.org/downloads/) - IBM's free software IDE
-* [Jetbrains IDE's](https://www.jetbrains.com/products/#type=ide) - Whichever technologies you use, there's a JetBrains tool to match
-* [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
-* [NeoVim](https://neovim.io/) - Code editor via terminal
-* [NetBeans](https://netbeans.org/) - Free Apache IDE
-* [Notepad++](https://notepad-plus-plus.org/) - Root code editor
-* [Sublime Text](https://www.sublimetext.com/) - Your license has expired
-* [Visual Studio](https://visualstudio.microsoft.com/en-us/vs/) - Microsoft IDE
-* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft Code Editor
+* Desktop
+  * [Beekeeper Studio](https://www.beekeeperstudio.io/) - SQL code editor and database manager
+  * [Brackets](http://brackets.io/) - Adobe Code Editor
+  * [CodeBlocks](https://www.codeblocks.org/) - IDE for C and C++
+  * [Eclipse](https://www.eclipse.org/downloads/) - IBM's free software IDE
+  * [Jetbrains IDE's](https://www.jetbrains.com/products/#type=ide) - Whichever technologies you use, there's a JetBrains tool to match
+  * [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
+  * [NeoVim](https://neovim.io/) - Code editor via terminal
+  * [NetBeans](https://netbeans.org/) - Free Apache IDE
+  * [Notepad++](https://notepad-plus-plus.org/) - Root code editor
+  * [Sublime Text](https://www.sublimetext.com/) - Your license has expired
+  * [Visual Studio](https://visualstudio.microsoft.com/en-us/vs/) - Microsoft IDE
+  * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft Code Editor
+* Cloud
+  * [CodeAnywhere](https://codeanywhere.com/) - Cloud coding platform
+  * [CodeChef](https://www.codechef.com/ide) - Cloud coding platform
+  * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Various online coding platforms
+  * [Gitpod](https://www.gitpod.io/) - Online IDE for GitHub
+  * [IDE One](https://ideone.com/) - Online IDE for C, Python, Java, etc
+  * [My Compiler](https://www.mycompiler.io/) - Online IDE with support for many languages
+  * [RStudio.Cloud](https://rstudio.cloud/) - Online IDE for coding in R language with GitHub integration
+  * [Repl.it](https://repl.it/) - Cloud coding platform
+  * [Stackblitz](https://stackblitz.com) - Cloud coding platform
 
 ## 👨‍🎤️ Frontend
 * [Animista](animismo.net) - Css animations on demand
@@ -282,17 +292,6 @@
 * [Iconscout](https://iconscout.com/) - Site brings together a large collection of free icons
 * [LineIcons](https://lineicons.com/icons) - 2000+ line icons style
 * [Streamline](https://app.streamlineicons.com) - Library full of icons to use
-
-## ☁ IDE Cloud
-* [CodeAnywhere](https://codeanywhere.com/) - Cloud coding platform
-* [CodeChef](https://www.codechef.com/ide) - Cloud coding platform
-* [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Various online coding platforms
-* [Gitpod](https://www.gitpod.io/) - Online IDE for GitHub
-* [IDE One](https://ideone.com/) - Online IDE for C, Python, Java, etc
-* [My Compiler](https://www.mycompiler.io/) - Online IDE with support for many languages
-* [RStudio.Cloud](https://rstudio.cloud/) - Online IDE for coding in R language with GitHub integration
-* [Repl.it](https://repl.it/) - Cloud coding platform
-* [Stackblitz](https://stackblitz.com) - Cloud coding platform
 
 ## 🔤 Developer Docs
 * [Angular](https://angular.io/) - The modern web developer's plataform
