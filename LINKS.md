@@ -196,7 +196,7 @@
 * [CSS Tricks](https://css-tricks.com/) - Blog with several frontend tutorials
 
 
-## 📝 IDEs and code editors
+## 📝 code editors
 * Desktop
   * [Beekeeper Studio](https://www.beekeeperstudio.io/) - SQL code editor and database manager
   * [Brackets](http://brackets.io/) - Adobe Code Editor
