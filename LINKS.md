@@ -54,8 +54,9 @@
 ## 📚 Books
 * [Free Computer Books](https://freecomputerbooks.com/) - Free technology books and ebooks
 * [GoalKicker](https://goalkicker.com/) - Programming notes for professionals
-* [Le livros](https://lelivros.digital/) - The best place for you to download all kind of books
+* [Le livros](https://lelivros.digital/) - A place for you to download books
 * [Manga Livre](https://mangalivre.net/) - Online reader and host of manga's
+* [zLibrary](https://singlelogin.me/) - The best place for you to download all kind of books
 
 ## 🖼 Free stock images
 * [500px](https://500px.com/creativecommons) - Free Stock Images
@@ -127,7 +128,7 @@
 * [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Check security of a website
 * [Grader](https://website.grader.com/) - Site Rating
 * [Hyper](https://hyper.is/) - Simple, useful and free command line
-* [Invertexto] - text tooling online
+* [Invertexto](https://www.invertexto.com/) - text tooling online
 * [Joomla](https://www.joomla.org/) - Free CMS
 * [JS Bin](https://jsbin.com/) - Code and share HTML, CSS and JS projects
 * [JSCompress](https://jscompress.com/) - Converter from JS to Minified JS code
