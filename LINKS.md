@@ -368,3 +368,4 @@
 * [One.com](https://www.one.com/) - General digital services (including website hosting)
 * [Surge](https://surge.sh/) - Free hosting for static pages
 * [Vercel](https://vercel.com/) - Free static and serverless website hosting
+* [Decentralized Web](https://decentralized-web.vercel.app/) - Free static web page hosting in URLs.
