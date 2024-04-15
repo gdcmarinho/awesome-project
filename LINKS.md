@@ -119,6 +119,7 @@
 * [ES6console](https://es6console.com/) - JS Compiler for Ecmascript
 * [Firebase](https://firebase.google.com/) - Develop amazing mobile and web apps this Google service
 * [Firefox Developer Edition](https://www.mozilla.org/firefox/developer/) - Web browser for web developers
+* [Fireproof](https://github.com/fireproof-storage) - Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-BR) - Capture entire pages with a Chrome extension
 * [generatedata](http://www.generatedata.com/) - Test data generator
 * [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without scouring the web
