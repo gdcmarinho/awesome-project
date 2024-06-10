@@ -45,6 +45,7 @@
 * [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
 * [Desec](https://desecsecurity.com/curso/introducao-pentest) - Introduction to hacking and pentesting
 * [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
+* [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset to check your exposure in global Infostealer malware attacks.
 * [HackTheBox](https://www.hackthebox.com) - A massive, online cybersecurity training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills.
 * [Portswigger](https://portswigger.net/web-security) - Web hacking course
 * [TryHackMe](https://tryhackme.com) -  A free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
